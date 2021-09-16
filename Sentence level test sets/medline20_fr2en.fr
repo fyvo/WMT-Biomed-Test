@@ -1,0 +1,580 @@
+Title
+Seroprevalence de la toxoplasmose chez les femmes enceintes au Benin : meta-analyse et metaregression.
+Abstract
+Afin d'évaluer le niveau de l'infection toxoplasmique chez les femmes enceintes au Bénin, nous avons effectué une méta-analyse selon le protocole PRISMA.
+Étaient éligibles tous les articles de recherche publiés entre 1990 et 2018 sur la toxoplasmose chez les femmes enceintes en consultation prénatale au Bénin.
+Au total, cinq bases de données ont été consultées, puis les données extraites ont été soumises à une méta-analyse sous R 3.1 selon les modèles à effet aléatoire et à effet fixe.
+La séroprévalence de la toxoplasmose chez la femme enceinte était de 47 % (IC 95 % : 40–53) pour les IgG et de 2 % (IC 95 % : 1–3) pour les IgM spécifiques.
+Le taux d'infection en milieu urbain (52 %) était significativement plus élevé qu'en milieu rural (33 %).
+Deux principaux facteurs de risque associés à la toxoplasmose ont été identifiés par les différentes études éligibles : l'âge des gestantes et la consommation de crudités.
+Nous montrons ainsi que la toxoplasmose est endémique chez les femmes enceintes au Bénin, impliquant que des mesures de prévention primaire soient mises en place par les autorités compétentes pour contrôler cette infection.
+Title
+Consequences des transfusions sanguines inappropriees.
+Abstract
+Selon les recommandations internationales, une politique de transfusion libérale est non seulement inutile, mais peut aussi s’avérer néfaste dans certaines situations.
+La transfusion sanguine comporte en effet des risques infectieux, allergiques et hémodynamiques.
+Il est donc nécessaire d’optimiser l’utilisation de cette ressource rare et coûteuse.
+La vignette clinique illustre parfaitement les complications potentielles d’une politique de transfusion jugée trop libérale, tout en insistant sur l’importance du jugement clinique dans chaque situation.
+Title
+Strategie et modalites d'aide a l'arret du tabac chez les fumeurs tuberculeux.
+Abstract
+La tuberculose et le tabagisme sont à l’origine d’une lourde mortalité dans le monde.
+La fumée du tabac augmente les risques d’infection à Mycobacterium tuberculosis et de tuberculose active, appelée tuberculose-maladie (TM) dont le risque de tuberculoses pulmonaires sévères, à bacilles résistants et des décès dus à cette maladie.
+Les patients fumeurs atteints de tuberculose ont une moins bonne observance du traitement antituberculeux que les non-fumeurs.
+Dans les pays à forte incidence de tuberculose où la prévalence du tabagisme tend à augmenter, l’arrêt du tabac représente un moyen de contrôle de l’épidémie de tuberculose.
+L’arrêt du tabac améliore le cours de la tuberculose et favorise sa guérison définitive; il s’accompagne d’une meilleure observance thérapeutique.
+L’OMS a recommandé une coordination entre les programmes nationaux de lutte antituberculeuse et antitabac pour optimiser le contrôle de l’épidémie de tuberculose.
+La mobilisation des professionnels de santé dans l’aide à l’arrêt des fumeurs atteints de tuberculose est requise.
+Title
+Pour un acces facilite aux soins somatiques des adultes en situation de handicap mental severe.
+Abstract
+Afin d’améliorer la prise en charge somatique des patients avec troubles sévères du développement intellectuel et du spectre de l’autisme, un dispositif d’accueil a été mis en place aux Hôpitaux universitaires de Genève (HUG).
+Dans ce dispositif, l’Unité de psychiatrie hospitalière adulte (UPHA), une unité d’intervention complexe (UIC), collabore avec le Programme Handicap des HUG.
+De mai 2018 à mai 2019, 29 demandes d’hospitalisation pour soins ou bilans somatiques, évaluées en amont, ont été acceptées.
+Ces demandes venaient prioritairement des médecins de ville (42 %).
+Un accueil rapide a été organisé en urgence ou avec un délai moyen de 13 jours.
+Les séjours étaient adaptés : le plus souvent courts (48 %), 6 séjours ont été prolongés, avec une durée moyenne de séjour de 103 jours.
+Un cas clinique illustre le type de prise en charge.
+Title
+Les reins : cibles du rechauffement climatique ?
+Abstract
+Au cours des dernières décennies, on observe un nombre croissant de cas d’insuffisance rénale chronique et terminale en Amérique centrale et en Asie.
+Celle-ci touche surtout des jeunes agriculteurs sans autre facteur de risque rénal.
+La symptomatologie inclut une baisse progressive de la filtration glomérulaire, et une protéinurie minime, avec à la biopsie une néphrite tubulo-interstitielle.
+Un lien étroit avec le réchauffement climatique a été évoqué pour cette maladie nommée selon la région néphropathie mésoaméricaine, sri lankaise ou néphropathie d’étiologie inconnue.
+Une autre hypothèse est la consommation d’eau contaminée par des pesticides.
+Dans cet article, nous ferons le point sur cette nouvelle maladie rénale.
+La prévention de l’insuffisance rénale aiguë pendant les périodes de forte chaleur en Suisse est également discutée.
+Title
+Introduction aux réseaux de symptômes en psychopathologie.
+Abstract
+Nous présentons dans cet article les grands principes méthodologiques des réseaux de symptômes en psychopathologie.
+Ceux-ci pourraient constituer une approche alternative au manuel diagnostique et statistique des troubles mentaux (DSM) et aux Research Domain Criteria (RDoC), sans les exclure pour autant.
+Les réseaux de symptômes dépassent ou contournent certaines limites de ces classifications, mais leur avenir est encore incertain : ils devront relever des défis épistémologiques et méthodologiques, tout en parvenant à convaincre la communauté de chercheurs et de cliniciens en santé mentale de leur utilité et de leur qualité.
+Title
+Nouvelle approche de regulation de la demande de soins non planifies : l'application interactive d'auto-triage ODISSEE.
+Abstract
+La régulation de la demande de soins non planifiés fait partie des approches envisagées pour obtenir une meilleure répartition de la demande de soins parmi les différents intervenants de la santé.
+En effet, tant la première ligne de soins que les services d’urgence font face à des flux de patients conséquents, saturant fréquemment les ressources qu’ils possèdent pour y répondre.
+L’apparition de nouvelles technologies et l’entrée dans la pratique courante de la diffusion de l’information médicale se sont révélées être des précurseurs de nouvelles stratégies adaptatives, mais également de nouveaux défis quotidiens.
+La création d’une application interactive permettant l’auto-triage du patient vers la ligne de soins la plus appropriée fait intervenir ces différents concepts.
+Nous avons donc développé une plateforme interactive, l’application ODISSEE (Outil Décisionnel et Informatif des Structures de Soins Efficientes Existantes), permettant au patient d’autoévaluer la gravité de son problème et de bénéficier d’un conseil avisé sur le niveau de soins à envisager.
+Les protocoles utilisés sont directement issus d’un outil créé précédemment dans notre institution et ayant fait ses preuves durant 5 années d’utilisation, l’outil SALOMON (Système Algorithmique Liégeois d’Orientation pour la Médecine Omnipraticienne Nocturne).
+La création d’un système interactif d’auto-triage du patient le guidant vers le niveau de soins le plus approprié pourrait être une méthode prometteuse pour la régulation de la demande de soins non planifiés.
+Title
+Les syndromes de surcroissance segmentaire et les stratégies thérapeutiques.
+Abstract
+Les syndromes de surcroissance sont un groupe de pathologies caractérisées par une croissance excessive généralisée ou segmentaire.
+Les syndromes de surcroissance segmentaires sont principalement dus à des anomalies génétiques apparaissant durant l’embryogenèse et aboutissant à un mosaïcisme.
+Le nombre de patients atteints d’un syndrome de surcroissance avec une mutation identifiée a fortement augmenté grâce à des avancées récentes en génétique moléculaire, en utilisant le séquençage de nouvelle génération (NGS).
+Cette revue détaille les différents syndromes de surcroissance segmentaire ainsi que les voies moléculaires impliquées et les options thérapeutiques envisageables.
+Title
+Prise en charge de l’enfant autiste.
+Abstract
+Prise en charge de l’enfant autiste.
+Les médecins traitants et les pédiatres sont des acteurs essentiels dans la prise en charge de l’autisme. Au-delà du rôle crucial dans le repérage d’un développement atypique chez un enfant, les praticiens de première ligne doivent pouvoir informer les parents en orientant vers les bilans spécialisés nécessaires et faciliter la mise en place des interventions précoces pour garantir les meilleures chances d’évolution.
+La connaissance de la clinique du développement de l’enfant, des particularités liées au trouble du spectre autistique mais également des bilans et types d’interventions préconisées fait donc partie intégrante du rôle du médecin et nécessite une actualisation régulière des connaissances.
+Le médecin traitant et le pédiatre restent, tout au long de l’évolution de l’enfant, en interaction avec les parents et les équipes spécialisées, des partenaires essentiels de cette prise en charge.
+Title
+Définition et rôles du microbiote intestinal.
+Abstract
+Définition et rôles du microbiote intestinal.
+Le microbiote intestinal est l’ensemble des micro-organismes qui colonisent notre tube digestif.
+Un être humain héberge 1013 bactéries dans son tractus digestif, soit autant que de cellules humaines dans son corps.
+Le microbiote contient des bactéries mais aussi des champignons, des virus et des protistes.
+Le microbiote s’installe progressivement après la naissance et est considéré adulte vers l’âge de 3 ans.
+Il peut être modulé par de nombreux facteurs environnementaux et par la génétique de l’hôte.
+Un microbiote déséquilibré (dysbiotique) est observé dans de nombreuses pathologies humaines et joue un rôle dans beaucoup d’entre elles, avec toutefois un poids inégal d’une maladie à l’autre.
+Le microbiote pourrait, dans un avenir proche, servir de biomarqueur diagnostique et pronostique.
+Il est déjà considéré comme un outil ou une cible thérapeutique potentielle.
+OBJECTIF
+Afin d’évaluer l'impact de l’épidémie du VIH et le déploiement du traitement antirétroviral (ART depuis 2004) sur la charge de la tuberculose (TB) spécifique au sexe, à Cape Town, nous avons examiné les changements temporels dans les taux de notification de la TB, le risque relatif de TB associé au VIH et la fraction de risque attribuable à la population (FAP) du VIH par sexe.
+MÉTHODES
+Les notifications annuelles de la TB, les estimations de la population en milieu d'année et de la prévalence du VIH ont été utilisées pour calculer les taux par 100.000 habitants stratifiés par sexe et VIH.
+Les rapports de risque (RR) annuels de TB associé au VIH et la FAP ont été calculés par sexe.
+RÉSULTATS
+Les taux de notification de la TB avant le VIH étaient plus faibles chez les femmes que chez les hommes (146 sur 100.000 contre 247 sur 100.000).
+Avec le début de l’épidémie de VIH, les taux ont augmenté de 5,3 fois chez les femmes (à 778/100.000) et de 3,7 fois chez les hommes (à 917/100.000) pour atteindre un pic en 2008. Puis, ils ont diminué de 25% chez les femmes (à 634/100.000) et de 18% chez les hommes (à 755/100.000) en 2014.
+Les RR de TB associés au VIH étaient 25% plus élevés chez les femmes que chez les hommes en 2006 (25 contre 20), mais ont diminué au même niveau en 2014.
+La FAP du VIH a diminué entre 2008 et 2014, passant de 56% à 50% et de 40% à 38% chez les femmes et les hommes, respectivement.
+CONCLUSIONS
+L’épidémie du VIH a entraîné une augmentation relative du taux de TB chez les femmes supérieure à celle des hommes.
+L'augmentation du risque de TB associé au VIH chez les femmes pourrait être compatible avec la suppression de la protection biologique du sexe féminin par l'infection au VIH.
+La baisse des RR et de la FAP chez les femmes VIH positives pourrait être expliquée par une augmentation de l'utilisation de l’ART inversant la sensibilité liée au sexe féminin.
+Title
+Étude physiopathologique de la myopathie de Bethlem à l’aide d’un modèle de poisson zèbre -
+Abstract
+La myopathie de Bethlem (BM) est une maladie caractérisée par des rétractions et une faiblesse musculaires.
+Cette pathologie résulte de mutations dans un des gènes codant l’une des trois chaînes α du collagène VI (COLVI), un composant de la matrice extracellulaire musculaire squelettique.
+Aujourd’hui, une question non résolue est de comprendre comment l’altération de COLVI présent à l’extérieur des cellules musculaires conduit à des modifications fonctionnelles dans les fibres musculaires.
+Le modèle poisson zèbre col6a1Δex14 est actuellement un modèle animal unique de la BM puisqu’il est le seul à reproduire spécifiquement l’une des mutations la plus fréquemment retrouvée chez les patients.
+Chez les patients et le poisson col6a1Δex14, la structure du réticulum sarcoplasmique est altérée, suggérant une perturbation de l’homéostasie calcique musculaire et/ou des canaux ioniques qui, en contrôlant cette homéostasie, jouent un rôle crucial dans la fonction et la pathogenèse musculaire.
+Notre projet vise ainsi à étudier à l’aide de techniques électrophysiologiques et de mesure de Ca2+ les propriétés des canaux ioniques et la régulation du Ca2+ intracellulaire au repos et en activité dans la fibre musculaire du poisson col6a1Δex14.
+Nos recherches devraient contribuer à mieux comprendre comment la perturbation de la matrice influe sur la fonction musculaire et conduire à terme à identifier des cibles thérapeutiques pour traiter cette maladie actuellement incurable.
+Enfin, du fait de la rareté des études fonctionnelles sur la cellule musculaire de poisson zèbre, ce projet permettra de constituer une base de données de référence sur les propriétés électrophysiologiques de ce modèle.
+Title
+Pratiques de lutte contre les infections dans les banques de sang du Pakistan.
+Contexte
+La mise en oeuvre de normes de lutte anti-infectieuse dans les banques de sang est importante pour prévenir la transmission d’infections transmises par le sang telles que le VIH, l’hépatite B et C. Aucune étude au Pakistan n’a évalué les pratiques dans ce domaine dans les banques de sang du pays.
+Objectifs
+La présente étude visait à évaluer les pratiques de lutte anti-infectieuse eu égard à la sécurité des approvisionnements en sang, la sécurité du personnel et l’élimination des déchets dans les banques de sang de Karachi au Pakistan.
+Méthodes
+Il s’agissait d’une étude transversale.
+Les pratiques de lutte contre les infections de toutes les banques de sang en exploitation à Karachi ont été déterminées au moyen d’un questionnaire structuré suivi d’une intervention éducative.
+Les scores moyens pour l’ensemble des pratiques de lutte contre les infections et les pratiques spécifiques concernant la sécurité des approvisionnements en sang, la sécurité du personnel et l’élimination des déchets ont été calculés et comparés à différents facteurs au moyen d’outils statistiques.
+Résultats
+Les scores de sécurité des patients de 49 (92,5 %) banques de sang se situaient dans la plage satisfaisante, mais les scores concernant la sécurité du personnel et l’élimination des déchets de seulement 26 (49,1 %) et 4 (7,5 %) banques de sang étaient satisfaisantes.
+Des scores significativement plus faibles en ce qui concerne la lutte contre les infections ont été observés pour les banques de sang autonomes et celles qui fonctionnent en l’absence d’un hématologue (valeur p < 0,001).
+La disponibilité de modes opératoires normalisés écrits et de lignes directrices sur la lutte contre les infections était corrélée positivement (valeur p < 0,001) avec les scores moyens de lutte contre les infections.
+Conclusions
+Les banques de sang de Karachi n’appliquent pas les normes de lutte contre les infections, notamment en ce qui concerne la sécurité du personnel et la gestion et l’élimination des déchets.
+L’organisme responsable des transfusions sanguines de la province de Sind devrait prendre des mesures pour accroître la conformité à la lutte contre les infections au sein des banques de sang.
+Contexte
+L’éducation sur les maladies rénales est une des raisons d’être des cliniques multidisciplinaires d’IRC, mais les connaissances des patients suivis dans ces cliniques ne sont pas mesurées de façon systématique.
+Objectif
+Évaluer les connaissances objectives et perçues sur l’insuffisance rénale des patients suivis dans une clinique multidisciplinaire de maladies rénales et déterminer les caractéristiques des patients associées à ces connaissances.
+Type d’étude
+Étude transversale menée sous forme de questionnaire.
+Cadre
+Une clinique multidisciplinaire de suivi des maladies rénales en Ontario (Canada).
+Sujets
+Les patients ne parlant pas anglais, ne pouvant lire en raison d’un important trouble de la vision ou ayant des antécédents de démence ou d’un important déficit cognitif ont été exclus.
+Mesures
+Les connaissances perçues quant à l’insuffisance rénale ont été évaluées à l’aide d’un questionnaire préalablement validé composé de neuf questions (PiKS).
+Chaque question sur la connaissance perçue disposait de quatre choix de réponse allant de « Je n’y connais rien (1) » à « J’en connais beaucoup (4) ». Les connaissances objectives ont été évaluées à l’aide d’un questionnaire préalablement validé (KiKS).
+Méthodologie
+L’association entre les caractéristiques du patient et les connaissances objectives et perçues a été établie par régression linéaire.
+Résultats
+Au total, 125 patients ont été inclus. L’échantillon était composé à 57 % d’hommes dont l’âge médian (SD) était de 66 (13) ans et dont le DFGe médian (SD) s’établissait à 16 (5,9) mL/min/1,73 m2.
+Les scores médians (EIQ) obtenus aux tests de connaissances objectives et perçues étaient respectivement de 19 sur 27 (16-21) et de 2,9 sur 4 (2,4-3,2).
+Seuls 25 % des patients ont répondu correctement que l’IRC peut se manifester en absence de symptômes, et 64 % des patients savaient que les reins produisent l’urine.
+Plus de 60 % des patients avaient l’impression de ne rien connaître ou d’en savoir très peu sur les médicaments qui aident ou qui nuisent aux reins.
+De faibles connaissances objectives et perçues ont été indépendamment associées à un âge plus avancé; ce qui n’a pas été le cas pour le sexe, le revenu et le niveau de scolarité.
+Limites
+L’étude a été menée dans un seul centre.
+Le déficit cognitif a été établi sur la base de l’évaluation informelle de l’équipe soignante ou de la documentation antérieure figurant au dossier. Aucun test cognitif formel n’a été effectué dans le cadre de cette étude.
+Conclusion
+Malgré les multiples ressources disponibles, les connaissances sur l’IRC des patients suivis dans une clinique multidisciplinaire se sont avérées modestes.
+Une étude plus approfondie est requise pour déterminer si de meilleures stratégies d’éducation peuvent améliorer les connaissances des patients, et si l’accroissement de ces connaissances est susceptible d’améliorer les issues cliniques chez les patients.
+Abstract
+Les Etats-Unis d'Amérique ont été les témoins d'une augmentation sans précédent dans le nombre de femmes incarcérées, la plupart étant des mères avec des enfants mineurs.
+De grands problèmes de santé publique sont liés à la santé reproductive des femmes en prison et au bien-être de leurs nourrissons et de leurs jeunes enfants.
+Dans cet article nous utilisons une structure de justice reproductive afin d'examiner l'intersection de l'incarcération et de la santé maternelle et de l'enfant.
+Nous passons en revue: 1) les recherches actuelles sur la santé reproductive des femmes incarcérées, 2) les caractéristiques et les expériences de femmes incarcérées enceintes, 3) les résultats de nourrissons et de jeunes enfants avec des parents incarcérés, 4) les implications des résulats de recherche pour les lois et la pratique, et 5) le besoin de plus de recherches, plus d’éducation publique, plus de promotion et défense.
+Nous recommandons fortement que les lois correctionnelles et les pratiques correctionnelles soient mises à jour afin de traiter et de faire face aux conceptions erronées et à la partialité communes, ainsi qu'aux vulnérabilités uniques et aux besoins de santé des femmes incarcérées et de leurs jeunes enfants.
+Contexte
+Les critères de Beers sur les médicaments potentiellement inappropriés chez les adultes âgés constituent un cadre qui permet d’évaluer la nature d’une pharmacothérapie à risque élevé.
+L’objectif de cette étude était d’utiliser les critères de Beers pour évaluer la prévalence et la nature de la polypharmacologie, l’ampleur des changements de prescriptions en cours d’hospitalisation et l’impact des médicaments potentiellement inappropriés sur l’évolution de l’état de personnes âgées victimes de traumatismes.
+Méthodes
+Nous avons utilisé le Registre albertain des traumatismes pour procéder à une revue rétrospective des patients de 65 ans et plus victimes d’un traumatisme grave (indice de gravité des blessures ≥ 12) admis dans un centre de traumatologie entre janvier 2013 et décembre 2014.
+Nous avons analysé les changements de médicaments prescrits durant le séjour hospitalier au moyen de statistiques descriptives et nous avons évalué le lien entre les médicaments potentiellement inappropriés et les variables pertinentes au moyen d’une analyse de régression multivariée.
+Résultats
+On n’a noté aucun changement significatif entre les médicaments potentiellement inappropriés prescrits avant et après l’admission.
+Le rapport des cotes ajusté pour la mortalité à 30 jours pour chaque médicament potentiellement inapproprié prescrit a été de 2,02 (intervalle de confiance [IC] à 95 % 1,16–3,51) contre 1,24 (IC à 95 % 1,04–1,59) pour chaque médicament additionnel, de tout type.
+Les rapports des taux d’incidence ajustés correspondants pour la durée de l’hospitalisation ont été de 1,15 (IC à 95 % 1,03–1,30) contre 1,05 (IC à 95 % 1,01–1,10).
+Conclusion
+Les médicaments potentiellement inappropriés (selon les critères de Beers) n’ont pas été cessés durant les admissions pour traumatisme.
+L’utilisation des critères de Beers comme indicateur de processus pour l’amélioration de la qualité des soins en traumatologie pourrait fournir aux équipes interdisciplinaires une occasion de vérifier les médicaments prescrits et de cesser ceux qui sont nuisibles à une population vulnérable.
+OBJECTIF
+L'ivermectine est sûr et largement utilisé pour traiter les helminthiases.
+Il tue également les arthropodes se nourrissant sur les sujets traités, y compris les vecteurs du paludisme.
+Ainsi, l'administration en masse d'ivermectine en tant qu'outil supplémentaire de lutte contre le paludisme est actuellement évaluée par l'OMS.
+Comme les données in vitro, les expériences sur animaux et les observations épidémiologiques suggèrent que l'ivermectine a un effet direct sur les stades hépatiques du parasite du paludisme, cette étude a été conçue pour évaluer l'effet prophylactique de l'ivermectine sur l'infection paludéenne humaine par Plasmodium falciparum contrôlée.
+MÉTHODES
+Quatre volontaires ont été randomisés pour un placebo et 8 volontaires ont été randomisés pour recevoir de l'ivermectine à 0,4 mg/kg en une fois par voie orale, 2 heures avant d'être expérimentalement infectés par voie intraveineuse avec 3.200 sporozoïtes de P. falciparum. Une RT-qPCR a été réalisée en parallèle.
+Le critère d'évaluation principal était le temps à la parasitémie détectée par un frottis sanguin épais positif.
+RÉSULTATS
+Tous les volontaires sauf un sont devenus positifs pour les frottis sanguins épais entre le jour 11 et le jour 12 après l'infection et il n'y avait aucun effet significatif de l'ivermectine sur la parasitémie.
+CONCLUSION
+L'ivermectine - à la dose utilisée - n'a aucune activité cliniquement pertinente contre les stades pré-érythrocytaires de P. falciparum.
+Problème
+Au Burkina Faso, la couverture des services de planification familiale est faible, en raison de la pénurie de personnel de santé qualifié et de l'accès limité à ces services.
+Approche
+Suite au lancement du Partenariat de Ouagadougou, alliance destinée à accélérer l'expansion des services de planification familiale, le ministère de la Santé a créé en 2011 un consortium d'acteurs de la planification familiale.
+Ce consortium a adopté un cadre collaboratif pour mettre en œuvre un projet pilote visant à partager les tâches de planification familiale, aux niveaux de la communauté et des centres de soins primaires, dans deux districts ruraux.
+Les différents acteurs étaient responsables de leurs domaines d'expertise, parmi lesquels la sensibilisation, le suivi et l'évaluation, ainsi que le renforcement des compétences des agents de santé communautaires, afin de proposer des contraceptifs oraux et injectables à de nouvelles utilisatrices, et des aides-soignants et sages-femmes auxiliaires, dans le but de poser des implants et des dispositifs intra-utérins.
+Le ministère de la Santé a mis en place des structures d'encadrement faisant intervenir les niveaux concernés de planification et de services.
+Environnement local
+Au Burkina Faso, seules 15% (2563/17 087) des femmes mariées utilisaient des contraceptifs modernes en 2010.
+Changements significatifs
+L'adoption de nouvelles politiques et de nouveaux standards de soins a élargi les rôles de partage des tâches en matière de planification familiale.
+Le consortium a formé un total de 79 agents de santé communautaires et de 124 aides-soignants et sages-femmes auxiliaires.
+Entre janvier 2017 et décembre 2018, les agents de santé communautaires ont délivré des contraceptifs injectables à 3698 nouvelles utilisatrices, et les aides-soignants et sages-femmes auxiliaires ont posé 726 dispositifs intra-utérins et 2574 implants à de nouvelles utilisatrices.
+Aucun problème de sécurité n'a été signalé.
+Leçons tirées
+Ce projet pilote était réalisable et sûr; cependant, des contraintes financières entravent les efforts d'évolution.
+Les structures d'encadrement ont été essentielles à la réussite de ce projet.
+Objectif
+Quantifier la manière dont les changements dans l'enregistrement des causes spécifiques des décès et dans le choix de la cause sous-jacente parmi des causes multiples de décès contribuent aux tendances observées en matière de mortalité par traumatisme accidentel chez les Américains de 65 ans et plus.
+Méthodes
+En utilisant les bases de données en ligne des Centres pour le contrôle et la prévention des maladies aux États-Unis (Centers for Disease Control and Prevention), nous avons extrait les données de mortalité par traumatisme accidentel, standardisées selon l'âge, pour la période comprise entre 1999 et 2016.
+Nous avons utilisé une méthode d'attribution pour calculer deux indicateurs: la proportion de la mortalité associée à des codes spécifiques par rapport à la mortalité totale et la proportion de la mortalité associée à une cause sous-jacente de décès choisie parmi de multiples causes de décès.
+Nous avons réalisé une régression linéaire pour examiner les changements au fil du temps de ces proportions ainsi que de la mortalité enregistrée et de la mortalité ajustée en fonction de l'âge.
+Résultats
+Entre 1999 et 2016, la proportion de la mortalité par traumatisme accidentel associée à une cause spécifique a augmenté dans cette tranche d'âges, en passant de 74% en 1999 (136,9 cas sur 185,0 pour 100 000 habitants) à 85% en 2016 (143,0 cas sur 169,1 pour 100 000 habitants) sur la base des codes de causes multiples de décès.
+Les proportions de la mortalité associée à une cause sous-jacente de décès choisie parmi des causes multiples de décès a augmenté pour toutes les causes spécifiques de traumatismes accidentels, à l'exception des accidents impliquant des véhicules à moteur.
+La mortalité standardisée selon l'âge attribuée aux changements dans l'enregistrement des décès a augmenté de façon continue entre 1999 et 2016.
+Les augmentations pour: tous les types de traumatismes accidentels; les chutes; les accidents impliquant un véhicule à moteur; les étouffements; les intoxications et les expositions à des incendies ou à des substances brulantes ont été respectivement de 24,2; 13,5; 2,1; 2,3; 1,6 et 0,4 décès pour 100 000 habitants.
+Conclusion
+Les changements dans l'enregistrement des données affectent les tendances observées en matière de mortalité générale par traumatisme accidentel et de mortalité par traumatisme accidentel spécifique, au fil du temps, chez les Américains les plus âgés.
+Objectif
+La compréhension des attentes des patientes est prédictive de meilleurs résultats cliniques après une reconstruction mammaire.
+Jusqu’à présent, aucune étude n’a porté sur la manière dont les attentes des patientes à l’égard de la reconstruction mammaire et de la qualité de vie liée à la santé avant l’opération varient dans le temps à compter du diagnostic de cancer du sein.
+Méthodologie
+Les femmes qui ont consulté le cabinet d’un seul chirurgien en vue d’une reconstruction mammaire sur une période de 13 mois ont participé à la présente étude transversale.
+Les patientes ont été invitées à remplir de manière prospective les modules BREAST-Q sur les attentes préopératoires et la reconstruction.
+Les chercheurs ont ensuite procédé à un examen rétrospectif des dossiers des patients admissibles, puis ont colligé des données sur la démographie des patients, les facteurs liés au cancer et les morbidités associées.
+Ils ont transformé les scores BREAST-Q à l’aide du modèle de Rasch équivalent.
+Ils ont construit des modèles de régression linéaire multivariés pour évaluer l’association entre les scores BREAST-Q et la période écoulée depuis le diagnostic de cancer.
+Résultats
+Soixante-cinq patientes respectaient les critères d’inclusion. Elles se caractérisaient par un âge moyen de 53 ± 11 ans (34 à 79 ans) et un indice de masse corporelle moyen de 28 ± 6 (19 à 49).
+La plupart des patientes ont été traitées par mastectomie (58 %) ou lumpectomie (23 %).
+Au moment de l’analyse rétrospective des dossiers, 29 (43 %) avaient subi une reconstruction, dont la plupart avaient été retardées (59 %).
+La latence moyenne entre le diagnostic de cancer et la reconstruction était de 685 ± 867 jours (plage de 28 à 3 322 jours).
+La latence entre le diagnostic de cancer et la reconstruction s’associait à une plus grande anticipation de la douleur (β=0,5; ÉT=0,005; intervalle de confiance [IC] à 95 % de 0,003 à 0,027; P<0,05) et à des anticipations plus basses envers la convalescence (β = -0,5; ÉT = 0,004; IC à 95 % de -0,021 à -0,001; P<0,05) après la reconstruction mammaire.
+La latence entre le diagnostic de cancer et la reconstruction était liée à une augmentation du bien-être psychosocial préopératoire (β = 0,578; ÉT = 0,009; IC à 95 % de 0,002 à 0,046; P<0,05).
+Conclusion
+Le report de la reconstruction mammaire peut avoir un effet négatif sur l’anticipation des patientes à l’égard de la douleur préopératoire et de la convalescence.
+Des interventions pédagogiques pour comprendre et gérer les attentes des patientes pendant la période préopératoire peuvent améliorer la qualité de vie liée à la santé et les résultats cliniques des patientes après la chirurgie initiale d’un cancer du sein.
+INTRODUCTION
+La testostérone et l'ocytocine sont des mécanismes psychobiologiques qui sont interdépendants de la qualité de la relation entre les parents, ainsi que de la quantité et la qualité des comportements parentaux, et ainsi affectent les résultats de l'enfant.
+Leur production conjointe basée sur les dynamiques familiales a rarement été testée, en particulier de manière transculturelle.
+MÉTHODEIS
+Nous avons investigué la fonction familiale, la testostérone et l'ocytocine chez les mères et les pères d'une micro société de pêcheurs-agriculteurs en République du Congo.
+Les pères se sont eux-mêmes classés dans trois domaines de la vie familiale relatif au modèle culturel local de la paternité.
+RÉSULTATIS
+Les pères qui étaient considérés comme de meilleurs pourvoyeurs avaient relativement moins d'ocytocine et plus de testostérone que les hommes considérés comme des moins bons pourvoyeurs, ces derniers ayant des taux de testostérone plus bas et des taux d'ocytocine plus haut.
+Les pères présentaient également des taux plus élevés de testostérones et plus bas d'ocytocine dans les mariages plus conflictuels, alors que ceux engagés dans des mariages moins conflictuels présentaient une testostérone réduite et une ocytocine plus élevée.
+En revanche, les mères dans les mariages en conflit ont montré les profils opposés de testostérone relativement faible et d'ocytocine plus élevée.
+Les mères avaient des taux d'ocytocine et de testostérone plus élevés si les pères n'étaient pas impliqués directement dans les soins, tandis que les mères présentaient un schéma opposé pour les deux hormones si les pères étaient considérés comme impliqués dans les soins directs.
+CONCLUSIONS
+Ces résultats ont jeté un nouvel éclairage sur les profils doubles de l'ocytocine et de la testostérone chez les parents, dans un nouveau contexte de micro société et ont mis en évidence la flexibilité de la psychobiologie parentale humaine lorsque les rôles et les fonctions des pères au sein des familles varient d'une culture à l'autre.
+INTRODUCTION
+La majorité des études sur l’exposition à la fumée du tabac et la qualité du sommeil se fondent sur le tabagisme autodéclaré, ce qui peut entraîner des erreurs de classification de l’exposition et des biais liés à l’autodéclaration.
+L’objectif de cette étude consistait à étudier les associations entre la concentration de cotinine urinaire – un marqueur biologique de l’exposition à la fumée du tabac – et diverses mesures de la qualité du sommeil, soit le temps de sommeil, la continuité ou l’efficacité du sommeil, la satisfaction à l’égard du sommeil et le degré de vigilance durant les heures normales d’éveil.
+MÉTHODOLOGIE
+À l’aide des données d’un échantillon national de 10806 adultes (âgés de 18 à 79 ans) tiré de l’Enquête canadienne sur les mesures de la santé (2007-2013), nous avons effectué des analyses de régression logistique binaire pour estimer les associations entre concentration de cotinine urinaire et mesures de la qualité du sommeil, en tenant compte des facteurs de confusion éventuels.
+De plus, nous avons effectué une régression logistique ordinale pour évaluer les associations entre concentration urinaire de cotinine et présence d’un nombre plus élevé de troubles du sommeil.
+RÉSULTATS
+Dans l’ensemble, 28,7 % des répondants à l’enquête ciblant les adultes canadiens présentaient des concentrations de cotinine urinaire supérieures à la limite de détection, et la prévalence de chaque trouble du sommeil variait entre 5,5 % et 35,6 %.
+Une concentration élevée de cotinine dans l’urine (4e quartile par rapport à une concentration inférieure à la limite de détection) était associée à une probabilité significativement plus élevée d’avoir un temps de sommeil trop court ou trop long (rapport de cotes [RC] = 1,41; IC à 95 % : 1,02 à 1,95; tendance p = 0,021), d’avoir de la difficulté à s’endormir ou à rester endormi (RC = 1,71; IC à 95 % : 1,28 à 2,27; tendance p = 0,003), de ressentir une insatisfaction à l’égard du sommeil (RC = 1,87; IC à 95 % : 1,21 à 2,89; tendance p = 0,011) et de présenter un nombre plus élevé de troubles du sommeil (RC = 1,64; IC à 95 % : 1,19 à 2,26; tendance p = 0,001).
+Les relations observées étaient plus marquées chez les femmes que chez les hommes.
+CONCLUSION
+Notre étude, qui a fait appel à un marqueur biologique de l’exposition à la fumée du tabac, contribue à l’ensemble de la littérature traitant de l’effet de l’exposition aux substances toxiques de l’environnement sur la qualité du sommeil en montrant qu’il existe une relation entre l’exposition à la fumée du tabac et un sommeil de mauvaise qualité.
+Pour tenir compte des limites inhérentes à la nature transversale du plan d’étude et pour mieux évaluer les effets sur le long terme de l’exposition à la fumée de tabac sur la qualité du sommeil, il est nécessaire de réaliser des études longitudinales.
+Points saillants
+Plus du quart des participants à l’étude présentaient des concentrations détectables de cotinine urinaire, ce qui indique qu’une forte proportion d’adultes canadiens subirait une exposition active ou passive à la fumée du tabac.
+Un sommeil de mauvaise qualité était un problème fréquemment signalé, près du tiers des répondants adultes ne bénéficiant pas du nombre d’heures de sommeil recommandées.
+Des taux élevés de cotinine urinaire ont été associés à des probabilités plus élevées d’avoir un temps de sommeil trop court ou trop long, d’avoir de la difficulté à s’endormir ou à rester endormi, de ressentir une insatisfaction à l’égard du sommeil et de présenter davantage de troubles du sommeil.
+L’association entre la présence de fortes concentrations de cotinine urinaire et un sommeil de mauvaise qualité était plus marquée chez les femmes que chez les hommes.
+Title
+Déterminer la dose à injecter lors des premières études cliniques menées avec un anticorps monoclonal - Pas si simple !
+Abstract
+Les anticorps monoclonaux constituent une arme thérapeutique de plus en plus utilisée en oncologie car ils permettent de cibler très précisément les cellules cancéreuses tout en présentant l’avantage d’épargner les cellules saines des effets du traitement, avec, par conséquent, une réduction très importante de la toxicité.
+L’absence de toxicité significative et d’une relation directe entre dose et efficacité pour les anticorps rendent toutefois peu utiles les méthodes de sélection de la dose traditionnellement utilisées pour les médicaments de chimiothérapie.
+Il n’existe toutefois pas de consensus sur des paramètres alternatifs qui permettraient de sélectionner pendant les essais de phase précoce la meilleure dose de ces molécules pour le développement clinique ultérieur.
+Introduction
+Les patientes classées comme présentant une entorse à la cheville sont généralement traitées avec une approche d’intervention multimodale.
+À l’heure actuelle, la protection et la guérison des tissus représentent les formes de soins les plus largement acceptées pour ces patientes.
+Exposé de cas
+Six patients (4 hommes et 2 femmes) âgés de 20,2 ± 1,3 ans présentaient une entorse latérale de la cheville aiguë de grade I. Chaque patient a été traité soit avec la mobilisation fibulaire avec mouvement (FMWM) ou la mobilisation fibulaire modifiée avec mouvement (MFMWM).
+Gestion et résultats
+Les résultats cliniques pour les patients traités avec les deux mobilisations fibulaires avec mouvement se sont améliorés et les patients retournent à leurs niveaux d’activité environ trois jours après trois traitements.
+Discussion
+Au fur et à mesure que la médecine avance et explore de nouvelles théories pour la pratique clinique de réadaptation, il est nécessaire d’évaluer les interventions sur les patients.
+Cette série de cas exploratoires prospectifs a été rédigée dans le but de partager une intervention clinique, le concept Mulligan, ainsi que les résultats obtenus chez les patients présentant une entorse latérale de la cheville.
+Problème
+Le Bangladesh n'est doté d'aucun système national pour enregistrer les décès et déterminer leurs causes.
+Les responsables politiques ne disposent donc pas de données fiables et complètes pouvant servir de base à la prise de décisions en matière de santé publique.
+Approche
+En 2016, le gouvernement du Bangladesh a mis en place un projet pilote destiné à renforcer le système des registres et des statistiques de l'état civil et à obtenir des données sur les causes de décès dans l'upazila de Kaliganj.
+Des agents sanitaires de proximité ont appris à notifier les naissances et les décès à l'officier de l'état civil, et à réaliser des autopsies verbales auprès des membres de la famille d'une personne décédée.
+Des experts internationaux de la certification des causes de décès et du codage ont appris à des formateurs principaux à remplir le certificat médical international indiquant la cause du décès.
+Ces formateurs ont ensuite formé des médecins et des codeurs.
+Environnement local
+L'upazila de Kaliganj compte quelque 304 600 habitants et enregistre environ 5600 naissances et 1550 décès par an.
+Des aides-soignants et des auxiliaires en matière de protection de la famille effectuent des visites à domicile régulières pour suivre certains résultats cliniques.
+Changements significatifs
+À la suite du lancement du projet en 2016, le nombre de naissances enregistrées en 45 jours est passé de 873 à 4630 en 2018.
+Le nombre de décès enregistrés en 45 jours est passé de 458 à 1404.
+Au cours de cette période, les aides-soignants ont réalisé 7837 autopsies verbales.
+Entre janvier 2017 et décembre 2018, 105 formateurs principaux et plus de 7000 médecins ont appris à remplir le certificat médical international indiquant la cause du décès, et ils ont rempli plus de 12 000 certificats.
+Leçons tirées
+La formation d'agents sanitaires de proximité, de médecins et de codeurs s'est révélée efficace pour améliorer l'enregistrement des décès et accroître la disponibilité de données sur les causes de décès.
+Objectif
+Évaluer la composition hommes-femmes des contributeurs aux directives de l'Organisation mondiale de la Santé (OMS) publiées de 2008 à 2018.
+Méthodes
+Nous avons recherché des directives dans la base de données du Comité d'évaluation des directives de l'OMS.
+Nous en avons extrait des données concernant les directives (titre, année de parution) et les personnes qui y ont participé (nom, rôle, sexe).
+Les rôles étaient les suivants: membre ou président de groupe d'élaboration de directives, groupe de pilotage de l'OMS, réviseur externe ou méthodologiste.
+Nous avons utilisé des statistiques descriptives pour analyser la composition hommes-femmes de chaque rôle et la part de femmes membres ou présidentes de groupes d'élaboration de directives.
+Résultats
+Nous avons étudié 230 directives sur lesquelles étaient intervenues 13 329 personnes: 219 directives (95,2%) mentionnaient un groupe d'élaboration de directives (4912 personnes).
+Ces groupes comptaient plus d'hommes (2606; 53,1%) que de femmes (2241; 45,5%) parmi leurs membres.
+La proportion médiane de femmes membres par directive était de 47,1% (intervalle interquartile: 35,7–56,3).
+La moitié des directives (110; 50,2%) avaient été élaborées par un groupe composé de 40,1% à 60% de femmes et 75 directives (34,2%) comptaient ≤ 40% de femmes dans le groupe.
+Certaines améliorations ont été observées entre 2016 et 2018: un quart des groupes était composé de ≤ 40,0% de femmes en 2016 et 2017, proportion qui était passée à 9,1% en 2018.
+Sur 243 présidents de groupes, 145 (59,7%) étaient des hommes et 96 (39,5%) des femmes.
+Conclusion
+La participation à un panel sur les directives dans le domaine de la santé mondiale est un rôle prestigieux.
+La sous-représentation des femmes dans la plupart des rôles liés aux directives de l'OMS montre que des inégalités persistent, alors même que des normes et des politiques appellent à un équilibre hommes-femmes.
+Il conviendrait de renforcer les mécanismes de responsabilisation et de comprendre les causes profondes de ce déséquilibre.
+Abstract
+Les allergies aux pollens représentent une cause majeure de rhinite allergique saisonnière en Amérique du Nord.
+Cette rhinite, qui touche actuellement 17 % des adultes au Québec, est en augmentation marquée depuis 30 ans.
+Les pollens de l’herbe à poux (Ambrosia artemisiifolia L.) sont responsables de 50 à 90 % des rhinites.
+Les changements climatiques ont joué un rôle significatif dans l’augmentation de la prévalence de la rhinite allergique saisonnière dans les dernières décennies.
+La Stratégie québécoise de réduction de l’herbe à poux et des autres pollens allergènes a été mise en place en 2015 pour s’y attaquer.
+Basée sur des données probantes, la Stratégie privilégie la concertation entre les parties prenantes et l’intégration de mesures de contrôle dans les pratiques d’entretien des municipalités et autres grands propriétaires fonciers, publics comme privés.
+Cet article présente les données scientifiques qui appuient la Stratégie ainsi que les premiers succès des interventions menées dans ce cadre.
+Points Saillants
+Les changements climatiques augmentent les quantités et le potentiel allergène du pollen de l’herbe à poux (ambroisie).
+La rhinite allergique saisonnière liée à ces pollens est en augmentation marquée en Amérique du Nord.
+Des moyens de contrôle environnemental simples peuvent diminuer cliniquement l’impact du pollen de l’herbe à poux.
+Une politique concertée qui intègre des mesures de contrôle dans les pratiques d’entretien des terrains par les municipalités est en implantation au Québec.
+Abstract
+Durant la dernière décennie, des études ont transformé notre vue simpliste des microbes, ceux-ci n’ayant par le passé à nos yeux qu’un rôle pathogène dans les maladies, en une compréhension plus exhaustive de leur rôle critique dans le maintien de la bonne santé humaine.
+En fait, notre microbiote – l’ensemble des organismes commensaux qui vivent en nous et sur nous – contribue à pratiquement toutes les facettes de la physiologie hôte, depuis l’ontogénèse du système immunitaire en passant par les fonctions neurologiques jusqu’au métabolisme.
+Bien que les détails spécifiques des interactions entre le microbiote et son hôte soient encore à élucider pour la plupart des maladies, les rapprochements d’échantillons cliniques avec des modèles animaux de maladies ont apporté des éclaircissements clés.
+Cet article présente un exposé général de ce qu’est le microbiote, met en lumière quelques exemples sur la manière dont le microbiote a un impact sur certaines maladies du système nerveux central, et fournit une perspective sur la façon dont ces découvertes pourraient se traduire cliniquement.
+Abstract
+La présente étude visait à déterminer l’effet d’une injection unique de paracétamol sur la réponse de la concentration alvéolaire minimale (MAC) de sévoflurane à une stimulation mécanique nocive.
+Sept chiens adultes en santé de race Beagle participèrent à une étude croisée prospective, randomisée, et à l’aveugle.
+L’anesthésie fut induite avec du propofol [11,6 ± 2,4 mg/kg de poids corporel (BW)] et maintenue avec du sévoflurane.
+La MAC fut déterminée avant (MAC-1) et après (MAC-2) traitement par voie intraveineuse (IV) avec 15 mg/kg BW de paracétamol ou de saline sur une période de 15 minutes.
+Des échantillons pour déterminer le paracétamol plasmatique furent prélevés immédiatement après l’administration IV du traitement et suivant la détermination de MAC-2 (123 ± 27 minutes après le début de l’administration de paracétamol).
+La valeur de MAC-1 était similaire entre les traitements (1,7 % ± 0,4 %).
+Il n’y avait pas de différence entre les groupes témoins et paracétamol à MAC-2 (2,0 % ± 0,4 % et 1,7 % ± 0,5 %, respectivement; P = 0,285).
+Les concentrations plasmatiques de paracétamol après l’administration de paracétamol étaient de 34,5 ± 9,9 μg/mL, et diminuaient à la fin de la procédure (8,5 ± 4,2 μg/mL).
+En conclusion, 15 mg/kg de BW de paracétamol par voie IV n’a pas réduit de manière significative la MAC de sévoflurane chez des chiens en santé.
+Abstract
+Une étude transversale a été réalisée au cours des mois d’avril et de mai 2015 dans cinq régions d’Arabie saoudite afin d’élucider l’épidémiologie de l’infection par le coronavirus responsable du syndrome respiratoire du Moyen-Orient(MERS–CoV) chez les dromadaires (Camelus dromedarius).
+Des échantillons de sérum et des écouvillons nasaux prélevés de dromadaires ont été analysés afin de détecter la présence d’anticorps dirigés contre le MERS-CoV ou d’ARN de ce même virus, en utilisant respectivement une épreuve immuno-enzymatique recombinante (ELISAr) et une amplification en chaîne par polymérase couplée à une transcription inverse (PCR–RT) en temps réel.
+La prévalence sérologique globale des anticorps dirigés contre le MERS-CoV s’élevait à 80,5 %, tandis que la prévalence globale de l’ARN viral était de 2,4 %. Les corrélations entre les facteurs de risque et les prévalences obtenues ont été quantifiées au moyen d’analyses à une seule et à plusieurs variables.
+Les modèles à plusieurs variables ont fait apparaître une association significative (p ??0,05) entre la prévalence sérologique et les facteurs suivants : la région, l’âge des animaux, le système pastoral pratiqué, l’exposition à la faune sauvage et l’élimination du fumier.
+La probabilité d’une forte prévalence sérologique était plus élevée chez les dromadaires provenant des régions de Riyad, de l’Est, du Nord et de la Mecque que chez ceux de la région de Jizan ; chez les dromadaires âgés de plus de quatre ans, ou âgés d’un à trois ans (différence marginalement significative) plutôt que chez les jeunes de moins d’un an ; et enfin chez les dromadaires nourris en stabulation (zéro pâturage) ou en pâturage semi-ouvert plutôt que chez ceux nourris dans des systèmes de pâturage ouvert.
+En revanche, une corrélation négative a été constatée entre la prévalence sérologique d’une part et la présence d’animaux sauvages et/ou l’élimination quotidienne du fumier, d’autre part.
+En ce qui concerne la détection virale, une corrélation significative (p ??0,05) a été constatée entre la région et le sexe des animaux et la prévalence de l’ARN du MERS-CoV.
+La probabilité d’une prévalence plus élevée de l’ARN viral était plus prononcée chez les dromadaires des régions de Riyad et de l’Est (différence marginalement significative) que chez ceux de la région de La Mecque, et chez les mâles que chez les chamelles.
+En conclusion, les facteurs de risque identifiés dans cette étude peuvent servir d’annonciateurs de l’infection par le MERS-CoV chez les dromadaires et devraient être pris en compte pour élaborer une stratégie efficace et rentable de lutte contre cette maladie.
+Title
+Renforcement de la surveillance pour le dépistage précoce de l’infection par le virus Zika : stratégies destinées aux pays de la Région de la Méditerranée orientale.
+Contexte
+L’infection par le virus Zika est à l’origine d’importantes flambées épidémiques dans les régions tropicales et subtropicales.
+Aucun cas d’infection par le virus Zika n’a encore été signalé dans les pays de la Région de la Méditerranée orientale malgré la présence, dans nombre d’entre eux, de moustiques compétents du genre Aedes, vecteurs du virus.
+Objectifs
+La présente étude porte sur les stratégies de surveillance à mettre en oeuvre pour le dépistage précoce de l’infection par le virus Zika, particulièrement important dans les pays de la Région de Méditerranée orientale où des populations d’Aedes sont établies mais dans lesquels aucune transmission autochtone de ce virus n’est connue ou documentée à ce jour.
+Méthodes
+Par l’intermédiaire d’un processus consultatif et d’examen des données disponibles, le Bureau régional de l’OMS pour la Méditerranée orientale a développé un cadre stratégique en vue d’améliorer la surveillance de l’infection par le virus Zika dans les pays de la Région de Méditerranée orientale où sont établies des populations d’Aedes.
+Résultats
+Afin de dépister de façon précoce l’infection par le virus Zika, ce cadre préconise une meilleure surveillance en recourant à la fois à la surveillance syndromique et basée sur les événements.
+Conclusions
+Le renforcement de la surveillance du virus Zika n’impliquerait pas le changement du système actuel.
+Un certain nombre d’aspects devraient être pris en compte afin d’intégrer ces approches de surveillance syndromique et basée sur les événements dans le système existant.
+Title
+Comparaison entre la prise alimentaire limitée dans le temps et le jeûne islamique : étude de portée.
+Contexte
+La recherche sur les bienfaits du jeûne pour la santé se développe ; ceci inclut la prise alimentaire limitée dans le temps et le jeûne islamique.
+Objectifs
+Le présent article a pour objectif de passer en revue et de souligner les similitudes et les différences entre la prise alimentaire limitée dans le temps et le jeûne islamique pendant le Ramadan.
+Méthodes
+Une étude de portée a été entreprise pour identifier les articles pertinents qui répondaient à la question de recherche : quelles sont les similitudes et les différences dans les caractéristiques de la prise alimentaire limitée dans le temps et du jeûne islamique ?
+Des recherches ont été réalisées sur MEDLINE/PubMed en utilisant les termes : prise alimentaire limitée dans le temps et poids.
+Les critères d'inclusion étaient les suivants : articles de recherche originaux et analyses, rédigés en anglais et publiés entre 2000 et 2017.
+Résultats
+Au total, 25 articles correspondant à la question de recherche ont été inclus dans l’analyse : 15 articles de recherche originaux et 10 analyses.
+Les résultats laissent penser que le jeûne du Ramadan est une forme de prise alimentaire limitée dans le temps dans le contexte contemporain en raison de la période où l'alimentation n'est pas autorisée.
+La durée du jeûne signalée dans les cas d'alimentation à durée limitée variait de 4 à 24 heures, ce qui est plus long que dans le cas du jeûne islamique, qui dure entre 8 et 20 heures.
+On a constaté que la prise alimentaire limitée dans le temps et le jeûne islamique ont des effets positifs sur la santé, y compris la perte de poids.
+Conclusion
+L'alimentation limitée dans le temps et le jeûne islamique présentent de nombreuses caractéristiques similaires ainsi quet des effets positifs sur la santé constatés.
+Contexte
+Bien qu'il soit sûr et efficace, le DIU au cuivre est sous-utilisé en Afrique subsaharienne, faute, en partie, de prestataires formés.
+L'Organisation mondiale de la Santé recommande la formation de prestataires de niveau intermédiaire — personnel infirmier et sages-femmes — pour la pose du DIU. La sécurité de cette délégation de tâches n'a cependant pas été évaluée en Afrique subsaharienne.
+Méthodes
+Les données proviennent d'enquêtes de base et de graphiques d'étude concernant 535 femmes sexuellement actives âgées de 18 à 45 ans qui utilisaient un DIU au cuivre dans le cadre d'un essai clinique de prévention du VIH réalisé d'août 2012 à juin 2015 en Afrique du Sud, au Malawi, en Ouganda et au Zimbabwe.
+Les DIU avaient été posés par les médecins, infirmières et sages-femmes de l'étude, formés dans le cadre de l'essai, ainsi que par des prestataires locaux extérieurs à l'étude.
+Le test chi carré et la méthode exacte de Fisher ont servi à comparer l'expérience d'effets indésirables — tels que saignements irréguliers, douleurs pelviennes ou expulsion du DIU — vécus par les femmes suivant le type de prestataire.
+Par rapport aux femmes dont le DIU avait été posé par un médecin ou une infirmière de l'étude, de plus grandes proportions de celles qui avaient obtenu leur dispositif d'un prestataire extérieur à l'étude ont signalé un effet indésirable quelconque (76% contre 49% et 51%, respectivement), des saignements irréguliers (57% contre 41% et 45%) et des douleurs pelviennes (35% contre 15% et 32%).
+Les taux d'expulsion sont comparables pour les infirmières de l'étude et les prestataires extérieurs (12,3 et 11,9 pour 100 femmes-années, respectivement), mais il est moindre pour les médecins de l'étude (7,3 pour 100 femmes-années).
+Conclusions
+Les résultats sont favorables à la délégation de la pose du DIU aux prestataires de niveau intermédiaire pour améliorer l'accès au DIU en Afrique subsaharienne.
+Title
+Anticorps biosimilaires versus princeps - L’expérience en rhumatologie et les biosimilaires du trastuzumab en oncologie.
+Abstract
+Les biosimilaires sont des produits ayant montré leur équivalence avec le traitement biologique de référence, selon un cahier des charges strict imposé par les agences d’enregistrement, la FDA et l’EMA.
+Leur développement et leur utilisation sont justifiés par le coût très élevé des biomédicaments, et de fortes incitations à leur prescription font espérer des économies substantielles, permettant le financement d’autres molécules innovantes.
+Le trastuzumab a marqué l’histoire des traitements du cancer du sein, quatre biosimilaires étant désormais disponibles pour une utilisation en routine. Nous détaillerons ici les points clés de leur développement.
+Abstract
+Le but de cet article était d'examiner la psychométrie du Questionnaire Mes Emotions, une auto-évaluation conçue pour évaluer les réactions émotionnelles des mères lorsque leurs bébés pleurent.
+Les participantes étaient 240 mères pour la première fois.
+Lorsque les bébés avaient 6 mois et 1 an, les mères ont rempli le nouveau questionnaire et les mesures évaluant les croyances et les réactions comportementales aux pleurs du bébé et des mesures basées sur des entretiens de réactions émotionnelles des mères et les attributions causales sur les pleurs ont été administrées.
+La sensibilité maternelle et les comportements négatifs ont été observés lorsque les enfants avaient 6 mois, 1 an, 2 ans.
+Les mères ont fait état de leurs disciplinaires quand les enfants avaient 2 ans.
+Cinq facteurs d’émotion ont émergé, basé sur l'analyse des facteurs exploratoires des données de 6 mois : amusement, anxiété, frustration, sympathie et protectrice.
+La structure de 5 facteurs a été soutenue au travers d'une analyse des facteurs de confirmation des données d'une année.
+Toutes les échelles ont démontré une fiabilité adéquate de la cohérence interne et une stabilité importante de 6 mois à 1 an.
+L'amusement, la frustration et la protection ont démontré la meilleure validité convergente avec les cognitions des pleurs et la validité prédictive aux mesures de parentages suivies par de l'anxiété, bien que les effets avaient tendance à être petits à modérés.
+Les preuves de la validité de la sympathie étaient moins convaincantes.
+L'utilité potentiel du questionnaire pour les recherches de base et les recherches appliquées sont discutées.
+Contexte
+On en sait peu sur les attentes en matière de recherche et de formation auxquelles doivent aujourd’hui répondre les diplômés en chirurgie générale qui souhaitent poursuivre une carrière professorale dans le domaine.
+Nous décrivons ici l’évolution du parcours des professeurs de chirurgie générale canadiens à partir des tendances de productivité en recherche durant la résidence et de formation théorique et pratique après la résidence.
+Méthodes
+Nous avons formé une cohorte transversale de professeurs de chirurgie générale adjoints, agrégés et titulaires affiliés à un établissement universitaire canadien à partir du répertoire en ligne du Collège royal des médecins et chirurgiens du Canada ainsi que des répertoires figurant sur les sites Web des universités et des hôpitaux.
+Les variables examinées comprenaient l’établissement, le poste et le rang occupés, l’année d’obtention du diplôme, les études supérieures, la formation postdoctorale et la productivité en recherche.
+Résultats
+La cohorte était constituée de 417 chirurgiens représentant 17 établissements universitaires canadiens.
+La majorité d’entre eux étaient des hommes (72,9 %), avaient effectué au moins 1 stage postdoctoral (72,9 %) et avaient reçu une formation supplémentaire en recherche (51,8 %).
+Le nombre d’années de pratique médian était de 17 (10 à 27) ans.
+Le nombre moyen de publications des membres de la cohorte à titre de coauteur et d’auteur principal a augmenté chaque décennie jusqu’aux années 1980 (p < 0,001).
+Le pourcentage des professeurs de chirurgie ayant un diplôme d’études supérieures a aussi augmenté de façon constante d’une décennie à l’autre, pour atteindre 61,5 % dans les années 2010.
+Conclusion
+Les professeurs de chirurgie canadiens font de plus en plus de recherchedurant la résidence, sont plus nombreux à poursuivre des études à des niveaux supérieurs et effectuent plus de stages postdoctoraux que jamais.
+Ces changements s’expliquent probablement par l’évolution du marché de l’emploi et du financement en recherche, 2 facteurs qui exercent une pression énorme sur les chirurgiens en formation.
+Abstract
+Les Asiatiques du sud originaires du sous-continent indien (Inde, Pakistan, Sri Lanka, Bangladesh, Népal et Bhoutan) représentent le quart de la population mondiale et constituent la plus importante minorité visible au Canada.
+C’est aussi au sein de cette population qu’on observe les taux de coronaropathie les plus élevés au Canada.
+Bien que les facteurs de risque cardiovasculaire classiques conservent leur valeur prédictive chez les Asiatiques du sud, ils n’expliquent pas à eux seuls le risque excédentaire observé.
+L’obésité abdominale, le syndrome métabolique et l’insulinorésistance constituent vraisemblablement des facteurs de risque plus importants chez les Asiatiques du sud que dans les autres populations.
+La South Asian Heart Alliance a récemment été mise sur pied afin d’explorer les stratégies exemplaires pour la prévention des maladies cardiométaboliques chez les Asiatiques du sud au Canada et de formuler des recommandations à cet égard.
+Cette revue thématique présente un aperçu de l’importance des maladies cardiovasculaires au sein de la population des Asiatiques du sud du Canada, ainsi qu’un résumé des marqueurs de risque classiques et nouveaux dans cette population.
+Les auteurs proposent des stratégies de prévention primaire et secondaire adaptées, dans la mesure du possible, à la population des Asiatiques du sud.
+Ils font également ressortir l’importance de sensibiliser davantage les Asiatiques du sud et les professionnels de la santé aux risques et aux solutions possibles, ainsi que la nécessité de mener des recherches axées sur cette population particulière.
+Objectif
+Estimer les coûts et les réductions de la mortalité liés à un ensemble d'interventions essentielles en santé pour les populations urbaines au Bangladesh et en Inde.
+Méthodes
+Nous avons utilisé des données démographiques provenant des recensements des pays et de la Division de la population des Nations Unies.
+Concernant les causes de la mortalité en Inde, nous avons utilisé un document intitulé « Indian Million Death Study ». Nous avons obtenu des estimations du coût de chaque intervention à partir de la troisième édition du rapport « Disease control priorities ». Pour estimer les réductions de la mortalité attendues grâce à l'ensemble des interventions, nous avons utilisé le modèle du projet Disease control priorities.
+Nous avons calculé le rapport avantages-coûts de l'investissement dans cet ensemble d'interventions à l'aide d'une analyse fondée sur la méthode du Consensus de Copenhague.
+Résultats
+Les coûts totaux par habitant en milieu urbain pour l'ensemble des interventions seraient de 75,1 dollars des États-Unis (US$) au Bangladesh et 105,0 US$ en Inde.
+Sur ces sommes, la prévention et le traitement des maladies non transmissibles représentent 36,5 US$ au Bangladesh et 51,7 US$ en Inde.
+Le surcoût par habitant en milieu urbain pour toutes les interventions serait de 50 US$ au Bangladesh et 75 US$ en Inde.
+En 2030, les décès évités chez les personnes âgées de moins de 70 ans représenteraient 30,5% (1027/3362) et 21,2% (828/3913) du nombre de décès estimé de référence au Bangladesh et en Inde, respectivement.
+Les effets bénéfiques pour la santé de l'investissement dans l'ensemble des interventions permettraient un rendement de 1,2 US$ par dollar dépensé au Bangladesh et 1,8 US$ par dollar dépensé en Inde.
+Conclusion
+L'investissement dans l'ensemble d'interventions essentielles en santé, qui répond aux besoins en soins de santé de la population urbaine croissante au Bangladesh et en Inde, semble bénéfique et pourrait aider les pays à atteindre leurs objectifs de développement durable à l'horizon 2030.
+Contexte
+Les patients recevant une hémodialyse intermittente (HDI) présentent un risque élevé de contracter des infections à Gram positif, souvent traitées à l’aide de vancomycine par intraveineuse (IV).
+Malgré l’utilisation fréquente de la vancomycine dans les environnements d’HDI, les pratiques portant sur le dosage et le suivi varient entre les cliniciens de l’institution où l’étude s’est déroulée.
+Il existe également peu de données probantes sur la dose optimale de vancomycine permettant d’atteindre la concentration sérique cible avant l’HDI.
+Objectifs
+L’objectif principal visait à comparer le pourcentage de traitements à la vancomycine, dont la concentration sérique se situait entre 15 et 20 mg/L, lors de la mesure prise avant la troisième séance de HDI, avant et après la mise en place d’un protocole de dosage basé sur le poids.
+Les objectifs secondaires visaient à comparer le pourcentage de traitements, dont la concentration de vancomycine mesurée avant la troisième séance d’HDI était comprise entre 10 et 22 mg/L, et le nombre de mesures de vancomycine par jour de traitement, avant et après la mise en place du protocole.
+Méthodes
+Cette étude quasi expérimentale, menée dans un seul centre, comprenait des patients hospitalisés et ambulatoires ayant subi une HDI et reçu au moins deux doses de vancomycine par IV et dont un échantillon prélevé de manière appropriée avant la troisième séance d’HDI a permis de mesurer la vancomycine.
+Avant la mise en place du protocole, le dosage de vancomycine était laissé à la discrétion du clinicien (soins habituels).
+Après sa mise en place, chaque patient recevait une dose de charge de 1000, 1500 ou 2000 mg et une dose de maintenance de 500, 750 ou 1000 mg selon sa masse corporelle.
+Résultats
+Le pourcentage de traitements dont la concentration de vancomycine mesurée avant la troisième séance d’HDI était comprise entre 15 et 20 mg/L était plus élevé après la mise en place du protocole qu’après les soins habituels, mais la différence n’était pas significative (44 % [8/18] contre 20 % [3/15], p = 0,27).
+Cependant, le pourcentage de traitements dont la concentration de vancomycine mesurée avant la troisième séance d’HDI était comprise entre 10 et 22 mg/L était significativement plus élevé après la mise en place du protocole (94 % [17/18] contre 53 % [8/15], p = 0,012).
+Le nombre moyen de mesures de vancomycine par traitement n’avait pas varié entre le jour précédant et le jour suivant la mise en place du protocole (0,133 contre 0,125, p = 0,99).
+Conclusions
+Dans l’institution où l’étude s’est déroulée, la probabilité d’atteindre la concentration de vancomycine recommandée avait augmenté après la mise en place d’un protocole simplifié de dosage de vancomycine pour les patients recevant une HDI comparativement à une pratique antérieure.
+Objectif
+Estimer l'exhaustivité de l'enregistrement des naissances vivantes dans le système sud-africain d'enregistrement et de statistiques de l'état civil entre 1996 et 2011.
+Méthodes
+Le nombre de naissances enregistrées par le système d'enregistrement et de statistiques de l'état civil a été comparé à des estimations indépendantes du nombre réel de naissances, obtenues grâce à: (i) la méthode des coefficients de survie inversée, appliquée aux données du recensement de 2011; (ii) l'application d'estimations du taux de fécondité par âge à des prévisions démographiques issues de recensements et d'enquêtes; (iii) des données du secteur public extraites du système d'information sanitaire des districts.
+Résultats
+On estime qu'en 1996, 25% des naissances ont été enregistrées pendant l'année civile de la naissance et 33% avant la fin de l'année civile suivante.
+En 2008, 76% des enregistrements ont eu lieu pendant l'année civile de la naissance, 84% avant la fin de l'année suivante et 90% avant le cinquième anniversaire de l'enfant.
+Ces améliorations ont été observées dans toutes les provinces et les différencesentre provinces en matière d'exhaustivité ont sensiblement diminué.
+L'amélioration de l'exhaustivité des enregistrements a coïncidé avec les efforts du gouvernement pour renforcer le système, avec une nouvelle législation sur l'enregistrement des données d'état civil ainsi qu’avec la mise en place d'allocations d'entretien des enfants exigeant un certificat de naissance.
+La migration interprovinciale des enfants a influé sur l'exhaustivité des enregistrements dans les provinces concernées.
+Les agences gouvernementales ont connu une certaine confusion terminologique, s'agissant de définir le moment d'enregistrement et l'année de naissance.
+Conclusion
+L'exhaustivité de l'enregistrement des naissances en Afrique du Sud s’est rapidement améliorée entre 1996 et 2004.
+Afin de permettre une comparaison internationale, il est nécessaire de standardiser la méthode employée pour mesurer l'exhaustivité de l'enregistrement des naissances.
+Abstract
+Comme les pays à faible et moyen revenu se lancent dans des réformes de financement des soins de santé afin d’offrir une couverture maladie universelle, on constate un regain d’intérêt pour une répartition plus stratégique des fonds communs aux prestataires de soins de santé.
+Ces pays testent différentes méthodes de paiement des prestataires dans le but d’améliorer la stratégie d’achat.
+Ils ont donc besoin de données exhaustives sur les flux de financement entre ces prestataires de soins de santé et divers acquéreurs s’ils souhaitent prendre des décisions avisées dans ce domaine.
+La traçabilité du flux de financement est au cœur de plusieurs outils de suivi des ressources de santé, dont le Système des comptes de la santé et les enquêtes de suivi des dépenses publiques.
+Cette étude vise à déterminer si ces outils de suivi des ressources de santé génèrent le type d’information requis pour élaborer des stratégies d’achat adéquates, avec le Kenya en guise d’exemple.
+Notre analyse qualitative de trois comtés kényans démontre que différents acquéreurs publics, à savoir les autorités sanitaires des comtés et l’Agence nationale de l’assurance maladie, rémunèrent les établissements publics par le biais d’une série de méthodes de paiement.
+Certains de ces flux sont réglés en nature, tandis que d’autres sont des transferts financiers.
+La catégorie à laquelle appartiennent les flux ainsi que l’autonomie financière des établissements en termes de conservation et de dépense des fonds varient considérablement selon les comtés et les niveaux de soins.
+Le gouvernement mène systématiquement diverses activités de suivi des ressources de santé afin de mieux orienter la planification et la politique en la matière.
+Néanmoins, il manque toujours une source fiable de données exhaustives concernant le flux de financement des établissements publics car à l’origine, ces activités ne sont pas conçues pour livrer de telles observations.
+Nous affirmons dès lors que ces méthodes pourraient être optimisées pour récupérer ces informations et améliorer ainsi la stratégie d’achat.
+Nous formulons également des suggestions permettant de procéder à cette optimisation.
+Abstract
+Cet article élabore le concept de « capitalisme forteresse ».
+Ce concept comporte deux volets.
+Premièrement, il décrit les éléments de la migration et des régimes frontaliers actuels visant à contrôler la mobilité de la classe ouvrière mondiale de façon répressive.
+Deuxièmement, il désigne un scénario dystopique futur, dans lequel ces éléments répressifs se seront sensiblement étendus.
+Une telle formation peut se développer comme faisant partie du fascisme du XXIème siècle.
+Se fondant sur le matérialisme historique et la théorie critique, cet article avance quatre arguments.
+Premièrement, il soutient que les régimes migratoires sont en voie d’être transformés vers un nouveau degré de mesures restrictives.
+Deuxièmement, il fait valoir que le capitalisme forteresse complète les motifs théoriques qui soulignent le caractère incontrôlable de la migration.
+Troisièmement, il avance que la migration et les régimes frontaliers de par leur émergence, leurs éléments dynamiques, leurs formes et leurs effets sont étroitement liés à la dynamique intersectorielle du capitalisme mondial dans son ensemble.
+Quatrièmement, il souligne que le capitalisme mondial dépend foncièrement des régimes frontaliers afin de pouvoir réglementer ses contradictions.
+OBJECTIF
+Avec l’âge, la peau est sujette à des altérations dans son organisation, et outre le fait d'avoir des conséquences cliniques cela a un impact sur sa fonction.
+La protéomique est un outil utile pour l’évaluation non ciblée, semi-quantitative, simultanée d'un nombre élevé de protéines.
+Dans cette étude, nous utilisons la protéomique pour caractériser et comparer les différences associées à l’âge entre une peau photoexposée et une peau photoprotégée, avec une attention particulière sur l’épiderme, la jonction dermo-épidermique et le derme papillaire.
+MÉTHODES
+Des biopsies de peau de la fesse (photoprotégée) et de l'avant-bras (photoexposée) de volontaires sains (âgés de 18 à 30 ans ou de ≥ 65 ans) ont été sectionnées transversalement depuis la couche cornée jusqu’à une profondeur de 250 μm.
+Suite à une électrophorèse SDS-PAGE, chaque échantillon a été segmenté avant l'analyse par chromatographie en phase liquide couplée à la spectrométrie de masse/spectrométrie de masse.
+Une analyse des voies de signalisation a été réalisée à l'aide d'Ingenuity IPA.
+RÉSULTATS
+La comparaison des protéomes de la peau des sites des fesses et de l'avant-bras a révélé des différences dans l'abondance relative de protéines.
+Le vieillissement de la peau de l'avant-bras photoexposée montre une augmentation de 80% des protéines altérées avec l’âge, contrairement à la peau des fesses photoprotégée où une réduction de 74 % des protéines altérées avec l’âge a été mesurée.
+Sur le plan de la fonction, les protéines altérées par l’âge dans la peau de l'avant-bras photoexposée étaient associées à une structure, une énergie et un métabolisme.
+Dans la peau des fesses photoprotégée, les protéines associées à l'expression génique, la neutralisation des radicaux-libres, la synthèse des protéines et la dégradation des protéines étaient le plus fréquemment altérés.
+CONCLUSION
+Cette étude souligne la nécessité de ne pas considérer le photovieillissement comme un vieillissement accéléré intrinsèque, mais comme un processus physiologique distinct.
+CONTEXTE
+Les blessures se classent parmi les dix principales causes de décès au Canada.
+Cependant, les types et les taux de blessures varient en fonction du type de milieu, rural ou urbain.
+Les taux de blessures augmentent avec la ruralité, particulièrement les blessures liées à des collisions de véhicules motorisés.
+Le type de travail, un environnement dangereux et de longues distances à parcourir sont des facteurs qui contribuent aux différences entre les taux de blessures en milieu rural et ceux en milieu urbain.
+ Il faut approfondir les analyses des blessures en fonction du type de milieu (rural-urbain), en particulier en ce qui concerne la nature et la gravité des blessures.
+MÉTHODOLOGIE
+La population à l’étude provient des données de 2011 à juillet 2017 de la base électronique du Système canadien hospitalier d’information et de recherche en prévention des traumatismes (eSCHIRPT).
+Le type de milieu (rural ou urbain) a été déterminé à partir du code postal de Postes Canada.
+On a calcué les rapports proportionnels des blessures (RPB) afin de comparer les taux de blessures en milieu rural et ceux en milieu urbain en fonction de la nature et de la gravité des blessures ainsi que du sexe et de plusieurs autres facteurs.
+RÉSULTATS
+En milieu rural, les cas de blessures enregistrés aux urgences étaient plus susceptibles d’être des blessures multiples (RPB = 1,66 pour 3 blessures) et des lésions par écrasement (RPB = 1,72).
+On a relevé des RPB un peu moins élevés en ce qui concerne les morsures d’animaux (1,14), les brûlures (1,22), les lésions oculaires (1,32), les fractures (1,20) et les blessures aux muscles ou aux tissus mous (1,11).
+Par comparaison avec celles survenues en milieu urbain, les blessures survenues en milieu rural étaient plus graves, davantage susceptibles d’entraîner une hospitalisation (1,97) et d’être attribuables à une collision impliquant un ou plusieurs véhicules motorisés (2,12).
+CONCLUSION
+La nature des blessures survenues en milieu rural diffère de la nature des blessures survenues en milieu urbain.
+ Il faudrait réviser les programmes en vigueur en matière de prévention des blessures en milieu rural afin de combler l’écart dans les taux de blessures entre les deux milieux.
+Title
+Anticorps monoclonaux biosimilaires - Étude comparative des qualités analytique et fonctionnelle.
+Abstract
+La mise sur le marché de biosimilaires requiert une démonstration stricte de la similarité avec l’anticorps de référence, au travers d’études précliniques et cliniques.
+Cet article synthétise l’ensemble des analyses physicochimiques et fonctionnelles mises en œuvre in vitro, préalables à la réalisation d’études cliniques.
+Pour chaque caractéristique critique de l’anticorps, nous avons détaillé les techniques analytiques communément employées, leur principe de fonctionnement, ainsi que le type d’informations que ces techniques permettent d’obtenir.
+Abstract
+Le tableau Statistiques rapides sur les Indicateurs des maladies chroniques au Canada présente les estimations du fardeau des maladies chroniques ainsi que les mesures de la santé générale et des déterminants connexes de la santé.
+Title
+La greffe uterine en Suisse: les defis a venir.
+Abstract
+La transplantation utérine est une possibilité nouvelle offerte aux femmes présentant une infertilité utérine absolue.
+Environ 60 greffes utérines ont été réalisées dans le monde.
+La première naissance a été obtenue en 2014 et depuis 20 enfants ont vu le jour.
+La «donneuse» est le plus souvent une donneuse vivante.
+Les étapes chirurgicales sont longues et le risque de complications élevé.
+L’entrée dans un tel programme nécessite l’obtention préalable d’embryons par fécondation in vitro.
+Les grossesses obtenues sont à haut risque et la naissance se fait par césarienne. La greffe est transitoire car le greffon sera retiré afin d’interrompre le traitement immunosuppresseur.
+Eût égard aux risques qu’elle fait courir aux «donneuses», aux «receveuses» et aux enfants obtenus, cette procédure expérimentale soulève de nombreuses questions éthiques.
+Oncologie
+Sous l’égide de la médecine hautement spécialisée, de la personnalisation des traitements et secondée par une recherche énergique, l’oncologie a connu en 2019 des avancées considérables.
+Cette année, de nombreux traitements ont consolidé leur importance et élargi leurs indications.
+L’annonce d’une pléthore de traitements novateurs, en étude, est source d’espoir pour l’avenir. Des biomarqueurs simples ou composites, tels que l’expression PD-L1, l’instabilité de microsatellite (MSI), la charge mutationnelle tumorale (TMB), les mutations des gènes BRCA1/2 ou un déficit du mécanisme de la recombinaison homologue des bases (HRD) permettent une meilleure sélection et personnalisation des traitements disponibles.
+Le but du présent article est de rassembler les avancées oncologiques de l’année.
+Title
+PROFILES: portrait-type de nos futurs medecins !
+Abstract
+Dans chaque pratique professionnelle, une part plus ou moins grande de l’activité est dévolue à l’enseignement.
+En effet, la transmission de l’art médical représente un objectif essentiel pour la formation des étudiant·e·s et des jeunes collègues, mais aussi une opportunité pour adapter ses pratiques au contexte actuel, car les changements, rapides, ne sont pas forcément faciles à assimiler.
+Si, dans les hôpitaux universitaires, le contact avec les Facultés de médecine est plutôt aisé, il n’en va pas toujours de même pour ceux qui en sont plus distants, mais dont la participation à l’enseignement est souhaitée et croissante.
+En ce sens, il apparaît crucial que tou·te·s soient informé·e·s sur les modifications récentes des objectifs d’apprentissage prégradué (PROFILES) et sur les réformes qui en découlent pour les Facultés de médecine en Suisse.
+Title
+Proposition de prise en charge de l' « allergie a la penicilline » en medecine interne et de premier recours.
+Abstract
+La « notion d’allergie à la pénicilline » dans les dossiers des patients est une trouvaille assez fréquente (jusqu’à 10 %) et généralement erronée. Cette dernière peut mener à une sous-utilisation des bêtalactamines avec des conséquences négatives sur l’émergence de germes résistants, la prise en charge et les coûts médicaux. D’un autre côté, il s’agit néanmoins d’un diagnostic à ne pas ignorer ni à banaliser (notamment devant une anamnèse incomplète) étant donné la sévérité des réactions qu’une exposition pourrait occasionner.
+Cet article propose un résumé des connaissances actuelles des données épidémiologiques sur le sujet, et un algorithme de prise en charge en première intention des « notions d’allergie à la pénicilline ».

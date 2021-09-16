@@ -1,0 +1,960 @@
+Contexte
+L’hypertension intracrânienne (HTIC) idiopathique est une affection rare qui touche surtout les femmes atteintes d’obésité en âge de procréer.
+Les symptômes courants sont des maux de tête, des troubles de la vue, des acouphènes pulsatiles et un oedème papillaire.
+Le lien entre l’HTIC idiopathique et l’obésité est bien établi dans la littérature, ce qui suggère que la perte de poids pourrait améliorer le tableau clinique de l’HTIC.
+Pour les patients atteints d’obésité sévère pour lesquels le traitement conservateur ne fonctionne pas, la chirurgie bariatrique est un moyen efficace de perdre du poids.
+Cette revue systématique de la littérature vise à déterminer l’efficacité de la chirurgie bariatrique dans le traitement de l’HTIC idiopathique.
+
+Méthodes
+Nous avons interrogé MEDLINE, Embase, Scopus, la Bibliothèque Cochrane et Web of Science (limites : études portant sur les humains publiées en anglais entre janvier 1946 et juillet 2015).
+
+Résultats
+Douze études primaires (n = 39 patients) ont été incluses dans la revue systématique.
+Tous les patients avaient un diagnostic préopératoire d’HTIC idiopathique.
+L’indice de masse corporelle (IMC) préopératoire était de 47,4 ± 3,6 kg/2; l’IMC est passé à 33,7 ± 2,1 kg/2 6 mois après l’opération, puis à 33,9 ± 11,6 kg/2 12 mois après l’opération.
+Les pressions d’ouverture des ponctions lombaires sont passées de 34,4 ± 6,9 cm H2O à 14,0 ± 3,6 cm H2O après l’opération.
+Les symptômes courants de l’HTIC idiopathique se sont améliorés après la chirurgie bariatrique : maux de tête (100 % avant opération c. 10 % après), troubles de la vue (62 % c. 44 %), acouphènes pulsatiles (56 % c. 3 %) et oedème papillaire (62 % c. 8 %).
+
+Conclusion
+La chirurgie bariatrique semble améliorer considérablement les symptômes d’HTIC idiopathique.
+Cette affection n’est pas une comorbidité bien connue de l’obésité, mais sa présence peut être une indication pour la chirurgie bariatrique comme traitement.
+
+
+Contexte
+Peu d’études ont comparé les résultats chirurgicaux de la cholécystectomie robotique par incision unique (CRIU) à ceux de la cholécystectomie laparoscopique classique (CLC).
+Le but de la présente étude était d’évaluer l’efficacité clinique relative de la CRIU en comparant le nombre de jours postopératoires, l’intensité de la douleur et les complications avec les 2 méthodes chirurgicales.
+
+Méthodes
+Nous avons recueilli de manière rétrospective les données démographiques, périopératoires et postopératoires de tous les patients soumis à une CRIU ou à une CLC effectuée par un seul chirurgien entre juin 2016 et mai 2017.
+Le temps opératoire a été enregistré, subdivisé entre anesthésie, temps d’installation, temps à la console et durée totale de l’intervention.
+La douleur postopératoire a été mesurée au moyen d’une échelle numérique d’évaluation de la douleur.
+
+Résultats
+En tout, 121 patients ont subi une cholécystectomie durant la période de l’étude, dont 61, une CRIU et 60, une CLC.
+La durée opératoire totale moyenne des CRIU et des CLC a été de 93,52 (É.-T. 20,27) minutes et de 37,67 (É.-T. 19,73) minutes, respectivement (p < 0,001).
+La durée opératoire totale excluant le temps à la console a été significativement plus longue avec la CRIU qu’avec la CLC (82,77 [É.-T. 18,27] minutes c. 37,67 [É.-T. 19,73] minutes) (p < 0,001).
+Le score moyen à l’échelle numérique d’évaluation de la douleur a été de 4,73 (É.-T. 1,23) (CRIU : 4,75 [É.-T. 1,24]; CLC : 4,70 [É.-T. 1,22]) (p = 0,8) 1 heure suivant l’intervention; après 6 heures et après 1 jour, les scores avaient diminué de façon similaire dans les 2 groupes (p = 0,1).
+
+Conclusion
+La douleur postopératoire, l’utilisation d’un port additionnel, les taux de complication, le temps opératoire et le coût de la CRIU ont été similaires ou supérieurs à ceux de la CLC.
+Il faudra réaliser de plus grands essais randomisés et contrôlés pour analyser les bénéfices réels de la CRIU.
+
+
+Abstract
+La prothèse totale du genou (PTG) est l’une des interventions qui réussit le mieux en chirurgie orthopédique.
+Les complications fémoro-patellaires postopératoires n’en restent pas moins un problème complexe qui affecte une proportion substantielle de patients.
+Les complications affectant l’articulation fémoro-patellaire (AFP) peuvent survenir en présence de rotules resurfacées ou non.
+Les types de complications de l’AFP incluent, douleur au devant du genou, défaut d’alignement, fracture, nécrose avasculaire et accrochage rotulien.
+Les causes des complications fémoro-patellaires peuvent appartenir à diverses catégories selon qu’elles sont liées au patient, au chirurgien ou à la prothèse elle-même.
+Des caractéristiques liées aux patients, comme le fait d’être de sexe féminin, le jeune âge, la dépression et un indice de masse corporelle élevé, sont associées à une hausse des complications.
+Les enjeux techniques importants pour éviter les complications incluent : obtenir un alignement rotationnel approprié des éléments fémoraux et tibiaux, maintenir la hauteur de la ligne articulaire, médialiser le bouton patellaire et éviter d’encombrer l’AFP.
+Les caractéristiques de la modélisation des éléments, comme la conformité, la forme et la profondeur de la trochlée fémorale se sont aussi révélées importantes.
+Même si la cause des complications fémoro-patellaires post-PTG est parfois inconnue, il est important de prévenir les erreurs susceptibles de mener à de telles complications.
+
+
+Title
+Protocole d’étude fondé sur le processus MAPP visant à promouvoir l’activité physique chez les femmes, République islamique d’Iran.
+
+Contexte
+La participation de toutes les parties prenantes est nécessaire durant l’élaboration des interventions communautaires.
+Pour mettre en oeuvre une intervention pratique, il faut disposer d’un cadre afin de concevoir le programme et de prendre en compte toutes les étapes de la planification, de la mise en oeuvre et de l’évaluation.
+
+Objectifs
+La présente étude visait à décrire un protocole d’étude fondé sur le processus MAPP (Mobilizing for Action through Planning and Partnerships) et ayant pour but de promouvoir l’activité physique.
+
+Méthodes
+Le protocole est mis en oeuvre en six phases distinctes.
+La première phase vise à organiser le programme et à accroître la participation, tandis que la deuxième a pour objectif de déterminer la vision du programme.
+La troisième phase présente un portrait complet d’une communauté.
+Les quatrième et cinquième phases établissent des stratégies pour le programme.
+La sixième phase concerne le cycle d’action.
+
+Conclusion
+Le cadre considère tous les facteurs qui influent sur l’amélioration de l’activité physique et permet par conséquent de concevoir un programme pour les femmes qui s’appuie sur la culture locale.
+
+
+OBJECTIF
+L'anémie maternelle en début de grossesse est associée à de mauvais résultats de grossesse.
+En outre, la santé préconceptionnelle peut influer sur la santé pendant la grossesse.
+Le but de cette étude était d'investiguer les facteurs préconceptionnels associés à la concentration d'hémoglobine (Hb) en début de grossesse.
+
+MÉTHODES
+En Tanzanie, 226 femmes ont été suivies avant la conception et durant le début de la grossesse.
+La morphologie des globules rouges (GR), la concentration sérique en micronutriments, les caractéristiques démographiques et l’état de santé ont été évalués avant la conception et durant le début de la grossesse.
+L'association entre les facteurs préconceptionnels et la concentration d'Hb au début de la grossesse a été investiguée en utilisant des analyses de régression linéaire simples et multiples stratifiées selon le statut d'anémie préconceptionnelle.
+
+RÉSULTATS
+Les concentrations moyennes d'Hb étaient respectivement de 123 g/L et de 119 g/L avant la conception et en début de grossesse (âge gestationnel médian: 53 jours).
+Le périmètre brachial (PB) préconceptionnel (coefficient ajusté (AC): 0.35; IC 95%: 0.9 à 0.61) et la concentration préconceptionnelle d'Hb (AC: 0.45; IC 95%: 0.36 à 0.54) étaient positivement associés à la concentration d'Hb au début de la grossesse, alors que la morphologie hypochrome microcytaire des GR préconceptionnelle (AC: −6.00; IC 95%: −9.56 à −2.44) était négativement associée à la concentration d'Hb en début de grossesse.
+De plus, le traitement du paludisme préconceptionnel était positivement associé à la concentration d'Hb au début de la grossesse (AC: 6.45; IC 95%: 0.74 à 12.2) chez les femmes souffrant d'anémie préconceptionnelle.
+En revanche, chez les femmes non anémiques en préconception, seule la concentration d'Hb préconceptionnelle et le statut socioéconomique moyen présentaient une association positive avec la concentration d'Hb en début de grossesse.
+
+CONCLUSIONS
+Les mesures du PB et de la concentration d'Hb avant la conception peuvent aider à détecter les femmes à risque accru de faible concentration d’HB en début de grossesse.
+
+
+OBJECTIFS
+La réduction de la mortalité maternelle et néonatale exige que les femmes accouchent dans des établissements de santé de haute qualité.
+Cependant, de nombreux établissements offrent une qualité de soins sous-optimale, ce qui peut expliquer l'utilisation moins généralisée des établissements.
+Nous avons évalué l'impact d'un projet d'amélioration de la qualité sur l'utilisation des établissements pour l'accouchement.
+
+MÉTHODES
+Dans cet essai randomisé en grappes mené dans quatre districts ruraux de Tanzanie, 12 cliniques de soins primaires et leurs zones de recrutement ont bénéficié d'une intervention d'amélioration de la qualité consistant en une formation au cours du service, une supervision par un encadrement et un accompagnement, un appui en infrastructure et des relations avec les pairs tandis que 12 établissements et leur zone de recrutement ont servi de contrôles.
+Nous avons procédé à un recensement de tous les accouchements dans la zone de recrutement et utilisé une analyse de la différence des différences pour déterminer l'effet de l'intervention sur l'utilisation des établissements pour l'accouchement.
+Nous avons effectué une analyse secondaire de l'utilisation chez les femmes dont l'accouchement précédent avait eu lieu à domicile.
+Nous avons également investigué les mécanismes permettant d'accroître l'utilisation des établissements.
+
+RÉSULTATS
+L'intervention a entraîné une augmentation du nombre de naissances dans les établissements de 6,7 points de pourcentage par rapport à une de référence base de 72% (intervalle de confiance à 95%: 0.6-12.8).
+L'intervention a augmenté de 18.3 points de pourcentage l'accouchement dans un établissement pour les femmes ayant accouché à domicile précédemment (IC 95%: 10.1-26.6).
+La qualité prénatale a augmenté dans les établissements d'intervention, les prestataires effectuant 0.5 action supplémentaire sur l'ensemble de la population et 0.8 action pour le sous-groupe des accouchements à domicile.
+
+CONCLUSIONS
+Nous attribuons l'utilisation accrue des établissements à une meilleure qualité prénatale.
+Cette utilisation accrue ne ferait baisser la mortalité maternelle que si la qualité des soins s'améliorait.
+
+
+Introduction
+S’il existe de nombreuses approches chiropratiques, deux types de chiropracteurs peuvent-être identifiés; ceux s’intéressant aux troubles musculo-squelettiques et ceux souhaitant prendre en charge aussi des troubles non musculo-squelettiques.
+Il est possible que ces derniers adhèrent au modèle conservateur de la subluxation.
+Le principal objectif de cette étude est de déterminer si les étudiants en chiropraxie ayant ce type d’opinions conservatrices ont une approche différente pour déterminer les contre-indications, non-indications, et indications au traitement chiropratique, comparés à ceux n’ayant pas ce type d’opinions.
+
+Méthode
+Une enquête anonyme et volontaire sur les étudiants en chiropraxie de 3ème, 4ème, 5ème, et 6ème années à l’Institut Franco Européen de Chiropraxie a été effectuée entre les mois de novembre 2017 et janvier 2018.
+Le niveau de conservatisme (10 items) et la capacité à déterminer les contre-indications (2 cas cliniques), les non-indications (4 cas cliniques) et les indications (3 cas cliniques) ont été évalués.
+Les réponses à ces cas cliniques ont été dichotomisées en réponses « appropriées » et « non appropriées », comme il avait été défini par les précédentes et l’actuelle équipe de recherche.
+Le niveau de conservatisme a été classé en quatre groupes, le score le plus élevé étant celui du groupe « 4 ».
+Les données descriptives ont été rapportées, des analyses bi- et multivariées ont été effectuées à travers des régressions logistiques. 
+
+Résultats
+359 sur 536 étudiants (67%) ont répondu au questionnaire.
+Ils reconnaissent correctement quelques cas de contre-indications et d’indications au traitement chiropratique.
+Cependant, il leur est plus difficile de détecter les non-indications.
+Les plus conservateurs d’entre eux sont plus sujets à prendre en charge les patients, même si cela n’est pas nécessaire (non-indications).
+Par exemple, les plus conservateurs (groupe 4) sont plus enclins, comparés à ceux étant dans le groupe 1, à prendre en charge en chiropraxie un enfant de 5 ans n’ayant jamais eu de douleur ou maladies pour prévenir l’apparition de douleurs rachidiennes (OR = 14,7) et de maladies non musculo-squelettiques (OR = 22).
+
+Conclusion
+Il est préoccupant de constater que les étudiants qui adhèrent au modèle de la subluxation soient prêts à intégrer ces opinions dans leurs futures prises en charge; souhaitant proposer des ajustements chiropratiques aux patients asymptomatiques.
+Les déterminants de ce phénomène se doivent d’être compris.
+
+
+OBJECTIF
+Emilin-1 est une protéine polyvalente, abondante dans les tissus où résilience et élasticité sont importantes et qui interagit avec la matrice extracellulaire.
+Pourtant, la protéine Emilin-1 a été peu étudiée dans la peau.
+Nous avons donc étudié sa localisation, son devenir lors du vieillissement, ses interactions avec d'autres protéines et l'effet de son inhibition dans la peau.
+
+MÉTHODES
+Des explants de peau de femmes caucasiennes jeunes ou âgées, marqués par immunofluorescence avec des anticorps anti-Emilin-1, anti-Fibrilline-1 et anti-Élastine, ont été analysés par microscopie confocale.
+Des explants cutanés soumis au soumis aux UV pour mimer un photo-vieillissement ont également été analysés.
+La co-localisation de l'Emilin-1 avec le collagène IV, la fribrilline-1 et l’élastine a été étudiée par microscopie multiphotonique et par co-immunoprécipitation.
+Enfin, l'effet de l'inhibition de l'expression de la protéine Emilin-1 par interférence ARN a été étudié sur 61 gènes.
+
+RÉSULTATS
+Dans les coupes de peau de jeunes donneurs, Emilin-1 est localisée comme l’élastine et la fibrilline-1.
+Dans le derme papillaire, elle présente des structures claires et ramifiées, perpendiculaires à la jonction dermo-épidermique, qui font penser aux fibres d'oxytalane.
+Dans le derme réticulaire, le signal de l'Emilin-1 apparaît identique à celui du réseau de fibres élastiques.
+Lors du vieillissement intrinsèque ou induit par les UV, le signal associé à Emilin-1 est considérablement réduit et désorganisé.
+Une étude en microscopie multiphotonique montre que l'Emilin-1 est co-localisée avec de l’élastine.
+Elle est aussi co-localisée avec le collagène IV dans la membrane basale et dans les fibroblastes du derme.
+La co-immunoprécipitation montre l'existence d'interactions entre l'Emilin-1 et l'Elastine ou le collagène IV. Une interaction avec la laminine-5 a aussi été mise en évidence.
+Enfin, l'inhibition de l'expression de l’EMILIN-1 n'a que peu d'effet sur l'expression des 61 gènes étudiés.
+Le changement le plus frappant est une diminution de l'expression de FGFR2 (récepteur 2 du facteur de croissance des fibroblastes), diminution similaire à celle d’EMILIN-1, et, après 8 jours, une diminution de l'expression de COL6A1.
+
+CONCLUSION
+Dans la peau, Emilin-1 se localise dans le derme, jusqu’à la membrane basale, et interagit avec les composants de la matrice extracellulaire mais aussi avec les complexes d'ancrage.
+Ces interactions sont importantes pour l'adhésion, la migration, la prolifération cellulaire et suggéreraient qu'Emilin-1 pourrait être important pour le maintien de la structure de la matrice extracellulaire.
+
+
+Abstract
+Les programmes factuel de visites à domicile ont pour but de régler les défis les plus importants auxquels font face nos espèces - mettre la génération suivante sur un chemin de développement sain qui les prépare pour le future qui est à la fois incertain et prometteur.
+De nombreuses recherches mettent en évidence des pratiques afin de relever ce défi et de tenir la promesse non réalisée de la visite à domicile en engageant plus efficacement les parents afin qu'ils soutiennent le développement précoce et le bien-être de leurs enfants.
+Des mesures de pratiques de visite à domicile de qualité ont été identifiées dans le service social, les soins pédiatriques, la petite enfance et les recherches d'intervention précoce : construire des relations avec les familles et mettant l'accent sur leurs forces, des pratiques qui sont particulièrement importantes pour les familles vulnérables.
+Les articles présentés dans cette section spéciale ont utilisé les Echelles d'Evaluation de la Visite à Domicile afin d'examiner la stabilité de la qualité de la visite à domicile au fil du temps, d’étudier les processus spécifiques de la visite à domicile qui sont liés à la qualité, de valider une checklist d'un(e) superviseur pour la mise en place de la visite à domicile, de considérer la visite à domicile en relation avec un éventail d'indicateurs reflétant la force et la stabilité générales du programme de visites à domicile.
+Ces articles exemplifient le progrès dans les recherches sur les visites à domicile depuis les trente dernières années, y compris les avancées faites dans les méthodes observationnelles directes et les mesures ainsi que l'examen de la visite à domicile en tant que processus observable au travers de modèles de programme de visite à domicile variées et de populations diverses.
+
+
+Contexte
+Un nouveau modèle à condyles postérieurs symétriques et l’option d’un élément fémoral pourvu d’une couche d’oxyde de zirconium ont été introduits avec succès dans un système de prothèse totale du genou à condyles asymétriques en 2005.
+Compte tenu du manque de renseignements concernant ce modèle modifié, nous avons procédé à une étude pour en déterminer la survie et le rendement à court et à moyen terme.
+
+Méthodes
+Les patients ayant reçu la prothèse à condyles postérieurs symétriques Genesis II ou une prothèse totale primaire Legion (au cobalt–chrome [CoCr] ou au zirconium–niobium oxydé [OxZr]) (Smith & Nephew) au centre de recherche entre mars 2007 et décembre 2013 ont été inscrits dans une base de données prospective.
+Nous avons procédé à une revue rétrospective de la base de données et effectué une analyse de survie à l’aide de techniques de Kaplan–Meier.
+
+Résultats
+On a dénombré 2178 patients (dont 1359 femmes [62,4 %]; âge moyen 64,6 ans; indice de masse corporelle moyen 35,0) totalisant 2815 arthroplasties du genou pour analyse.
+Les taux de survie ont été de 98,2 % (intervalle de confiance [IC] à 95 % 97,6 %–98,7 %) pour le paramètre défaillance de toutes causes à 2 ans et de 96,8 % (IC à 95 % 96,0 %–97,7 %) à 5 ans.
+L’âge (risque relatif [RR] 0,97, IC à 95 % 0,94–0,997) et le fait d’être de sexe féminin (RR 0,45, IC à 95 % 0,27–0,75) ont conféré un effet protecteur, tandis que l’indice de masse corporelle (RR 1,02, IC à 95 % 0,99–1,05) et l’implant OxZr (RR 1,11, IC à 95 % 0,57–2,18) n’ont eu aucune influence sur la survie.
+Les scores Oxford d’évaluation du genou se sont améliorés, passant d’une moyenne de 40,2 à 21,8 en l’espace de 2 ans (p < 0,001), sans différence entre les groupes CoCr et OxZr.
+
+Conclusion
+La prothèse du genou à condyles postérieurs symétriques postéro-stabilisée possède une excellente survie à moyen terme.
+La surface portant l’implant n’a pas eu d’influence sur la survie à 5 ans et, donc, l’utilisation d’implants OxZr ne sera peutêtre pas justifiée.
+
+
+Title
+Analyse génétique d’une famille étendue dont les membres souffrent de migraines, de vertiges et du mal des transports.
+
+Contexte
+La migraine est un trouble courant qui entraîne habituellement des maux de tête et qui est souvent associé à des vertiges et au mal des transports.
+Il s’agit aussi d’une condition génétique complexe en vertu de laquelle de nombreux gènes contribuent à terme à cette prédisposition et au développement de ce trouble neurologique périodique.
+À cet égard, nous avons identifié une famille étendue américaine comptant 29 membres. De ce nombre, 17 d’entre eux avaient souffert d’au moins un de ces troubles : des migraines, des vertiges ou le mal des transports.
+À noter que plusieurs d’entre eux avaient souffert de ces troubles en même temps.
+
+Méthodes
+Nous avons effectué une analyse de liaison au moyen de 400 marqueurs microsatellites répétés et espacés à tous les 10 cm au sein de l’ensemble du génome des membres de cette famille.
+Les membres de cette famille ont été « phénotypés » pour chaque type de trouble (les migraines, les vertiges et le mal des transports) et ont été ensuite analysés de façon séparée.
+Nous avons effectué une analyse statistique au moyen de l’analyse de liaison multipoint et à deux points, utilisant pour ce faire un certain nombre de modèles, par exemple le modèle autosomique récessif ou des patterns dominants de transmission avec une pénétrance génétique élevée ou faible.
+
+Résultats
+Nous avons été en mesure d’identifier un nouveau locus dans le cas de la migraine : 9q13-q22 (maximum 2-points ; score au logarithme des probabilités ou LOD : - 2,51).
+De plus, il est des scores révélateurs au logarithme des probabilités qui permettent de localiser divers chromosomes pour chaque phénotype : vertiges (chromosome 18 ; score au logarithme des probabilités ou LOD : 1,82) et mal des transports (chromosome 4 ; score au logarithme des probabilités ou LOD : 2,09).
+
+Conclusions
+Notre analyse confirme ainsi notre hypothèse initiale, à savoir que les cas de migraine auxquels sont associés des vertiges et le mal des transports pourraient très bien impliquer différents gènes de susceptibilité.
+
+
+OBJECTIF
+Estimer la rentabilité des stratégies de traitement de la leishmaniose viscérale (LV) au Brésil.
+
+MÉTHODES
+Etude coût-efficacité comparant trois options thérapeutiques: l'antimoniate de méglumine (AM), amphotéricine B liposomale (LAMB) et une combinaison de LAMB et MA (LAMB plus AM), du point de vue du système de santé publique et sociétal.
+Un modèle décisionnel analytique a été utilisé pour comparer les stratégies pour les résultats suivants: échec thérapeutique précoce évité à 30 jours, jours d'hospitalisation évités et guérison de la LV à 180 jours.
+Les paramètres d'efficacité et de sécurité des médicaments provenaient d'un essai randomisé ouvert et les données relatives aux coûts, d'une étude sur le coût de la maladie, toutes deux menées au Brésil.
+
+RÉSULTATS
+Pour tous les résultats analysés, la stratégie LAMB était plus efficace.
+La stratégie AM était inférieure à la stratégie LAMB plus AM pour les résultats: échec thérapeutique précoce évité et guérison.
+Lorsque seules les stratégies LAMB et AM ont été comparées d'un point de vue sociétal, un coût de 278,56 USD a été estimé pour chaque échec thérapeutique précoce additionnel évité, un coût de 26,88 USD pour chaque jour d'hospitalisation additionnel évité et un coût de 89,88 USD pour chaque cas additionnel de LV guéri, pour la stratégie LAMB par rapport à AM.
+
+CONCLUSION
+Au Brésil, la stratégie LAMB s'est avérée rentable pour traiter la LV, considérant un PIB par habitant comme seuil de volonté de payer, pour tous les résultats analysés par rapport à l’AM.
+
+
+Title
+À contre-courant : Wilder Penfield, les lobes frontaux et la psychochirurgie.
+
+Abstract
+La psychochirurgie consiste notamment en l’interruption chirurgicale des fibres de la substance blanche reliant le cortex frontal au reste du manteau cortical et au thalamus, et ce, pour tenter d’atténuer les manifestations de la psychose.
+Cette technique a atteint son apogée à la suite de la Deuxième Guerre mondiale pour être ensuite délaissée avec l’introduction des principaux tranquillisants, par exemple la chlorpromazine.
+À la différence de la plupart de ses contemporains, Wilder Penfield ne voyait pas d’un très bon œil la psychochirurgie.
+Cet article entend aborder les premiers travaux expérimentaux de Penfield portant sur les traumatismes cérébraux par pénétration et sur la résection chirurgicale de lésions frontales épileptogènes, ce qui expliquerait son opposition à l’égard de la psychochirurgie.
+
+
+Abstract
+L’objectif de la présente étude était d’analyser l’impact des pratiques de gestion de la reproduction sur la fertilité de vaches laitières primipares et multipares et d’identifier les différences par parité.
+Les données sur les performances de reproduction et la gestion des vaches ont été amassées auprès de 34 fermes laitières Holstein-Friesian commerciales importantes en Hongrie.
+Les données individuelles de 23 781 vaches ayant mise-bas en 2014 dans les troupeaux à l’étude ont été obtenues de la base de données nationale d’enregistrement de la production laitière et furent utilisées pour calculer les indices de reproduction.
+Les gérants de ferme et les vétérinaires ont été interviewés en personne entre le 22 mai et le 6 novembre 2015 à l’aide d’un questionnaire pour obtenir des informations sur les pratiques de gestion de la reproduction.
+Les données ont été analysées statistiquement par des modèles à effets mixtes.
+Nos résultats ont démontré que l’utilisation d’une période volontaire d’attente (VWP) était liée à une plus grande augmentation de l’intervalle vêlage-conception (CCI, P < 0,05) et à un plus grand déclin de la probabilité de gestation à 200 jours en lait (P200, P < 0,001) chez les vaches multipares.
+La synchronisation des oestrus était reliée à une plus grande réduction du nombre de jours avant la première saillie (DFS, P < 0,001), de l’intervalle de reproduction (P < 0,05), et de CCI (P < 0,01), et une meilleure amélioration du P200 (P < 0,001) chez les vaches primipares.
+Des diagnostics de gestation hâtifs et des vérifications de la gestation ont amélioré IBI (P < 0,01 pour ces deux pratiques), CCI (P < 0,01 et P < 0,001, respectivement), et P200 (P < 0,001 pour les deux pratiques) d’une manière plus importante chez les primipares que chez les multipares.
+En conclusion, la synchronisation des oestrus, les diagnostics de gestation hâtif, et la vérification de la gestation ont conduit à une plus grande amélioration de la fertilité chez les vaches primipares que chez les vaches pluripares.
+
+
+OBJECTIF
+D'explorer quelques critères morphologiques des sourcils de femmes de 6 ethnies, d’âges différents (18-84 ans).
+MÉTHODES: Des photographies digitales standards de 3600 femmes de 6 ethnies, âgées de 18 à 84 ans, préalablement utilisées pour décrire les morphologies des yeux, ont été mises à profit pour une analyse morphologique dédiée aux sourcils.
+Les images ont été analysées pour partie par marquages manuels, pour partie par des algorithmes de reconnaissance automatique.
+Six critères ont été analysés: longueur, ondulation, aspect oblique, taille (hauteur), surface totale et couverture pilaire (densité des poils).
+
+RÉSULTATS
+Chez tous les sujets, les critères des deux sourcils (Gauche et Droit) ont été observés comme fortement corrélés, et présentent des spécificités ethniques pour la plupart.
+Par exemple, la longueur, i.e. plus élevée chez les femmes Indiennes, plus faibles chez les femmes Africaines, l'ondulation où les sourcils les plus droits sont trouvées chez les femmes Chinoises et Japonaises.
+En général, les plus longs sourcils présentent une plus forte ondulation et vice versa.
+Leur hauteur maximale présente aussi une forte dépendance ethnique tout comme la couverture pilaire où les femmes Africaines montrent une plus faible densité, à l'inverse des femmes Indiennes.
+Un même résultat est obtenu pour la surface totale qui présente de fortes variations inter-ethniques, allant du simple au quadruple.
+D'autres paramètres semblent plus individuels qu'ethniques tel que l'aspect oblique, à l'exception des femmes Indiennes qui présentent les sourcils les moins obliques.
+
+CONCLUSION
+Cette investigation apporte quelques nouveaux résultats sur un sujet très peu étudié, dont la morphologie est, sur de nombreux aspects, ethnique-dépendante.
+Ces résultats offrent alors, en terme d'application, une approche plus adaptée des procédures d'ornementation des sourcils vis à vis des spécificités ethniques et de l’âge.
+
+
+OBJECTIF
+D’explorer les relations mutuelles entre l’hydratation cutanée et la perte insensible en eau (PIE) quand elles sont mesurées simultanément.
+
+MÉTHODES
+6 zones circulaires des avant-bras (3 par zone, diamètre 3 cm) de 12 femmes Caucasiennes ont été utilisées comme modèles.
+4 prototypes de formules, de compositions différentes contenant du glycérol à différentes concentrations (7%, 10%, 40%) furent réalisés et utilisés comme modèles de produits hydratants.
+Une formule sans glycérol fut utilisée en tant que contrôle.
+Des applications standardisées (2 mg/cm2 ) ont été effectuées sur 5 zones de façon aléatoire, la sixième restant nue en tant que contrôle.
+Un appareil nomade récemment disponible sur le marché qui enregistre l’hydratation et la PIE simultanément sur une petite surface cutanée a été utilisé.
+Deux mesures à deux endroits voisins de chaque zone ont été conduites à T0 (avant applications), 1 heure (T1) et 5 heures (T5) après.
+
+RÉSULTATS
+Ce nouvel instrument permet de clairement différencier les 5 formules dans l’effet dose apporté par le glycérol (0, 7%, 10%, 40%) et de suivre leur rémanence dans le temps (T5 vs. T1).
+Les deux paramètres ont été trouvés négativement corrélés de manière significative, c’est-à-dire qu’une plus forte hydratation correspondant à une plus faible PIE.
+La formule à 40% de glycérol, qui a conduit à la plus forte hydratation, a ainsi entrainé une chute de la PIE d’environ 50%.
+La peau nue comme celle de la formule contrôle n’ont pas conduit à de modifications notables et significatives de l’hydratation.
+La formule contrôle a conduit à une légère chute de la PIE.
+
+CONCLUSION
+L’utilisation de ce nouvel instrument semble apporter un éclairage nouveau sur les relations mutuelles (et inverses) entre l’hydratation cutanée et la PIE.
+Les résultats suggèrent qu’à forte concentration, le glycérol conduit à un fort accroissement de la teneur en eau de l’épiderme et du derme, avec de possibles conséquences structurelles du relief cutané.
+
+
+Contexte
+La concentration des services spécialisés dans les centres urbains pose un défi pour les patients des communautés rurales.
+Le programme de chirurgie hépatopancréatobiliaire (HPB) d’Horizon Santé-Nord (HSN) est le 10e et plus récent centre HPB d’Action Cancer Ontario; il offre une occasion unique d’évaluer les obstacles à la prestation des soins oncologiques HPB aux patients du Nord de l’Ontario.
+
+Méthodes
+Nous avons passé en revue de manière rétrospective les cas adressés au Centre de cancérologie du Nord-Est de l’Ontario et à HSN pour un diagnostic de cancer du pancréas entre 2009 et 2015.
+Le programme chirurgical HPB a été lancé en juillet 2013.
+Notre principal paramètre était le délai d’obtention d’une consultation pour une chirurgie HPB.
+Les paramètres secondaires incluaient la distance à parcourir et le délai d’obtention d’une intervention à visée curative.
+
+Résultats
+Notre population comportait 207 patients (98 pré-HPB c. 109 post-HPB).
+Le délai médian d’obtention de la consultation en chirurgie HPB a diminué dans le groupe post-HPB (43 j c. 11 j, p < 0,001).
+Une proportion plus grande de patients atteints de cancer du pancréas dans le groupe post-HPB a obtenu une consultation pour chirurgie HPB (34 % c. 74 %, p < 0,001), et une diminution de la distance médiane à parcourir pour se rendre à la consultation a été constatée (411 km c. 79 km, p < 0,001).
+Le délai d’obtention de la chirurgie à visée curative ou de la consultation en oncologie médicale n’a pas augmenté significativement.
+
+Conclusion
+Le nouveau programme HPB semble avoir permis d’accroître la proportion de patients atteints de cancer du pancréas ayant pu bénéficier d’une consultation pour chirurgie HPB.
+Les patients ont pu subir des chirurgies complexes plus près de chez eux.
+On prévoit que ces modifications auront une incidence sur les paramètres globaux et la satisfaction des patients et qu’elles feront l’objet d’études.
+
+
+OBJECTIF
+Comprendre l'importance de la paternité d'auteur et de la position de l'auteur, et évaluer les perceptions de l'attribution inappropriée de la paternité d'auteur parmi les auteurs qui publient des recherches pédiatriques menées dans des pays à revenu faible ou intermédiaire (PRFI).
+
+MÉTHODES
+Nous avons mené une étude transversale à méthodes mixtes avec un sondage en ligne auprès d'auteurs de correspondance et sélectionnés au hasard, d'auteurs not de correspondance, ayant publié des recherches menées dans des PRFIde 2006 à 2015 dans les quatre revues pédiatriques les mieux classées par le score d'Eigenfactor.
+Nous avons utilisé des tests de chi carré pour comparer les réponses des auteurs des PRFI à ceux des aux auteurs des pays à revenu élevé (PRE).
+Nous avons analysé les réponses qualitatives à l'aide d'une analyse thématique.
+
+RÉSULTATS
+Sur 1.420 répondants potentiels, 19,6% (n = 279) ont répondu au sondage.
+57% (n = 159) vivaient dans des PRFI et 43% (n = 120) dans des PRE.
+Les auteurs des PRFI estimaient plus souvent que la position de premier auteur était le plus important pour leur avancement universitaire que les auteurs des PRE (74,2% contre 60,8%, P = 0,017), tandis que les auteurs desPRE ont déclaré que le dernier auteur était le plus important (25,1% contre 38,3%, P = 0,018).
+65% (n = 181) des répondants estimaient que des positions d'auteur avaient été attribués de manière inappropriée à leurs collaborateurs (aucune différence entre les réponses des PRFI et des PRE) et 32,6% (n = 91) ont déclaré avoir personnellement accepté des positions d'auteurs inappropriées (plus fréquents chez les répondants desPRE, P = 0,005).
+En ce qui concerne les données qualitatives, les répondants se sont interrogés sur l'applicabilité des directives standards en matière de paternité d'auteur pour la recherche collaborative menée dans les PRFI.
+
+CONCLUSIONS
+Les auteurs des PRFI et desPREont des perceptions différentes sur l'importance de la position de l'auteur.
+L'attribution inappropriée de laposition d'auteur signalée était fréquente chez les répondants des PRFI et des PRE.
+Les alternatives aux critères standards de la paternité d'auteur pour les recherches menées dans les PRFI méritent d’être approfondies.
+
+
+But
+Clarifier la magnitude du lien entre la dépression maternelle et l'insécurité de l'attachement du nourrisson, et identifier des facteurs de modération possibles de cette relation.
+
+Méthodes
+Une importante recherche sur les recherches a été faite en utilisant plusieurs bases de données comprenant à la fois des études publiées et des études non publiées.
+Une méta-analyse a été faite afin de déterminer la relation entre la dépression maternelle et la sécurité de l'attachement du nourrisson et afin d’établir la taille de l'effet.
+
+Résultats
+Les principaux résultats de cette méta-analyse, qui a porté sur 42 études, ont indiqué qu'il existe une relation petite et cependant importante entre la dépression maternelle et l'insécurité de l'attachement du nourrisson.
+Le taux d'insécurité chez les nourrissons de mère avec une dépression était lié à des taux environ 20% plus élevés que les taux attendus chez une population non-clinique, et le lien entre les symptômes dépressifs et la non-sécurité était limité mais important.
+Les nourrissons de mères avec une dépression étaient presque deux fois plus à même d'avoir un attachement insécure que les nourrissons de mères en bonne santé.
+La mesure de dépression et la source de l’échantillon maternel ont été identifiées comme étant des facteurs de modération importants de l'ampleur des effets des rapports de cote.
+
+Conclusions
+Les résultats de cette étude démontrent qu'il existe une relation importante entre la dépression maternelle et l'insécurité de l'attachement du nourrisson, et suggèrent que les interventions qui mettent l'accent à la fois sur la santé mentale maternelle et la relation d'attachement sont justifiées.
+
+
+Contexte
+On rapporte que le taux de réactions indésirables potentielles aux médicaments est trois fois plus élevé chez les enfants hospitalisés que chez les adultes.
+Diverses méthodes ont été proposées pour réduire les erreurs de médication chez les patients pédiatriques.
+L’une des stratégies les plus influentes consiste à inclure un pharmacien clinique au sein de l’équipe de soins pluridisciplinaire.
+Cependant, il n’existe actuellement aucun document dressant l’inventaire des services de pharmacie offerts aux patients pédiatriques dans les hôpitaux canadiens pour adultes.
+
+Objectifs
+L’objectif principal de cette étude consistait à décrire les services de pharmacie pédiatriques et néonataux offerts dans les hôpitaux pour adultes au Canada.
+L’objectif secondaire consistait quant à lui à déterminer si les services offerts à la population pédiatrique dans les hôpitaux pour adultes correspondaient à ceux que les pharmaciens travaillant dans les hôpitaux pédiatriques canadiens reconnaissaient comme étant importants.
+
+Méthodes
+Deux sondages en ligne se focalisant sur 35 services de pharmacie ont été créés.
+Le premier était destiné aux hôpitaux pour adultes et le deuxième aux hôpitaux pédiatriques.
+Les sondages ont été distribués par courriel et effectués en janvier et février 2018.
+
+Résultats
+Cinquante-cinq (55) répondants des hôpitaux pour adultes et 43 des hôpitaux pédiatriques y ont répondu en bonne et due forme.
+Les investigateurs ont obtenu en outre la liste des services de pharmacie offerts par les hôpitaux pour adultes à leurs patients pédiatriques et néonataux.
+Soixante et un pour cent (61 %), soit 33 sur 54, des répondants provenant des hôpitaux pour adultes à étaient des pharmaciens affectés aux unités pédiatriques ou néonatales.
+La fréquence de l’offre de la majorité des services de pharmacie était d’importance comparable à ce que les pharmaciens travaillant dans les hôpitaux pédiatriques ont relevé.
+Toutefois, pour ce qui est des instructions données au patient à l’admission et au congé et de la prestation du bilan des médicaments au congé, la fréquence et l’importance de ces services n’étaient pas comparables.
+
+Conclusions
+Les hôpitaux pour adultes disposant d’un pharmacien affecté à un domaine clinique pédiatrique ou néonatal répondaient à la plupart des attentes des pharmaciens travaillant dans les hôpitaux pédiatriques en termes d’offre de services de pharmacie.
+Cependant, certains services demandent à être optimisés pour cette population de patients.
+
+
+Title
+Énoncé de position quant à l’utilisation du cannabis médical dans le traitement de l’épilepsie.
+
+Abstract
+L’utilisation du cannabis à des fins récréatives a été légalisée au Canada en octobre 2018.
+Parallèlement à ce changement de politique, de récentes publication visant à évaluer l’efficacité du cannabis dans le traitement de l’épilepsie, de même qu’une sensibilisation médiatique accrue en ce qui concerne son utilisation, ont eu pour effet d’augmenter l’intérêt du grand public à son égard.
+Le Comité médical thérapeutique de la Ligue canadienne contre l’épilepsie (LCCE), de concert avec un groupe multidisciplinaire d’experts et des représentants de l’Alliance canadienne de l’épilepsie, a ainsi élaboré un énoncé de position en ce qui regarde l’utilisation du cannabis médical dans le traitement de l’épilepsie.
+Cet article entend donc aborder le cadre légal qui prévaut actuellement au Canada et examiner de récentes publications s’étant penchées sur le profil sécuritaire et sur l’efficacité du cannabis. De plus, nous voulons apporter un éclairage au sujet des aspects cliniques dont il faudrait tenir compte au moment d’envisager l’utilisation du cannabis à des fins médicales.
+
+
+Objectif
+Améliorer la couverture et les performances d'un programme de gestion communautaire de la malnutrition aiguë, mis en œuvre entre octobre 2015 et avril 2018 dans le district rural de Kupang, en Indonésie.
+
+Méthodes
+Afin de déterminer les raisons pour lesquelles la couverture et les performances du programme étaient faibles durant sa première année, nous avons réalisé une évaluation semi-quantitative entre août et septembre 2016.
+Nous avons utilisé les résultats de cette évaluation pour favoriser l'amélioration du programme, en élaborant et en modifiant des stratégies de mobilisation de la communauté.
+Nous avons adopté une démarche pluridimensionnelle pour sensibiliser davantage la communauté à la malnutrition aiguë et aux services communautaires permettant d'y remédier, avec notamment des ateliers, des groupes de discussion dans les communautés et des activités de sensibilisation dans les postes sanitaires qui avaient eu des problèmes au niveau de l'engagement de la communauté.
+Les agents de santé communautaires ont redoublé d'efforts pour dépister les cas, en se rendant dans les foyers composés d'enfants qui avaient manqué les séances organisées aux postes sanitaires.
+Nous avons mesuré les performances à l'aide de trois indicateurs des standards minimums Sphère: proportion d'enfants qui se sont rétablis (> 75%); qui n'ont pas suivi le programme (< 15%); qui sont décédés (< 10%).
+
+Résultats
+Les efforts de mobilisation de la communauté ont permis d'augmenter le taux de dépistage, passé de 17% (564/3278) en octobre 2015 à 66% (6793/10 251) en mars 2018.
+En 2017, le programme a atteint les trois indicateurs de performance: 79% (256/326) des enfants se sont rétablis; 10% (34/326) n'ont pas suivi le programme; et moins de 1% (2/326) sont décédés.
+
+Conclusion
+En Indonésie, la mobilisation de la communauté est cruciale pour lutter contre la malnutrition aiguë sévère chez les enfants de moins de cinq ans.
+Cette stratégie exige d'avoir une direction politique ainsi qu'une communication efficace, en même temps que des stratégies adaptées au contexte local et le soutien continu de la population.
+
+
+Title
+Évaluation de la protection immunitaire contre l’infection par Toxoplasma gondii chez la souris, induite par un vaccin à ADN multi-antigénique contenant TgGRA24, TgGRA25 et TgMIC6.
+
+Abstract
+L’infection à Toxoplasma gondii est répandue chez les humains et les animaux dans le monde entier.
+Dans cette étude, des plasmides d’expression eucaryotes recombinants (pVAX-GRA24, pVAX-GRA25 et pVAX-MIC6) ont été construits, puis injectés à des souris Kunming par voie intramusculaire, comme cocktails de plasmides ou comme plasmides à un seul gène.
+Nous avons évalué les réponses de protection immunitaire en détectant le titre des anticorps et la production de cytokines IFN-γ, IL-2, IL-4, IL-10, IL-12 et IL-23, les pourcentages des sous-classes des lymphocytes T, ainsi qu’en mesurant les temps de survie et de décrément des kystes dans le cerveau du modèle souris après challenge par les souches RH et Pru de T. gondii, respectivement.
+Comparativement aux groupes témoins, la production d’anticorps et de cytokines était significativement accrue, tandis que le temps de survie des souris de tous les groupes immunisés était également prolongé et que le nombre de kystes de T. gondii dans leur cerveau diminuait de manière significative (29,03 % pour pVAX-GRA24 ; 40,88 % pour pVAX-GRA25 ; 37,70 % pour pVAX-MIC6 ; 48,06 % pour pVAX-GRA24 + pVAX-GRA25 ; 55,37 % pour pVAX-GRA24 + pVAX-GRA25 + pVAX-MIC6).
+Le groupe de souris immunisées avec les cocktails à trois gènes (TgGRA24 + TgGRA25 + TgMIC6) présentait la meilleure performance dans chaque indice de détection par rapport aux groupes de souris immunisées avec des cocktails à deux gènes de TgGRA24 + TgGRA25, qui était supérieur à ceux immunisés avec les vaccins monogéniques TgGRA24, TgMIC6 ou TgGRA25.
+En conclusion, TgGRA24 ou TgGRA25 peuvent être de bons candidats au vaccin contre l’infection à T. gondii, mais un cocktail à trois gènes de TgGRA24, TgMIC6 et TgGRA25 peut induire la plus forte immunité protectrice.
+Des études supplémentaires sur les vaccins à ADN multi-antigéniques ou les vaccins en cocktail contre l’infection à T. gondii sont nécessaires.
+
+
+OBJECTIF
+L’étude visait à réaliser une analyse environnementale des activités d'amélioration de la qualité de la pratique clinique et de la sécurité des patients (AQSP) ainsi que de l'infrastructure afférente dans les programmes de médecine d'urgence (MU) et dans les services des urgences des hôpitaux d'enseignement partout au Canada.
+
+MÉTHODE
+Deux questionnaires d'enquête électroniques ont été élaborés par un groupe d'experts après l'atteinte d'un consensus dans le but d’évaluer des thèmes jugés importants par le comité de l'AQSP de l'Association canadienne des médecins d'urgence.
+Le premier questionnaire a été envoyé par courriel aux directeurs de département de MU et aux chefs de service des hôpitaux d'enseignement rattachés aux 17 écoles de médecine au Canada; le deuxième, à 12 responsables des activités d'AQSP, désignés comme tels, dans ces hôpitaux.
+Ont suivi deux rappels envoyés par courriel, à un mois d'intervalle, aux participants concernés.
+
+RÉSULTATS
+Au total, 22 directeurs de département ou chefs de service sur 70 (31,4%) ont répondu au premier questionnaire.
+La grande majorité d'entre eux (81,8%) ont fait état de postes officiels réservés aux activités d'AQSP dans leur groupe, soutenus selon un modèle de financement mixte.
+Toutefois, moins de la moitié des postes en question disposent d'un soutien logistique particulier.
+Quant au deuxième questionnaire, 11 responsables locaux des activités d'AQSP sur 12 (91,7%) y ont répondu.
+Environ les deux tiers (63,6%) ont indiqué que des sujets explicites d'AQSP étaient inclus dans les programmes de résidence, mais seulement 9,1% des responsables ont décrit la formation en matière d'AQSP donnée aux médecins membres du personnel hospitalier.
+Par ailleurs, bon nombre de répondants ont fait état de travaux d’érudition couronnés de succès; ainsi, le nombre total de publications évaluées par les pairs en lien avec l'AQSP variait de 1 à 10 par centre, au cours des 5 dernières années.
+Enfin, peu de répondants ont indiqué bénéficier du soutien de ressources universitaires : spécialistes de la méthodologie (27,3%), personnel administratif (27,3%) et statisticiens (9,1%).
+
+CONCLUSION
+Cette analyse environnementale a dressé le portrait des activités d'AQSP menées dans les services de MU dans les hôpitaux d'enseignement au Canada.
+Les efforts fournis sur les plans de la formation et du soutien universitaire à l’échelle locale sont importants, mais il y a un déséquilibre entre le degré de soutien structuré ou d'infrastructure disponible et la réalisation de ces activités.
+Aussi y a-t-il lieu d'accroître les efforts d'AQSP à l’échelle nationale, en plus de soutenir ces activités à l’échelle locale et d'en faire la promotion.
+
+
+Abstract
+Les cellules souches précurseurs dérivées de la peau (nommées SKPs) ont été décrites comme des progéniteurs dermiques multipotents.
+La présente revue permet d’avoir une vue d’ensemble des études et travaux portant sur le thème des SKPs, regroupant un nombre important de publications scientifiques.
+Il est intéressant de noter que ces cellules progénitrices peuvent être isolées de la peau embryonnaire et adulte, ainsi que d'une population de cellules dermiques cultivées in vitro en monocouche.
+Réunissant les travaux de plusieurs auteurs, cette revue explore différents thèmes autour des SKPs, tels que leur origine chez les rongeurs et chez l’homme ; mais aussi, leur capacité à se différencier in vitro et in vivo en un grand nombre de lignées cellulaires de descendances différentes.
+Cette capacité fondamentale des SKPs en fait une source de précurseurs endogènes intéressante à explorer dans le cadre d'applications expérimentales et thérapeutiques dans différents domaines.
+Les SKPs participent non seulement à l’homéostasie, au maintien du derme, mais aussi à la cicatrisation des plaies et à la morphogenèse du follicule pileux.
+Cette revue souligne l’intérêt des expérimentations en cours et à venir concernant les SKPs en vue de perspectives innovantes pouvant influencer la recherche dans de nombreux domaines scientifiques et médicaux.
+
+
+OBJECTIF
+Evaluer le statut nutritionnel, clinique et immunologique des enfants au moment du diagnostic du VIH dans la région continentale de la Guinée équatoriale.
+
+MÉTHODES
+Les enfants de moins de 18 ans diagnostiqués avec le VIH entre 2009 et 2017 ont été inclus.
+Les données cliniques, immunologiques et nutritionnelles ont été collectées.
+Les scores Z du poids pour la taille, du poids pour l'âge et de la taille pour l'âge ont été calculés en utilisant les normes de croissance de l'enfant de l'OMS.
+La population a été évaluée en deux périodes égales (2009-2013 et 2014-2017) à partir du moment du diagnostic.
+
+RÉSULTATS
+213 enfants ont été diagnostiqués avec le VIH (49,3% de sexe masculin), âge médian de 3,8 ans (IQR: 1,5-8,2).
+121 cas (56,8%) étaient au stade clinique III de l’OMS et 53 (24,9%) étaient au stade clinique IV de l’OMS.
+Le stade immunologique II du CDC a été diagnostiqué chez 51/130 (39,2%) et le stade III du CDC chez 44/130 (33,8%).
+56,2% des enfants avaient un poids insuffisant (poids pour âge <-2 écart type [ET]); 20,1% modérément et 36,1% sévèrement.
+27,6% des enfants étaient émaciés (poids pour taille <-2 ET); 11,9% modérément et 15,7% sévèrement.
+56,3% des enfants avaient un retard de croissance (taille pour l'âge <-2 ET); 20,7% modérément et 35,6% sévèrement.
+La prévalence de l'émaciation était plus élevée chez les enfants ≤5 ans que chez les enfants > 5 ans (36,4% contre 19,1%; P = 0,026).
+Dans la deuxième période, la prévalence de l'immunodéficience modérée à sévère a diminué (87,2% à 67,0% ; P = 0,018), sans différences significatives dans les autres données nutritionnelles ou cliniques.
+L’insuffisance pondérale sévère était un facteur de risque d'immunodéficience modérée à sévère (aOR: 4 [IC95%: 1,4-11,4] ; P = 0,010).
+
+CONCLUSIONS
+Nous mettons en évidence ici une forte proportion de malnutrition au moment du diagnostic du VIH dans la population pédiatrique guinéenne.
+Le diagnostic précoce de l'infection par le VIH est une priorité, réalisable en formant les médecins guinéens à identifier le VIH tôt, en introduisant des techniques de diagnostic moléculaire du VIH et en assurant un traitement nutritionnel intensif.
+
+
+Objectif
+Présenter les résultats de la mise en œuvre et de l’élargissement de programmes d'autodépistage du virus de l'immunodéficience humaine (VIH) pour les travailleuses du sexe au Malawi et au Zimbabwe entre 2013 et 2018.
+
+Méthodes
+Au Zimbabwe, nous avons réalisé une recherche préparatoire pour évaluer l'acceptabilité et la précision de l'autotest du VIH.
+Au cours de la mise en œuvre, nous avons évalué la faisabilité et les préférences des travailleuses du sexe à l’égard de la distribution des trousses de dépistage avant d'élargir le programme.
+Au Malawi, nous avons réalisé une évaluation ethnographique rapide pour étudier le contexte, les besoins des travailleuses du sexe et les ressources disponibles, ce qui a donné lieu à un atelier dont l'objectif était de définir la méthode de distribution des trousses de dépistage.
+Une fois la distribution mise en place, nous avons évalué le processus et établi un système de suivi des dommages sociaux.
+
+Résultats
+Au Zimbabwe, les travailleuses du sexe étaient en mesure de procéder à un autodépistage précis.
+L'étude des préférences a permis de perfectionner les systèmes en vue d'un développement national par l'intermédiaire des services existants pour les travailleuses du sexe.
+Les données qualitatives ont aidé à définir d'autres stratégies de distribution et les dommages sociaux indirects que peuvent subir les femmes.
+Au Malawi, la distribution de trousses de dépistage par des pairs a été la stratégie privilégiée.
+Nous avons identifié quelques cas de dommages sociaux entre des travailleuses du sexe assurant la distribution et d'autres travailleuses du sexe, ainsi que des obstacles du côté de l'offre qui ont limité l'utilisation du test.
+
+Conclusion
+La participation des travailleuses du sexe à la planification et à la mise en œuvre continue de l'autodépistage du VIH est essentielle, de même que les stratégies visant à réduire les dommages potentiels.
+Pour être optimales, les stratégies en matière de distribution et de soutien post-test doivent tenir compte du contexte, du soutien existant apporté aux travailleuses du sexe et du degré de confiance et de cohésion au sein de leurs communautés.
+
+
+Contexte
+Le passage de l’antibiothérapie par voie intraveineuse (IV) à la voie orale (PO) (IV-PO) est une initiative clé des programmes de gestion des antimicrobiens.
+On a communément recours à des formations et à des lignes directrices pour encourager le passage d’une voie à l’autre; cependant, les interventions technologiques sont parfois plus efficaces pour favoriser le changement de pratique.
+
+Objectif
+Déterminer l’impact d’un outil d’aide à la décision clinique (ADC) sur l’adoption et la viabilité d’un programme de conversion IV-PO dans un hôpital universitaire.
+
+Méthodes
+Une étude quasi expérimentale en trois phases a été menée.
+La première phase a permis la détermination du taux de conversion IV-PO avant l’intervention.
+La deuxième phase concernait l’actualisation de la politique de conversion IV-PO, la formation des pharmaciens et médecins et la conduite d’une évaluation après l’intervention.
+Des évaluations ont en outre été effectuées 1 mois, 3 mois et 15 mois après la mise en place de l’outil. La troisième phase a vu le développement d’un outil ADC qui génère des alertes électroniques en temps réel pour inciter les pharmaciens à évaluer l’antibiothérapie.
+Le passage de l’administration du pantoprazole par voie intraveineuse (IV) à voie orale (PO) a été évalué au cours de chaque phase comme une variable dépendante non équivalente.
+Le résultat principal fut la proportion de patients admissibles à la conversion IV–PO qui ont été orientés vers un traitement par voie orale.
+
+Résultats
+Des 332 patients recevant une antibiothérapie ciblée par voie intraveineuse (IV) pendant l’étude, 122 (37 %) répondaient au critère de la conversion IV–PO.
+Le taux de conversion IV–PO de 35 % (9/26) de la phase 2 était comparable au taux avant l’intervention de 29 % (10/35) (p = 0,61). La mise en place de l’outil ADC a grandement augmenté le taux de conversion, qui est passé à 78 % (14/18): une augmentation maintenue trois mois (71 % [17/24]) et 15 mois (74 % [14/19]) après la mise en place (p < 0,05 par rapport aux phases 1 et 2).
+Les taux de conversion du pantoprazole étaient similaires durant toutes les phases.
+
+Conclusions
+La mise en place de l’outil ADC a permis d’améliorer et de maintenir les taux de conversion IV–PO et de renforcer le respect des politiques au-delà des effets de la révision des politiques et de la formation à celles-ci.
+Le perfectionnement de la politique et de l’outil se justifie pour maximiser l’adoption du programme de conversion IV–PO.
+
+
+Abstract
+Au cours des 50 dernières années, la forte croissance qu’a connue l’aquaculture est allée de pair avec l’émergence de nombreuses maladies affectant les animaux aquatiques, dont certaines se sont propagées jusqu’à devenir pandémiques à l’échelle nationale ou continentale.
+L’analyse de 400 événements sanitaires survenus chez des animaux aquatiques et consignés entre 2002 et 2017 par le Centre for Environment, Fisheries and Aquaculture Science a déterminé l’origine virale de plus de la moitié d’entre eux.
+Toutefois, chez les mollusques la plupart des événements analysés étaient d’ordre parasitaire.
+Le classement des événements par catégories a montré que les principaux processus sous-jacents à cette émergence étaient liés aux transferts d’animaux vivants et à la colonisation de nouveaux hôtes par les agents pathogènes.
+Les profils des agents pathogènes majeurs illustrent le rôle des espèces aquatiques sauvages en tant que sources d’infections nouvelles chez les animaux aquatiques d’élevage.
+Il apparaît clairement que la propagation de nouvelles maladies à la faveur des transferts massifs d’animaux aquatiques à des fins d’élevage, de production alimentaire ou de commerce d’espèces d’ornement a conféré un statut pandémique à nombre de ces maladies.
+De nombreux virus affectant les poissons (par ex., le virus de l’anémie infectieuse du saumon, le virus de la septicémie hémorragique virale) et les crevettes (par ex., le virus du syndrome des points blancs) ont une incidence majeure sur de vastes segments de la production mondiale d’espèces sensibles cruciales.
+Les populations sauvages d’animaux aquatiques sont également touchées par des maladies pandémiques, dont l’exemple type est l’infection à Batrachochytrium dendrobatidis, une affection fongique des amphibiens dont l’émergence et la propagation sont le fruit des transferts d’animaux aquatiques destinés au commerce aquariophile.
+Batrachochytrium dendrobatidis est désormais largement présent dans les eaux tropicales et subtropicales où il est responsable d’extinctions locales parmi les espèces d’amphibiens sensibles.
+La croissance de la production aquacole se poursuivra afin de répondre à une demande toujours plus forte en poissons et fruits de mer, entraînant l’émergence continue de nouvelles maladies.
+Si des changements déterminants ne sont pas introduits dans la surveillance exercée au niveau mondial sur les maladies des animaux aquatiques et dans la réponse qui leur est apportée, certaines de ces maladies vont inéluctablement acquérir une dimension pandémique avec des conséquences importantes sur la production et le commerce.
+
+
+Abstract
+La présente étude a été conçue afin d’évaluer le statut antioxydant du sérum en mesurant sa capacité antioxydante totale, ainsi que l’activité antioxydante enzymatique (superoxyde dismutase, catalase, et glutathion réductase), chez des chiens avec des degrés divers de maladie dégénérative de la valvule mitrale (DMVD) comparativement à des témoins en santé.
+Au total, 71 chiens appartenant à des clients à différents stades de DMVD, qui incluaient des témoins en santé, ont pris part à cette étude.
+À la suite de la prise d’anamnèse, d’un examen clinique, d’un examen échocardiographie transthoracique standard, de radiographie thoracique, d’un comptage cellulaire sanguin complet, et d’analyse biochimique sérique, les chiens étaient séparés en deux groupes d’étude.
+Du sang fut prélevé de chaque chien une fois au moment de la présentation et les paramètres antioxydants sélectionnés furent mesurés à l’aide d’une trousse disponible commercialement.
+L’activité de la superoxyde dismutase diminuait graduellement dans les stades plus avancés de DMVD, alors que l’activité de la catalase était significativement plus élevée dans le groupe de chiens avec une DMVD asymptomatique comparativement aux témoins en santé et aux chiens avec une DMVD symptomatique.
+Aucun changement significatif n’était noté dans la capacité antioxydante totale et dans l’activité de la glutathion réductase.
+Les résultats suggèrent que la DMVD a un impact significatif sur l’activité de la superoxyde dismutase, et de la catalase dans le sérum des chiens testés.
+Des connaissances sur les changements dans l’activité des enzymes antioxydantes pourraient justifier des études additionnelles, possiblement pour évaluer le rôle potentiel de produits avec des propriétés antioxydantes dans le devenir clinique de chiens avec DMVD.
+
+
+Abstract
+Dans cet article l’auteur a tenté de mettre en évidence des changements structurels dans l’esprit adolescent du Japon moderne.
+Ceci en examinant notre recherche quantitative sur les rêves menée sur ce que l’on appelle les étudiants universitaires ordinaires, et selon laquelle deux questionnaires sont administrés: l’Echelle du mode de pensée lié à la phobie sociale, et l’Echelle du sens du Soi.
+L’on demande aussi aux étudiants de parler du contenu des rêves marquants de leur enfance à ce jour.
+En étudiant la relation entre le sentiment de soi du « Je » du rêve et la structure des rêves, l’auteur détermine le problème du sujet, ou son incapacité à avoir de l’angoisse et ainsi à devenir suffisamment actif à la fois à la surface de sa conscience et dans les profondeurs de son inconscient.
+Pour conclure, l’auteur suggère la nécessité d’une étude interculturelle dans ce domaine, ajoutant quelques points de comparaison entre les rêves rapportés en psychothérapie par des Allemands et par des Japonais.
+
+
+Title
+Nouvelles mentions de nématodes spirurides (Nematoda, Spirurida, Guyanemidae, Philometridae & Cystidicolidae) de poissons marins de la Nouvelle-Calédonie, avec redescriptions de deux espèces et érection d’Ichthyofilaroides n. gen.
+
+Abstract
+L’étude récente de nématodes Spirurida de poissons marins de mer profonde ou des récifs coralliens au large de la Nouvelle-Calédonie, collectés dans les années 2006-2009, a révélé la présence des cinq espèces suivantes : Ichthyofilaroides novaecaledoniensis (Moravec et Justine, 2009) n. gen., n. comb. (transféré depuis Ichthyofilaria Yamaguti, 1935) (femelles) (Guyanemidae) du poisson de profondeur Hoplichthys citrinus (Hoplichthyidae, Scorpaeniformes), Philometra sp. (larve mâle de quatrième stade et femelle mûre) (Philometridae) d’Epinephelus maculatus (Serranidae, Perciformes), Ascarophis (Dentiascarophis) adioryx Machida, 1981 (femelle) (Cystidicolidae) de Sargocentron spiniferum (Holocentridae, Beryciformes), Ascarophis (Ascarophis) nasonis Machida, 1981 (mâles et femelles) de Naso lituratus et N. unicornis (Acanthuridae, Perciformes), et Ascarophisnema tridentatum Moravec et Justine, 2010 (femelle) de Gymnocranius grandoculis (Lethrinidae, Perciformes).
+Deux espèces, I. novaecaledoniensis et A. nasonis, sont redécrites sur la base de la microscopie optique et de la microscopie électronique à balayage, cette dernière étant utilisée pour la première fois chez ces espèces.
+Des données morphologiques sur le spécimen d’A. tridentatum de la nouvelle espèce hôte sont fournies.
+Philometra sp. (d’E. maculatus) représente très probablement une nouvelle espèce infectant les gonades de ce genre.
+Le genre nouvellement établi Ichthyofilaroides n. gen. se caractérise principalement par la présence d’une petite capsule buccale et par le nombre et la répartition des papilles céphaliques chez la femelle. C’est le sixième genre des Guyanemidae.
+
+
+CONTEXTE
+La persistance du canal artériel (PCA) complique l'évolution clinique des prématurés et augmente le risque d'effets indésirables.
+L'indométhacine a été le traitement standard pour fermer une PCA, mais elle est associée à des effets secondaires rénaux, gastro‐intestinaux et cérébraux.
+L'ibuprofène a moins d'effet sur la vitesse du flux sanguin vers les organes importants.
+
+OBJECTIFS
+Objectifs principaux Déterminer l'efficacité et l'innocuité de l'ibuprofène par rapport au placebo/aucune intervention ou à d'autres inhibiteurs de la cyclo‐oxygénase dans la prévention de la PCA chez les prématurés.
+
+STRATÉGIE DE RECHERCHE DOCUMENTAIRE
+Nous avons utilisé la stratégie de recherche standard de Cochrane Neonatal pour faire des recherches dans le Registre central des essais contrôlés de Cochrane (CENTRAL ; 2018, numéro 10), MEDLINE via PubMed (1966 au 17 octobre 2018), Embase (1980 au 17 octobre 2018) et CINAHL ; 1982 au 17 octobre 2018).
+Nous avons également effectué des recherches dans les bases de données d'essais cliniques, les actes de conférence, et les références bibliographiques d'articles sélectionnés pour identifier des essais contrôlés randomisés ou quasi randomisés.
+
+CRITÈRES DE SÉLECTION
+ Essais contrôlés randomisés et quasi-randomisés comparant l'ibuprofène à un placebo/aucune intervention ou à d'autres inhibiteurs de la cyclo-oxygénase pour prévenir les PCA chez les prématurés ou les nourrissons de faible poids à la naissance.
+
+RECUEIL ET ANALYSE DES DONNÉES
+Nous avons extrait des données sur les critères de jugement, y compris la présence de PCA au troisième ou quatrième jour de vie (après 72 heures de traitement), la nécessité d'une ligature chirurgicale ou d'un traitement de secours avec des inhibiteurs de cyclo‐oxygénase, la mortalité, les complications cérébrales, rénales, pulmonaires et gastro‐intestinales.
+Nous avons utilisé l'approche GRADE pour évaluer la qualité des données probantes.
+
+RÉSULTATS PRINCIPAUX
+Dans cette analyse mise à jour, nous avons inclus neuf essais (N = 1070 nourrissons) comparant l'ibuprofène prophylactique (IV ou oral) avec placebo/aucune intervention ou l’indométhacine.
+L'ibuprofène (IV ou oral) diminue probablement le risque de PCA au jour 3 ou 4 (RR typique 0,39, IC à 95 % 0,31 à 0,48 ; DR typique ‐0,26, IC à 95 % ‐0,31 à ‐0,21 ; NNTB 4, IC à 95 % 3 à 5 ; 9 essais ; N = 1029) (données probantes de qualité moyenne). Dans le groupe témoin, le taux de fermeture spontanée était de 58 % au jour 3 ou 4.
+De plus, l'ibuprofène diminue probablement le besoin d'un traitement de secours avec des inhibiteurs de cyclo‐oxygénase (RR typique 0,17, IC à 95 % 0,11 à 0,26 ; DR typique ‐0,27, IC à 95 % ‐0,32 à ‐0,22 ; NSTB 4 ; IC à 95 % 3 à 5),et le besoin de ligature chirurgicale des canaux (RR typique 0,46, IC à 95 % 0,22 à 0,96 ; DR typique ‐0,03, IC à 95 % 0,05 à ‐0,00 ; NNTB 33, IC à 95 % 20 à infini ; 7 essais ; N = 925) (données probantes de qualité moyenne). On a observé une diminution possible du risque d'hémorragie intraventriculaire (HIV) de grade 3 ou 4 chez les nourrissons recevant de l'ibuprofène prophylactique (RR typique 0,67, IC à 95 % 0,45 à 1,00 ; I² = 34 % ; DR typique ‐0,04, IC à 95 % ‐0,08 à 0,00 ; I² = 60 % ; 7 essais ; N = 925) (données probantes de qualité moyenne). Des données probantes de haute qualité ont montré un risque accru d'oligurie (RR typique 1,45, IC à 95 % 1,04 à 2,02 ; DR typique 0,06, IC à 95 % 0,01 à 0,11 ; NNTH 17, IC à 95 % 9 à 100 ; 4 essais ; N = 747).
+Les résultats de faible qualité de quatre études (N = 202) ont montré que l'administration orale d'ibuprofène peut diminuer le risque de PCA (RR typique 0,47, IC à 95 % 0,30 à 0,74) et peut augmenter le risque de saignement gastro‐intestinal (NNTH 7, IC à 95 % 4 à 25).
+Aucune donnée probante montrant une différence n'a été relevée en ce qui concerne la mortalité, les hémorragies intraventriculaires (HIV) ou les maladies pulmonaires chroniques.
+
+CONCLUSIONS DES AUTEURS
+Cette revue montre que l'utilisation prophylactique de l'ibuprofène, comparativement au placebo ou à l'absence d'intervention, diminue probablement la persistance du canal artériel, la nécessité d'un traitement de secours avec des inhibiteurs de cyclo‐oxygénase et d'une fermeture chirurgicale du canal.
+Les effets indésirables associés à l'ibuprofène (par voie intraveineuse ou orale) comprenaient un risque accru d'oligurie, une augmentation des taux sériques de créatinine et un risque accru d'hémorragie gastro‐intestinale.
+Le risque d'hémorragie intraventriculaire (grade III ‐ IV) était réduit, mais il n'y avait aucun signe de différence dans la mortalité, les maladies pulmonaires chroniques, l'entérocolite nécrosante ou le délai pour se nourrir complètement.
+Dans le groupe témoin, la persistance du canal artériel s'était fermée spontanément au jour 3 ou 4 chez 58 % des nouveau‐nés.
+Le traitement prophylactique expose inutilement une grande proportion de nourrissons à un médicament qui a des effets secondaires importants sans leur procurer d'avantages importants à court terme.
+Les données probantes actuelles n'appuient pas l'utilisation de l'ibuprofène pour la prévention de la persistance du canal artériel.
+Jusqu'à ce que les résultats du suivi à long terme des essais inclus dans cette revue aient été publiés, aucun autre essai sur l'ibuprofène prophylactique n'est recommandé.
+Une nouvelle approche de la prise en charge de la persistance du canal artériel est un traitement précoce ciblé basé sur des critères échocardiographiques dans les 72 premières heures de la vie, qui présentent une sensibilité élevée pour le diagnostic d'une persistance du canal artériel dont la fermeture spontanée est peu probable.
+De tels essais sont actuellement en cours dans de nombreuses régions du monde.
+"Les résultats de ces essais seront inclus dans les mises à jour de notre revue ""Ibuprofen pour le traitement de la PCA""."
+
+
+Contexte
+Les complications infectieuses nécessitant un traitement néphrotoxique sont fréquentes chez les patients atteints de fibrose kystique (FK), ce qui exige une surveillance de leur fonction rénale.
+Quoique des études chez l’adulte suggèrent qu’en raison de la réduction de la masse musculaire, la mesure du DFGe basée sur la cystatine C (Cys-C) serait la méthode à privilégier, les patients pédiatriques demeurent sous-étudiés.
+
+Objectif
+Déterminer la meilleure formule de calcul pour estimer le DFG chez les enfants atteints de FK.
+
+Méthodologie
+Au total, 17 patients atteints de FK et traités avec des antibiotiques néphrotoxiques ont été recrutés à l’hôpital pour enfants du London Health Sciences Centre de London (Ontario, Canada).
+Le DFG mesuré par 99Tc DTPA (mDFG) a été mesuré en quatre points à partir de 120 minutes avec un modèle à deux compartiments, en appliquant la correction de Brøchner-Mortenson. Les taux de créatinine, d’urée et de CysC ont été mesurés simultanément.
+Le DFGe a été calculé à l’aide de 16 équations connues basées sur la créatinine, l’urée et la Cys-C, ou sur une combinaison de ces éléments.
+Les principales mesures de résultats étaient une corrélation avec le mDFG et une concordance à l’intérieur de 10 % avec les valeurs de plusieurs équations de DFGe.
+
+Résultats
+Le mDFG moyen s’établissait à 136 ±2 ml/min/1,73 m2.
+Les taux moyens de créatinine, de Cys-C et d’urée étaient respectivement de 38 ±10 umol/L, 0,72 ±0,08 mg/L et 3,9 ±1,4 mmol/L.
+Le DFG obtenu par l’équation de Grubb 2014 avec la CysC présentait le meilleur coefficient de corrélation (r=0,75, p=0,0004), mais seulement 35 % des valeurs avaient une concordance à l’intérieur des 10 %. La nouvelle formule de Schwartz avec la créatinine et l’urée a obtenu le pourcentage le plus élevé de concordance à l’intérieur des 10 %, mais son coefficient de corrélation était relativement faible (r=0,63, p=0,0065, 64% des valeurs à l’intérieur des 10%).
+
+Conclusion
+Ces résultats suggèrent qu’aucune des formules de calcul du DFGe testées n’a bien fonctionné dans notre cohorte d’enfants atteints de FK avec une constitution physique préservée, possiblement en raison d’une inflammation provoquant une élévation du taux de Cys-C. Compte tenu de ces résultats, nous ne pouvons déterminer laquelle parmi ces formules de DFGe est la meilleure.
+
+
+Abstract
+Une étude sur l’influence des tensions polyaxiales (triaxiales véritables) sur la perméabilité d’une couche de roche fracturée en 3D est. présentée.
+Le système de fractures 3D est. construit en extrayant le motif d’affleurement 2D d’un niveau calcaire qui présente une structure en échelle consistant en un ensemble de joints parallèles contigu à des fractures courtes d’un stade ultérieur.
+Le comportement géomécanique de la roche fracturée en 3D en réponse aux contraintes in-situ est. modélisé par la méthode des éléments finis discrets, qui peut saisir la déformation des blocs de matrice, les variations du champ de contraintes, la réactivation de fractures préexistantes rugueuses et la propagation de nouvelles fissures.
+Une série de simulations numériques est. conçue pour imposer des contraintes à une roche fracturée en utilisant différentes tensions in situ polyaxiales et les propriétés d’écoulement dépendantes des tensions sont ensuite calculées.
+La couche fracturée a tendance à présenter une localisation plus forte des flux et une perméabilité équivalente supérieure lorsque le rapport des contraintes du champ éloigné augmente et que le champ de contraintes pivote de telle manière que les fractures sont orientées préférentiellement en faveur du cisaillement.
+La dilatation par cisaillement de fractures préexistantes a des effets dominants sur la localisation du flux dans le système, tandis que la propagation de nouvelles fractures a des impacts mineurs.
+Le rôle de la contrainte liée à la surcharge suggère que l’analyse conventionnelle 2D qui néglige l’effet de la contrainte hors plan (perpendiculaire à l’interface de stratification) peut fournir des approximations indicatives mais ne traduit pas entièrement le comportement du réseau de fractures soumis à des tensions polyaxiales.
+Les résultats de cette étude ont d’importantes implications pour comprendre l’écoulement hétérogène de fluides géologiques (par ex. eau souterraine, pétrole) en milieu souterrain et pour améliorer la perméabilité pour des évaluations à grande échelle.
+
+
+Abstract
+Charbon symptomatique sans implication des muscles squelettiques comme cause de mort subite chez des veaux non-vaccinés.
+Neuf veaux non-vaccinés de race Angus âgés de 5 mois sont morts en moins de 48 heures l’un de l’autre.
+Les veaux ne présentèrent que peu ou pas de signes cliniques avant la mort.
+Des examens post-mortem réalisés à la ferme ont été effectués sur trois des veaux décédés, et les trouvailles incluaient: myosite nécrosante et suppurative du muscle diaphragmatique, et pleurésie fibrino-suppurative et épicardite.
+La recherche de clostridies pathogènes à l’aide d’anticorps fluorescents permis d’identifier Clostridium chauvoei et un diagnostic de charbon symptomatique fut posé.
+Le restant du troupeau fut alors vacciné.
+
+
+Contexte
+Trois hôpitaux de district (DH) et sept centres de santé (HC) dans le Rwanda rural.
+
+Objectif
+Décrire le suivi et les résultats du traitement de patients atteints d'hypertension de stade 1 et 2 soignés dans des HC proches de leur domicile en comparaison des patients soignés plus loin de leur domicile dans des DH.
+
+Schéma
+Etude rétrospective descriptive de cohorte à partir de données recueillies en routine, impliquant des patients adultes (>18 ans) soignés dans des services de maladies chroniques non transmissibles et recevant un traitement contre l'hypertension dans des DH et des HC entre le 1e janvier 2013 et le 30 juin 2014.
+
+Résultats
+Sur 162 patients inclus dans l'analyse, 36,4% étaient suivis dans des HC.
+Les patients suivis dans les DH parcouraient des trajets significativement plus longs pour être soignés (10,4 km contre 2,9 km pour les HC, P < 0,01).
+Les chances d'être retenus en soins ont été significativement plus faibles pour les patients des DH sans ajuster sur la distance (OR 0,11 ; P = 0,01).
+Cet effet de rétention a été régulier mais n'est pas resté significatif après ajustement sur la distance (OR 0,18 ; P = 0,10).
+Pour les patients retenus, il n'y a pas eu de différence significative d'atteinte des objectifs de tension artérielle entre les DH et les HC.
+Conclusion
+En supprimant la contrainte de la distance, décentraliser la prise en charge de l'hypertension vers les HC pourrait améliorer la rétention à long terme des patients et pourrait aboutir aux mêmes résultats en matière d'hypertension que dans les DH.
+
+
+Contexte
+Un dépistage actif ciblé de la tuberculose (Tas4TB) à l'aide de camions mobiles dans la communauté a été mis en œuvre dans 15 districts très touchés par la TB au Zimbabwe.
+La population à risque a bénéficié d'un dépistage de TB basé sur les symptômes et la radiographie pulmonaire (CXR).
+Ceux qui ont eu un symptôme positif et/ou une anomalie de la CXR ont eu un recueil de crachats pour une recherche de TB, un diagnostic et un lien avec la prise en charge et le traitement en cas de confirmation de TB.
+
+Objectifs
+Déterminer 1) la proportion et les caractéristiques des patients dépistés ayant eu un diagnostic de TB; 2) la relation entre les symptômes de TB et la CXR avec le rendement diagnostique; et 3) la mise en route du traitement anti-TB et les résultats du traitement.
+
+Schéma
+Etude de cohorte basée sur des données recueillies en routine.
+
+Résultats
+Sur un total de 39 065 personnes dépistées, 663 (1,7%) ont eu un diagnostic de TB dont 126 (19,0%) ont été confirmés par bactériologie.
+Le rendement diagnostique de TB a été le plus élevé parmi les personnes symptomatiques ayant une CXR suggestive de TB (19,4%), parmi les personnes asymptomatique ayant une CXR suggestive de TB (8,4%) et parmi les personnes à risque élevé de TB (3,2%).
+Pour tous les patients ayant eu un diagnostic de TB, les pertes de vue avant traitement ont été de 18,9% et le succès du traitement a été de 59,9%.
+
+Conclusion
+Tas4TB a abouti à un rendement diagnostique élevé mais le lien entre le diagnostic et la prise en charge a été médiocre.
+Les raisons des pertes de vue doivent être mieux comprises et rectifiées.
+
+
+Title
+Bases factuelles tirées de l'Enquête mondiale en milieu scolaire sur la santé des élèves au Liban sur le tabagisme par midwakh : signe avant-coureur de la prochaine pandémie mondiale de tabagisme ?
+
+Contexte
+Le tabagisme par cigarettes est le premier mode de consommation du tabac, mais d'autres méthodes ont gagné en popularité.
+Aux Émirats arabes unis ainsi que dans d'autres pays du Golfe, il est courant de consommer la dokha, un type de tabac mélangé à des herbes et des épices, au moyen d'une pipe appelée « midwakh ».
+
+Objectifs
+La présente étude avait pour objectif de déterminer la prévalence de l'utilisation de la midwakh parmi les élèves libanais ainsi que les facteurs qui y sont associés.
+
+Méthodes
+Les données sur le tabagisme issues de l'Enquête mondiale en milieu scolaire sur la santé des élèves au Liban en 2017 ont été analysées, y compris l’utilisation de la midwakh au moment de l'enquête (définie comme l'utilisation de cette dernière au moins une fois dans les 30 jours ayant précédé l'enquête).
+L'enquête incluait des collégiens et des lycéens (âge compris entre 12 et 18 ans).
+En réalisant des analyses bivariées et de régression logistique, nous avons analysé l'utilisation de la midwakh au moment de l’étude en fonction des variables sociodémographiques et liés au tabagisme.
+
+Résultats
+Sur les 5 590 élèves inclus dans l'analyse, 4,6 % étaient des utilisateurs de la midwakh au moment de l’étude.
+L'utilisation de la midwakh était significativement plus fréquente chez les élèves de 13 ans et plus et chez les élèves de sexe masculin (p <0,01).
+L'utilisation de la pipe était statistiquement plus répandue, de façon significative, chez les élèves des écoles publiques par rapport à ceux des écoles privées.
+Le tabagisme par cigarettes (odds ratio (OR) = 15,22 ; intervalle de confiance à 95 % (IC) : 11,08-20,90), le fait d’avoir déjà fumé le narguilé (OR = 9,61 ; IC à 95 % : 6,66-13,86) et le tabagisme des parents (OR =1,56 ; IC à 95 % : 1,05-2,31) étaient également fortement liés à l'utilisation de la midwakh au moment de l’étude.
+
+Conclusion
+Bien que l'utilisation de la midwakh soit peu répandue au Liban, les schémas d'association de son utilisation sont analogues à ceux du tabagisme par cigarettes et par narguilé chez les jeunes.
+Des recherches supplémentaires sont nécessaires pour comprendre le contexte de l’utilisation de la midwakh et pour éviter sa propagation.
+
+
+Contexte
+Le syndrome hémolytique et urémique atypique (SHUa) se caractérise par l’activation incontrôlée de la voie alternative du complément. Il s’agit d’une maladie rare, hétérogène et très difficile à diagnostiquer.
+Nous avons évalué les patients Canadiens inscrits au registre international du SHUa afin d’offrir une perspective canadienne sur le diagnostic et la prise en charge du SHUa, de même que sur les défis posés par la maladie.
+
+Objectif
+Évaluer les patients Canadiens inscrits au registre international du SHUa afin d’offrir une perspective canadienne sur le diagnostic et la prise en charge du SHUa, de même que sur les défis posés par la maladie.
+
+Méthodologie
+Le registre international du SHUa est une étude observationnelle, non interventionnelle et multicentrique ayant recueilli, de façon rétrospective et prospective, des données auprès de patients de tous âges ayant reçu un diagnostic clinique de SHUa, quel que soit le traitement.
+Tous ces patients étaient admissibles et ont été invités à participer à l’étude. Les patients présentant une infection diagnostiquée à Escherichia coli producteur de shigatoxine, une activité de l’ADAMTS13 inférieure ou égale à 10 % ou un diagnostic subséquent de purpura thrombocytopénique thrombotique ont été exclus.
+Les données colligées à l’inclusion et à tous les six mois par la suite ont fait l’objet d’une analyze descriptive des variables catégorielles et continues.
+Des estimations de Kaplan-Meier ont été employées pour évaluer la survie sans insuffisance rénale terminale (IRT) et des modèles de régression à risques proportionnels de Cox ont servi à évaluer les facteurs de risques associés à l’IRT.
+Les patients ont été censurés au début du traitement par l’eculizumab pour la mesure des résultats.
+
+Résultats
+Au total, 37 patients canadiens ont été inscrits (15 enfants et 22 adultes) entre février 2014 et mai 2017. L’âge médian lors de l’épisode initial était de 25,9 ans (intervalle interquartile: 6,7–51,7); 62,2 % des sujets étaient de sexe féminin et 94,6 % n’avaient pas d’antécédents familiaux de SHUa.
+Plus des trois quarts des patients (78,4 %) ne disposaient d’aucune information génétique ou relative aux anticorps anti-complément du facteur H concluante, et aucun facteur précipitant n’avait été rapporté avant le diagnostic pour la majorité des patients (94 %).
+Neuf patients (8 adultes et 1 enfant) avaient souffert d’IRT avant l’étude.
+Une tendance semble indiquer qu’après l’épisode initial, les enfants seraient moins susceptibles que les adultes de progresser vers l’IRT (survie sans IRT après 5 ans: 93 % et 56 % respectivement; P = 0,05).
+Les médecins-recruteurs ont observé des manifestations rénales chez tous les patients lors de l’épisode initial de SHUa et chez 68,4 % des patients au cours de la phase chronique (inscription à l’étude au moins 6 mois après l’épisode initial).
+Parallèlement, les manifestations extra-rénales sont également survenues chez davantage de patients lors de l’épisode initial que lors de la phase chronique, particulièrement pour les manifestations gastro-intestinales (61,1 % contre 15,8 %) et du système nerveux central (38,9 % contre 5,3 %).
+Les enfants ont été moins nombreux que les adultes à subir des manifestations gastro-intestinales (50,0 % contre 70,0 %), mais ont subi davantage de manifestations pulmonaires (37,5 % contre 10,0 %).
+
+Conclusion
+Cette étude offre un éclairage sur le diagnostic et la prise en charge du SHUa chez les patients canadiens, de même que sur les défis posés par la maladie.
+Davantage de dépistage génétique et de dépistage des anticorps anti-CFH sont requis pour améliorer le diagnostic du SHUa. La prise en charge de la maladie doit tenir compte de plusieurs facteurs, notamment du risque de progression vers l’IRT qui varie selon l’âge (plus probable chez l’adulte) et du fait que le site des manifestations extrarénales diffère chez l’enfant et l’adulte.
+
+
+INTRODUCTION
+Le but de notre étude était de présenter des estimations et des projections par modélisation portant sur les répercussions épidémiologiques et économiques actuelles et futures de la paralysie cérébrale au Canada sur une période de 20 ans (2011-2031).
+
+MÉTHODOLOGIE
+Nous avons utilisé le Modèle de santé de la population (POHEM) – Maladies neurologiques de Statistique Canada pour simuler les états pathologiques, les facteurs de risque et les déterminants de la santé à l’échelle des individus, ainsi que pour décrire et projeter les résultats en matière de santé, en particulier l’incidence de maladies, la prévalence, l’espérance de vie, l’espérance de vie ajustée en fonction de la santé, la qualité de vie liée à la santé et les coûts des soins de santé au cours du cycle de vie des Canadiens.
+Les cas de paralysie cérébrale ont été relevés à partir de sources de données administratives sur la santé en Colombie-Britannique.
+Une cohorte représentative de la population a ensuite été utilisée pour produire les taux d’incidence et de mortalité, ce qui a permis ensuite d’établir des projections des taux d’incidence et de mortalité.
+L’indice de l’état de santé Health Utilities Index Mark 3 (IES3) a également été inclus dans le modèle pour tenir compte de divers états de la santé fonctionnelle, ce qui a permis de réaliser des projections sur la qualité de vie liée à la santé.
+Enfin, nous avons estimé les paramètres de prestation des soins et les coûts des soins de santé à partir d’enquêtes nationales canadiennes et de données administratives sur la santé, puis nous les avons inclus dans les paramètres du modèle pour évaluer les répercussions épidémiologiques et économiques de la paralysie cérébrale.
+
+RÉSULTATS
+S’il est vrai que le taux brut global d’incidence de la paralysie cérébrale devrait demeurer stable, les nouveaux cas diagnostiqués de paralysie cérébrale connaîtront une hausse, passant d’environ 1 800 cas en 2011 à près de 2 200 cas en 2031.
+ De plus, le nombre de personnes atteintes de ce trouble devrait passer de plus de 75 000 en 2011 à plus de 94 000 en 2031.
+Les coûts directs des soins de santé en dollars canadiens constants de 2010 s’établissaient à environ 11 700 $ pour les enfants de 1 à 4 ans atteints de paralysie cérébrale, comparativement à environ 600 $ pour ceux n’étant pas atteints de cette maladie.
+En outre, les personnes atteintes de paralysie cérébrale ont tendance à avoir une moins bonne qualité de vie liée à la santé pendant de plus longues périodes.
+
+CONCLUSION
+Les personnes atteintes de paralysie cérébrale continueront à être confrontées à des difficultés parce qu’elles nécessitent des soins médicaux spécialisés de façon continue et ont un besoin croissant de services de soutien.
+Notre étude fournit un aperçu significatif des coûts à venir et des répercussions de la paralysie cérébrale et offre des données précieuses qui pourraient servir à élaborer des programmes et des stratégies de santé ciblés pour les Canadiens atteints de cette maladie.
+
+
+Contexte
+La littérature sur le risque de thromboembolie veineuse (TEV) chez les patients soumis à une chirurgie générale urgente est limitée.
+Nous avons entrepris cette étude afin de mesurer le taux de TEV symptomatique chez les patients ayant subi une intervention urgente en chirurgie générale.
+
+Méthodes
+Nous avons procédé à une étude de cohorte rétrospective sur les patients qui ont subi une chirurgie générale urgente entre mars et décembre 2014.
+Parmi les données recueillies, mentionnons données démographiques, type d’intervention, risque de TEV, thromboprophylaxie, apparition d’une TEV symptomatique et mortalité.
+
+Résultats
+Nous avons inclus 767 patients dans notre analyse.
+L’âge moyen était de 53 ± 19,7 ans et 52,2 % des patients étaient de sexe féminin.
+Dix-huit patients (2,3 %) ont présenté une TEV en cours d’hospitalisation et 12 (1,6 %) après leur congé.
+Seulement 66 % des patients ont reçu une thromboprophylaxie adéquate.
+Les patients à haut risque ont présenté des taux de TEV (7,4 % c. 2,3 %, p < 0,001) et de mortalité (17,6 % c. 4,0 %, p < 0,001) plus élevés que les patients présentant un risque faible à modéré.
+
+Conclusion
+Le risque de TEV chez les patients soumis à une chirurgie générale urgente est significatif et persiste après le congé hospitalier.
+Il faudra mener des études plus approfondies sur l’amélioration de la qualité de la thromboprophylaxie.
+
+
+Contexte
+Les varices oesophagiennes sont la cause la plus fréquente de l’hémorragie gastro-intestinale supérieure (HGIS) parmi les patients atteints de cirrhose.
+On administre communément de la vitamine K1 aux patients présentant une HGIS et dont la mesure du rapport international normalisé (RIN) est élevée, malgré le manque de preuves soutenant cette pratique.
+
+Objectifs
+L’objectif principal consistait à décrire la fréquence de la reprise du saignement dans les 30 jours après l’administration de la vitamine K1 à des patients atteints de cirrhose et de HGIS.
+L’objectif secondaire consistait à décrire les schémas de prescription de la vitamine K1.
+
+Méthode
+Cette étude multicentrique, descriptive et rétrospective comprenait des patients atteints de cirrhose et de HGIS, ayant été admis à n’importe lesquels des quatre hôpitaux de soins actifs pour adultes de Calgary, Alberta, du 1er janvier 2014 au 31 décembre 2016.
+Les patients étaient répartis en deux groupes : ceux ayant reçu de la vitamine K1 et ceux n’en ayant pas reçu.
+
+Résultats
+Le nombre total de 370 patients correspondait aux critères d’inclusion. Parmi ceux-ci, 243 avaient reçu de la vitamine K1 et 127 n’en n’avaient pas reçu.
+Les caractéristiques de base étaient similaires entre les groupes.
+Un plus grand nombre de patients du groupe « Vitamine K1 “avaient reçu une transfusion d’un concentré de globules rouges, de plasma frais congelé, de plaquettes, de cryoprécipité ou de concentré de prothrombine au cours de leur séjour hospitalier.
+On n’a noté aucune différence significative dans la durée des injections de pantoprazole et d’octréotide.
+Le nombre d’admissions de patients du groupe « Vitamine K1 » à l’unité de soins intensifs était plus élevé et le séjour de ceux-ci était plus long.
+L’endoscopie a montré qu’un plus grand nombre de patients du groupe « Sans vitamine K1 » présentaient des varices oesophagiennes nécessitant un traitement endoscopique.
+Dans les 30 jours après le saignement initial, quarante (16,5 %) patients du groupe « Vitamine K1 » et 7 (5,5 %) du groupe « Sans vitamine K1 » ont subi une nouvelle hémorragie.
+La dose moyenne totale de vitamine K1 administrée était de 25 mg.
+
+Conclusions
+Les résultats de l’étude tendent à démontrer que la vitamine K1 ne réduit pas la fréquence de la reprise du saignement dans les 30 jours qui suivent le saignement initial parmi les patients atteints de cirrhose et de HGIS.
+
+
+Historique
+L’augmentation mammaire transaxillaire par voie endoscopique comporte plusieurs avantages par rapport aux autres méthodes d’augmentation.
+Cette intervention se heurte toutefois à certains problèmes, y compris des traumatismes chirurgicaux plus importants à cause de la zone de séparation plus longue.
+Les auteurs ont postulé que la séparation de l’espace interpectoral par le froid réduirait davantage la lésion que la méthode électrochirurgicale.
+La présente étude visait à comparer les résultats cliniques de l’augmentation mammaire transaxillaire assistée par endoscopie au moyen de la séparation par le froid plutôt que par la séparation électrochirurgicale de l’espace interpectoral.
+
+Méthodologie
+Dans la présente étude clinique prospective, la séparation par le froid et la séparation électrochirurgicale de l’espace interpectoral ont été assurées par une pince de séparation et une électrode monopolaire, respectivement.
+Au total, 20 participants qui ont consulté le département des auteurs à Beijing, en Chine, afin de subir une augmentation mammaire primaire entre le 1er octobre 2017 et le 31 mai 2018 ont participé à l’étude.
+Le résultat primaire était le volume total de drainage postopératoire.
+Les résultats secondaires étaient la durée de l’opération, le volume de drainage quotidien, la douleur quotidienne évaluée à l’aide de l’échelle analogique visuelle (ÉAV) et le taux de réopérations.
+Les chercheurs ont utilisé le test du chi carré pour comparer deux indices répertoriés.
+
+Résultats
+Le volume de drainage total était considérablement plus faible dans le groupe de séparation par le froid que dans celui de séparation électrochirurgicale (170,45 ± 75,40 mL par rapport à 281,05 ± 148,43 mL; P = 0,005).
+Le score d’ÉAV le premier jour postopératoire était considérablement plus faible dans le groupe de séparation par le froid que dans celui de séparation électrochirurgicale (6,45 ± 1,93 par rapport à 7,55 ± 1,43; P = 0,048).
+Deux réopérations (20 %) causées par la douleur postopératoire ou la rigidité de l’implant ont été exécutées dans le groupe de séparation électrochirurgicale.
+
+Conclusions
+La séparation par le froid favorise la diminution du drainage, le soulagement de la douleur postopératoire et la réduction des dommages davantage que la méthode életrochirurgicale en cas d’augmentation mammaire transaxillaire biplan assistée par endoscopie.
+
+
+Objectif
+Évaluer l'impact d'une restriction permanente du port d'armes sur le taux de mortalité lié aux armes à feu en Colombie entre 2008 et 2014, et déterminer les différences d'impact de cette restriction en fonction du lieu du décès et du sexe.
+
+Méthodes
+En 2012, Bogotá et Medellín ont instauré une restriction permanente du port d'armes.
+Nous avons comparé les taux de mortalité liés aux armes à feu dans ces villes (villes d'intervention) avec les taux observés dans l'ensemble des autres villes colombiennes de plus de 500 000 habitants (villes de contrôle).
+Les données fournies par le Département administratif national de la statistique en Colombie nous ont permis de calculer les taux de mortalité liés aux armes à feu entre 2008 et 2014 dans les villes d'intervention et de contrôle.
+Nous avons utilisé la méthode des doubles différences à effets fixes pour mesurer les disparités entre la mortalité liée aux armes à feu dans les villes d'intervention et de contrôle, avant et après l'instauration de la restriction du port d'armes.
+Nous avons ensuite segmenté les résultats en fonction du lieu du décès (espace public ou domicile) et du sexe.
+Nous avons également procédé à des tests de robustesse pour évaluer les hypothèses des modèles.
+
+Résultats
+Les décès causés par des armes à feu dans les villes de contrôle et d'intervention ont diminué entre 2008 et 2014. Cependant, la diminution était plus importante dans les villes d'intervention (de 20,29 à 14,93 par 100 000 habitants ; 26,4 %) que dans les villes de contrôle (de 37,88 à 34,56 par 100 000 habitants ; 8,8 %).
+La restriction a entraîné une baisse de 22,3 % de la mortalité mensuelle liée aux armes à feu, tant à Bogotá qu'à Medellín.
+Cette baisse s'est avérée plus importante dans les espaces publics et pour les individus de sexe masculin.
+Les tests de robustesse ont confirmé les hypothèses des modèles.
+
+Conclusion
+La restriction permanente du port d'armes a un impact positif sur la mortalité liée aux armes à feu.
+Cette politique pourrait être employée par d'autres pays où le nombre de décès attribuables aux armes à feu est élevé, afin de réduire le nombre de blessures par balles dans les centres urbains.
+
+
+Title
+Prévalence et caractéristiques cliniques du diabète au Liban : enquête nationale.
+
+Contexte
+Le nombre des cas du diabète, sous toutes ses formes, a augmenté rapidement dans le monde entier, et en particulier dans la Région de la Méditerranée orientale.
+
+Objectifs
+Cette enquête nationale visait à évaluer la prévalence et les caractéristiques cliniques du diabète sucré au Liban, en mettant l’accent sur le diabète de type 1.
+
+Méthodes
+Une enquête nationale par sondage à plusieurs degrés a été menée auprès des ménages sélectionnés de manière aléatoire utilisant des entretiens en présentiel et plus particulièrement.
+Au total, 4 500 ménages ont été sélectionnés dans toutes les régions à partir d’un cadre d’echantillonnage de la population libanaise.
+
+Résultats
+La prévalence d’un diabète déjà diagnostiqué parmi les 17 832 personnes interrogées (âge moyen de 36 ans) était de 7,95 %. La prévalence du diabète de type 1 en particulier a été estimée à 0,1 %, soit près de 1 % de tous les cas de diabète détectés.
+La plupart des personnes souffrant de diabète ont indiqué être habituellement suivies par un endocrinologue plutôt que par un médecin de soins de santé primaires.
+Un retard dans la réalisation du test d’hémoglobine A1c a été signalé chez 25 % des 1 418 patients.
+Des épisodes d’hypoglycémie sont récemment survenus chez 30 % des patients, parmi lesquels un tiers au moins nécessitaient des soins médicaux, y compris une admission à l’hôpital.
+Des complications ont été diagnostiquées dans 22 % des cas, la rétinopathie étant la plus courante.
+
+Conclusions
+La prévalence du diabète de type 1 au sein de cette population était inférieure aux estimations internationales.
+La prise en charge du diabète semble être insuffisante en raison des retards concernant la réalisation des tests de suivi ainsi que des épisodes d’hypoglycémie et des complications liées à la maladie.
+La coordination de la gestion des soins aux diabétiques devrait être confiée aux médecins de soins de santé primaires, qui peuvent répondre aux besoins des patients en les orientant vers les différents types de soins.
+
+
+Title
+Initiative en faveur de l’hygiène des mains : étude comparative des résultats pré- et post-intervention.
+
+Contexte
+Une hygiène des mains adéquate est considérée comme la mesure la plus efficace pour réduire la transmission des agents pathogènes nosocomiaux.
+
+Objectifs
+Déterminer l’efficacité d’une intervention visant à améliorer le respect des règles d’hygiène des mains pour la lutte contre les infections au service des urgences de l’Hôpital général d’Al-Leith, en Arabie saoudite, et évaluer la charge bactérienne sur les mains comme indicateur d’amélioration possible.
+
+Méthodes
+L’étude s’est déroulée en trois phases : Phase I, évaluation du niveau de conformité avec les règles de base d’hygiène des mains ; Phase II, lancement d’un programme multimodal d’éducation en matière d’hygiène des mains ; et Phase III, nouvelle évaluation du niveau de conformité avec les règles de base d’hygiène des mains.
+Les données collectées découlent de l’observation directe du personnel soignant du service des urgences entre octobre 2016 et mars 2017, en utilisant la méthode d’observation directe standardisée de l’Organisation mondiale de la Santé, les « 5 indications pour l’hygiène des mains ». L’intervention comprenait des sessions d’éducation pour la santé avec contact personnel direct.
+Des échantillons ont été prélevés sur les mains du personnel soignant durant les Phases I et III selon la méthode du sac stérile afin de déterminer la charge bactérienne.
+
+Résultats
+Au total, l’observation a permis de relever 1 374 opportunités d’amélioration de l’hygiène des mains durant l’étude en trois phases.
+La mise en oeuvre du programme interventionnel d’éducation en matière d’hygiène des mains a permis d’améliorer de manière significative la conformité avec les règles d’hygiène des mains, qui est passée de 30,7 % à 45,5 % (p < 0,01).
+La charge bactérienne logarithmique (log10) par main a chuté, passant de 4,97 (écart type = 0,32) à 4,57 (0,47) (p < 0,05).
+
+Conclusions
+Les programmes d’éducation en matière d’hygiène des mains se sont avérés efficaces pour améliorer la conformité dans le service des urgences. La charge bactérienne sur les mains des agents de soins de santé pourrait servir d’indicateur d’amélioration du degré de conformité avec les règles d’hygiène des mains.
+
+
+Contexte
+Bien que les différents examens cardiaques non effractifs (ECNE) effectués après un syndrome coronarien aigu (SCA) fournissent des renseignements utiles au pronostic, leur emploi dans des situations inappropriées entraîne un gaspillage des ressources en santé.
+À l’aide du registre COAPT ( ntemporary cute Coronary Syndrome atient Invasive reatment Strategies) de l’Alberta, nous avons évalué l’emploi des ECNE et les coûts qui y sont associés chez les patients qui ont reçu leur congé de l’hôpital dans l’année suivant un SCA.
+
+Méthodologie
+Tous les patients qui ont reçu leur congé de l’hôpital après un diagnostic primaire de SCA en Alberta entre 2004-2005 et 2015-2016 ont été inclus.
+La fréquence des ECNE (épreuves d’effort [avec ou sans examen d’imagerie] et examens d’imagerie au repos) a été déterminée à partir des bases de données provinciales couplées.
+Les coûts ont été établis à partir de la liste des actes médicaux du régime d’assurance-maladie de l’Alberta.
+
+Résultats
+Des 55 516 patients ayant présenté un SCA, 30 760 ont subi au moins un ECNE (55,4 %) dans l’année qui a suivi l’événement; 13 505 (24,3 %) d’entre eux ont subi plus d’un ECNE.
+Les tendances temporelles en matière d’ECNE affichent une hausse (épreuves d’effort : p tendance < 0,001; examens d’imagerie au repos : p tendance < 0,001).
+Les ECNE ont généralement été effectués au cours des 4 premiers mois après la sortie de l’hôpital (épreuves d’effort, dans les 2 mois; examens d’imagerie au repos, dans les 3 à 4 mois).
+Le coût total des ECNE effectués en 2015-2016 a été évalué à 1,35 M$, soit une hausse de 22,4 % par rapport à 2004-2005 (1,10 M$) (p < 0,001), tandis que l’incidence des SCA a diminué au cours de la même période (p = 0,008).
+
+Conclusions
+Les taux d’ECNE effectués dans l’année suivant un SCA sont élevés et augmentent au fil du temps.
+Le coût estimatif de ces ECNE semble s’accroître de façon disproportionnée par rapport à la croissance des SCA.
+Une enquête plus approfondie s’impose; à l’heure actuelle, on ne peut que spéculer quant aux bienfaits cliniques qui découlent de l’augmentation des ECNE effectués après un SCA et des coûts qu’ils engendrent.
+
+
+Contexte
+La relocalisation, le recrutement ou le départ à la retraite de membres critiques d’une équipe peuvent amener des changements dans le bassin d’expertises pouvant compromettre les résultats obtenus par les patients au sein d’un programme de pédiatrie cardiaque.
+Nous avons conçu une initiative relative à la qualité de la gestion des risques, qui évalue la complexité des cas et les résultats, stratifiés selon le risque, afin d’orienter le programme durant les flux critiques de personnel spécialisé.
+Le protocole de réduction/d’augmentation réalise une diminution méthodique et délibérée de la complexité des cas suivie d’une intensification transparente et intentionnelle de celle-ci.
+
+Méthodologie
+Cette initiative sur la qualité a obtenu l’approbation du comité d’examen de l’éthique des établissements.
+Le consentement du patient/de l’aidant requis pour la collecte de données sur la qualité est obtenu au moment de l’admission à l’hôpital.
+L’initiative incluait tous les patients de chirurgie pour lesquels on disposait de l’indice de chirurgie cardiaque établi au centre Izaak Walton Killiam (IWK) entre le 1er janvier 2003 et décembre 2015.
+Le protocole de réduction/d’augmentation a évolué pour intégrer quatre éléments critiques : 1) un facteur déclencheur et une réduction de la complexité des cas; 2) un observateur externe/expert objectif; 3) une intensification de la complexité des cas; 4) la collecte et l’analyse des données (qualitatives et quantitatives).
+
+Résultats
+Le protocole de réduction/d’augmentation a été utilisé à trois reprises sur une période de 12 ans et sur des durées variables (de 3,5 à 9 mois) dans le but de relever des défis majeurs liés aux ressources humaines spécialisées.
+Les taux de mortalité opératoire des patients ont été comparés à ceux de la base de données sur les chirurgies cardiaques congénitales, et les résultats se sont révélés stables durant et après l’emploi du protocole.
+
+Conclusions
+Une initiative sur la qualité ciblant la gestion des risques a permis à une équipe de pédiatrie cardiaque de s’assurer que les patients continuaient d’obtenir des résultats similaires lors de changements critiques des ressources humaines.
+
+
+Abstract
+Les maladies cardiovasculaires deviennent ainsi les principales causes de décès dans cette population.
+La fibrillation auriculaire (FA) est une arythmie de plus en plus fréquente dans la population générale et chez les PVVIH. On estime que sa prévalence est de 2 % à 3 % chez les PVVIH.
+La prévention de l’accident vasculaire cérébral (AVC) et de la thrombo-embolie systémique (TES) par un traitement antithrombotique constitue la pierre angulaire du traitement de la FA et diminue considérablement la morbidité et la mortalité liées à la FA.
+Bien que les lignes directrices actualisées traitent en profondeur de cette question, elles ne portent pas sur les particularités des PVVIH.
+On ignore si l’infection par le virus de l’immunodéficience humaine (VIH) est un facteur indépendant de la TES chez les individus atteints de FA et si la présence du VIH devrait contribuer à modifier le seuil de thromboprophylaxie de la TES.
+Néanmoins, de plus en plus de données probantes décrivent le fardeau accru des comorbidités comme l’hypertension et l’AVC chez les PVVIH, qui les prédisposent à la FA et à la TES.
+En l’absence de lignes directrices en matière de FA lors de VIH, on devrait réaliser une évaluation exhaustive chez les PVVIH atteints de FA à l’aide des scores couramment disponibles même s’ils n’avaient pas d’abord été validés auprès de la population non atteinte du VIH.
+Les antagonistes de la vitamine K et les anticoagulants oraux directs peuvent être utilisés chez les PVVIH.
+Il est primordial de se pencher sur les comorbidités liées au VIH et sur les interactions médicamenteuses potentielles avec les antirétroviraux pour prévenir la TES et réduire les effets indésirables des anticoagulants oraux.
+La présente revue résume les lignes directrices actuelles en matière de prévention de la TES chez les patients atteints de FA et décrit les principales considérations quant à leur mise en œuvre auprès des PVVIH qui reçoivent un traitement antirétroviral.

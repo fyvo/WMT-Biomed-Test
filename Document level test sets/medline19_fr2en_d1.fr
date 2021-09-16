@@ -1,0 +1,686 @@
+Title
+Connaissance, attitudes, comportements et pratiques associés au diabète sucré au Koweït.
+
+Contexte
+Les taux de diabète au Koweït sont parmi les plus élevés au monde.
+
+Objectifs
+La présente étude avait pour objectif d’évaluer les initiatives de prévention en examinant les connaissances relatives au diabète, les attitudes associées, et les comportements personnels liés aux facteurs de risque parmi la population koweïtienne.
+
+Méthodes
+Une étude transversale portant sur les connaissances, les attitudes, les croyances et les pratiques a été menée auprès de 1124 individus entre juillet et septembre 2015. Une analyse descriptive et des tests du χ2 ont été réalisés.
+
+Résultats
+Même si la plupart des participants (94 %) avaient entendu parler du diabète et 87 % pensaient que le diabète de type 2 pouvait être évité, la connaissance des facteurs de risque était faible [antécédents familiaux (87 %), âge (44 %), peu d’activité physique (10 %), obésité (4 %), régime alimentaire (0 %) et stress (0 %)]. Les habitudes alimentaires étaient variables au Koweït, et 42 % des personnes diabétiques mangeaient plus depuis que la maladie avait été diagnostiquée, ce qui était préoccupant.
+Le mode de vie, particulièrement parmi les citoyens koweïtiens et les personnes diabétiques, était sédentaire (47 % des participants marchaient moins de 20 minutes par jour).
+
+Conclusion
+Malgré l’importance du régime alimentaire et de l’activité physique dans la prévention du diabète, des écarts significatifs existent dans l’éducation du public.
+Au niveau politique, un travail considérable reste à effectuer et une intensification des programmes intersectoriels est nécessaire afin de sensibiliser davantage le public.
+
+
+Title
+Prévalence et déterminants de la pratique de la césarienne au Pendjab, Pakistan.
+
+Contexte
+La césarienne est une intervention obstétricale pouvant sauver des vies qui permet de réduire la mortalité maternelle et d’améliorer la santé génésique.
+Bien que l’accouchement par voie basse demeure une méthode d’accouchement recommandée, sûre et peu coûteuse, la césarienne est parfois pratiquée sans être pour autant nécessaire, ce qui crée des problèmes de santé pour les femmes enceintes et leurs nouveau-nés.
+
+Objectifs
+La présente étude avait pour objectif de mesurer les effets d’un ensemble de variables institutionnelles, démographiques, socio-économiques et spatiales sur la pratique de la césarienne (n = 2424) au Pendjab (Pakistan).
+
+Méthodes
+Les données issues de l’enquête à indicateurs multiples menée au Pendjab en 2014 et une analyse de régression logistique multiple ont été utilisées.
+Une analyse a été menée à l’aide du logiciel STATA (version 12).
+
+Résultats
+Un âge maternel plus avancé lors du premier mariage, un nombre plus important de consultations prénatales, et des quintiles de richesse supérieurs étaient associés à un risque plus élevé de césarienne.
+Au Pendjab, les femmes étaient davantage susceptibles de donner naissance par césarienne dans les établissements de santé privés et aucune différence notable n’a été observée entre les zones urbaines et rurales.
+Une différence importante existait quant au risque de césarienne entre les différents districts du Pendjab. Par exemple, Dera Ghazi Khan et Rawalpindi affichaient le risque le plus bas en comparaison à Bahawalpur, le district de référence, ce qui s’explique en partie par des disparités de développement et la possibilité d’être pris en charge dans des établissements de soins de santé publics.
+
+Conclusion
+Le gouvernement devrait faciliter l’accès aux établissements de soins de santé dans les régions faciles d’accès, notamment pour les femmes vivant dans les zones rurales.
+
+
+OBJECTIFS
+Les services liés à l’usage de substances ont traditionnellement été financés sans l’apport d’un modèle quantitatif global de planification étroitement ajusté aux besoins de la population.
+Cet article décrit la méthodologie utilisée pour développer et préciser les éléments-clés d’un tel modèle, donne un aperçu du prototype canadien qui en a découlé et propose des exemples ainsi que les leçons qui ont émergé dans le cadre de l’essai pilote.
+
+MÉTHODE
+Le besoin de traitement a été défini selon cinq catégories de sévérité du problème, élaborées à partir des données d’une enquête nationale et des niveaux anticipés de recherche d’aide qui sont estimés à partir d’une synthèse narrative des écrits scientifiques internationaux.
+Une démarche pancanadienne employant la méthode Delphi a été adoptée pour répartir la population des personnes en recherche d’aide dans un ensemble de catégories de services de traitement identifiées de façon consensuelle, parmi lesquelles on retrouve la gestion du sevrage, les services dans la communauté et les traitements résidentiels, chacune des catégories comprenant trois niveaux de traitements.
+Les projections des besoins et de la capacité de services requise pour la planification au sein des régions sociosanitaires canadiennes ont été estimées selon l’âge et le genre.
+Le modèle et l’analyse des écarts ont été testés dans neuf régions.
+
+RÉSULTATS
+La répartition nationale des besoins a été estimée ainsi, soit niveau 1, 80,7%; niveau 2, 10,4%; niveau 3, 6,1%; niveau 4, 2,6%; niveau 5, 0,2%.
+Les travaux pilotes du modèle complet d’estimation, y compris l’analyse des écarts, ont montré que les résultats sont corroborés par d’autres indicateurs de besoins et ont été utiles pour la planification locale.
+
+CONCLUSION
+Les leçons tirées des essais pilotes ont été identifiées, y compris les défis liés au modèle lui-même et ceux associés à son implantation.
+Le processus d’estimation développé dans ce prototype canadien ainsi que les spécificités du modèle lui-même peuvent être adaptés à d’autres contextes territoriaux.
+
+
+Abstract
+Le casier judiciaire est un outil pour lutter contre la récidive qui consiste en un relevé de l’ensemble des infractions d’une seule et même personne.
+Le bulletin n° 2 est accessible pour l’Ordre des médecins ou pour les centres hospitaliers dans le cadre des médecins travaillant dans le secteur public.
+Il n’existe aucun texte instaurant précisément l’interdiction d’exercer la médecine avec un casier judiciaire non vierge.
+Cependant, l’exercice légal de la profession implique une inscription à l’Ordre qui lui-même contrôle le contenu du casier judiciaire du médecin.
+A contrario, toute suspension ou interdiction d’exercice de la médecine prononcée par une juridiction répressive ou ordinale doit être inscrite au casier judiciaire.
+Les fautes médicales ayant entraîné une sanction pénale peuvent être inscrites au casier judiciaire et donc suspendre une autorisation d’exercice de la médecine, sans sanction disciplinaire.
+Le fait de posséder un casier judiciaire vierge n’est pas une obligation législative ou réglementaire mais une exigence ordinale.
+De fait, une mention sur le casier judiciaire n’empêche pas la pratique médicale tant que la personne n’est pas inscrite à l’Ordre des médecins ni salariée d’une administration publique.
+
+
+Abstract
+Les athlètes d’endurance, que ce soit au niveau professionnel ou amateur, prennent des anti-inflammatoires non stéroïdiens (AINS) lors de leurs entraînements ou compétitions.
+Le but est, dans la plupart des cas, de diminuer une douleur déjà présente, voire même parfois en prévision d’éventuelles douleurs à venir.
+Toutes ces personnes, et en particulier dans le monde du sport amateur, ne sont pas conscientes des risques que la prise de ces substances peut engendrer et les prennent sans supervision médicale.
+Avec d’autres facteurs de risque comme la surhydratation, la prise d’AINS augmente le risque d’hyponatrémie associée à l’exercice (HAE).
+Cette atteinte est de plus en plus fréquente, en partie suite au développement des efforts de longue distance, mais son incidence reste inconnue.
+Le risque d’insuffisance rénale aiguë est également aggravé par les AINS.
+Ces risques doivent être connus des médecins et des athlètes.
+
+
+Abstract
+Cet article de synthèse résume la littérature actuelle sur la spécialisation sportive précoce et les changements qui se produisent dans le système musculo-squelettique durant la croissance et la maturation.
+Il traite des effets du développement sur les systèmes sensoriels et moteurs et comment ces systèmes participent au mouvement et à la coordination chez le jeune athlète.
+Le nombre de jeunes athlètes dans les sports organisés est à la hausse et la spécialisation sportive précoce est la mode. Cet article vise à sensibiliser les personnes travaillant auprès des jeunes et des adolescents athlètes aux importants changements se produisant au cours du développement et aux répercussions sur le mouvement, la performance et les blessures.
+Il est important que les entraîneurs, les parents et les athlètes comprennent et reconnaissent ces changements et s’attendent à certaines difficultés d’adaptation, qui peuvent être signe d’un plateau ou d’une détérioration de performance, ou alors des blessures de surmenage caractéristiques observées chez l’athlète adolescent.
+
+
+Title
+La perception des besoins par les personnels de soins de santé au Liban : un pas en avant vers une planification éclairée des ressources humaines et du développement professionnel.
+
+Contexte
+Des recherches ont déjà été menées dans plusieurs pays au regard des compétences requises pour gérer de façon efficace les organismes de soins de santé.
+Pourtant, peu de données sont disponibles concernant les compétences et les domaines de connaissances qui font actuellement défaut parmi les personnels de soins de santé travaillant dans des environnements disposant de ressources limitées.
+
+Objectif
+L’objectif de la présente étude était d’évaluer la perception des besoins par les personnels de soins de santé au Liban.
+
+Méthodes
+Nous avons mené une étude exploratoire suivant la méthode de Delphi, faisant intervenir deux groupes de professionnels de soins de santé et comportant une enquête nationale menée auprès de directeurs d’établissements hospitaliers afin d’évaluer les compétences nécessaires et les métiers et spécialités faisant défaut dans le secteur des soins de santé.
+
+Résultats
+Sur la base de l’étude Delphi, les cinq principaux domaines où se fait sentir le besoin en compétences et en connaissances sont les suivants : le professionnalisme, l’éthique, la gestion et l’amélioration de la qualité, la planification stratégique, la gestion et l’amélioration de la qualité et la communication.
+Le besoin en matière de gestion de l’information et de compétences technologiques a été mentionné par plus de 50 % des hôpitaux urbains et a été mis en avant par les deux groupes de professionnels de l’étude Delphi.
+Les professionnels de soins de santé se sont déclarés prêts à suivre des cours de formation continue.
+Les hôpitaux ont par aileurs indiqué la disponibilité de moyens financiers et leur volonté de collaborer avec les établissements d’enseignement afin de faire bénéficier leur personnel de formations et de sessions de formation continue.
+
+Conclusion
+Nos résultats préparent le terrain pour des recherches futures portant sur les problèmes des personnels de soins de santé au Liban et viennent étayer une planification des ressources humaines fondée sur des données probantes.
+Ils pourraient éclairer l’élaboration de politiques nationales et locales dans le pays, capables de répondre aux besoins du système de soins de santé en matière de ressources humaines en vue de satisfaire la demande aux niveaux régional et national.
+Les universités, les syndicats de professionnels et les organisations non gouvernementales pourraient exploiter ces résultats afin d’élaborer des programmes de formation continue et des programmes diplômants intégrant les compétences essentielles requises pour les personnels de soins de santé.
+
+
+Abstract
+Une approche globale des personnes épileptiques est nécessaire.
+Les crises épileptiques sont imprévisibles et peuvent se produire n’importe où.
+Les patients épileptiques ont 4 fois plus de maladies comorbides que la population générale, spécialement des troubles cognitifs et psychiatriques.
+Il faut réduire la stigmatisation et le handicap social associé à l’épilepsie pour améliorer la qualité de vie des patients.
+Il est important de développer une conception globale de la prise en charge thérapeutique dans l’épilepsie.
+
+
+Title
+Évaluation de la dénutrition à l’aide de l’indice composite d’insuffisance anthropométrique chez les enfants de moins de cinq ans au Yémen rural.
+
+Contexte
+L’altération de l’état nutritionnel est un grave problème de santé qui touche les jeunes enfants dans les pays à faible revenu et qui a un impact significatif sur la morbidité et la mortalité infantiles.
+
+Objectifs
+La présente étude visait à évaluer la prévalence de la dénutrition chez les enfants de moins de 5 ans en utilisant les indices classiques et l’indice composite d’insuffisance anthropométrique, puis en comparant leurs résultats estimés.
+
+Méthodes
+Une étude communautaire transversale a été réalisée et des informations ont été recueillies au moyen d’un document structuré précodé lors de visites porte-à-porte.
+Nous avons analysé les données relatives à 1292 enfants âgés entre 6 et 59 mois des districts ruraux d’Ahwar et d’Al-Mahfed, dans le gouvernorat d’Abyan (sud du Yémen), par rapport aux normes de croissance publiées en 2006 par l’OMS.
+
+Résultats
+D’après l’indice composite d’insuffisance anthropométrique, 70 % des enfants souffraient de dénutrition. Selon les indices anthropométriques classiques, les prévalences du retard de croissance, de l’émaciation et du déficit pondéral étaient de 38,5 %, 39,9 % et 55,1 % respectivement.
+L’indice composite susmentionné, qui fournit un chiffre agrégé, a ainsi identifié 31,5 %, 30,1 % et 14,9 % d’enfants dénutris en plus que les mesures du retard de croissance, de l’émaciation et du déficit pondéral prises séparément.
+D’après cet indice composite, 21 % des enfants présentaient une seule insuffisance anthropométrique et 49,2 % présentaient des insuffisances multiples.
+Les indices de retard de croissance, d’émaciation et de déficit pondéral obtenus étaient, respectivement, de 0,55, 0,57 et 0,79.
+
+Conclusions
+L’indice composite d’insuffisance anthropométrique donne un meilleur aperçu de la dénutrition que les indices classiques actuellement utilisés. Il identifie en outre plus d’enfants souffrant d’insuffisances anthropométriques multiples et brosse un tableau plus complet de l’ampleur et de la nature du problème de la dénutrition des enfants vivant dans des communautés où les ressources sont limitées.
+
+
+Abstract
+Combattre la leucémie en utilisant les armes immunologiques, via les anticorps et les lymphocytes, est une idée ancienne, qui a déjà connu un accomplissement dans la greffe de moelle osseuse.
+Pour limiter les effets néfastes sur d’autres organes (maladie du greffon contre l’hôte), des cellules T autologues peuvent être modifiées pour exprimer des récepteurs d’antigènes chimères synthétiques (CAR) avec spécificité antigénique.
+Dans le cadre d’essais cliniques, les cellules CAR-T anti-CD19 ont montré une efficacité importante dans les leucémies et les lymphomes B en rechute ou réfractaires.
+Dans cet article, nous décrivons les approches proposées, les résultats des essais cliniques, les effets secondaires et l’orientation future de ces thérapies dans les leucémies et d’autres cancers pédiatriques ainsi que leurs perspectives dans le contexte suisse.
+
+
+Abstract
+Les recommandations pour le traitement de l’hyperglycémie du diabète de type 2 viennent d’être mises à jour en octobre 2018 par un groupe d’experts au nom de l’American Diabetes Association (ADA) et l’European Association for the Study of Diabetes (EASD).
+Elles tiennent compte des résultats des essais cliniques publiés depuis 2015, démontrant une protection cardiovasculaire (et rénale) avec deux classes de médicaments, les inhibiteurs des SGLT2 (gliflozines) et certains agonistes des récepteurs du GLP-1 (notamment le liraglutide) chez des patients avec maladie cardiovasculaire athéromateuse.
+Dès lors, en cas de contrôle insuffisant par metformine, l’ajout d’un de ces médicaments est privilégié en présence d’une maladie athéromateuse.
+S’il existe une insuffisance cardiaque ou une maladie rénale, la préférence est donnée à un inhibiteur des SGLT2, à condition que le débit de filtration glomérulaire soit suffisant (sup�rieur a 45-60 ml/min/1,73 m²).
+Chez tous les autres patients, le choix doit être guidé par l’objectif principal, fixé de commun accord avec le patient: réduire le risque hypoglycémique (gliptine, gliflozine, pioglitazone ou agoniste des récepteurs du GLP-1), favoriser une perte pondérale (inhibiteur des SGLT2 ou agoniste des récepteurs du GLP-1) ou limiter le coût (sulfamide, pioglitazone).
+En cas d’échec du traitement oral, la préférence pour le passage à un traitement injectable est désormais donnée à un agoniste des récepteurs du GLP-1 plutôt qu’à une insuline basale.
+Ainsi, d’une vue glucocentrique et métabolique prédominant dans les recommandations précédentes, un changement de paradigme est proposé, centré sur la prévention des maladies cardiovasculaires et de l’insuffisance rénale, dans une approche personnalisée du patient.
+
+
+Contexte
+Malgré les récents investissements visant à réduire les erreurs et les effets indésirables en santé, les méthodes d’amélioration de la qualité en chirurgie sont dépassées et inefficaces.
+Les efforts les plus récents dans ce domaine sont axés sur les conférences portant sur la morbidité et la mortalité (CMM), qui sont les mêmes depuis une centaine d’années.
+La présente étude souhaitait quantifier les biais de rappel relatifs aux détails des cas de chirurgie.
+
+Méthodes
+Nous avons recueilli les questionnaires postopératoires immédiats d’un chirurgien, d’un moniteur clinique et de 11 stagiaires après 25 chirurgies de routine.
+L’information recueillie incluait leur degré perçu de concentration, leur état de préparation mentale et leur évaluation du déroulement de l’intervention par rapport au plan prévu, y compris tout effet indésirable peropératoire.
+Nous avons réadministré le questionnaire 7 à 9 jours plus tard pour évaluer la capacité des participants à se rappeler les aspects importants des interventions.
+
+Résultats
+Après 1 semaine, les souvenirs des membres de l’équipe chirurgicale étaient tous imprécis en ce qui concerne même certains éléments majeurs des interventions.
+Même si la plupart des participants se sentaient mentalement prêts et qu’ils n’ont perçu aucun problème de concentration au cours des interventions, ils ont tous commis des erreurs de classification des opérations effectuées, avec ou sans effets indésirables, dans près de la totalité des cas inclus.
+
+Conclusion
+Nos observations montrent que les biais de rappel au sujet des enjeux de sécurité en cours d’intervention sont extrêmement fréquents.
+Cela exerce sûrement un impact de taille sur l’intégrité des données présentées lors des CMM.
+
+
+Abstract
+Diagnostic et traitement de la primo-infection par le VIH : le plus tôt est le mieux !
+En France, l’épidémie d’infection par le virus de l’immunodéficience humaine (VIH) est loin d’être maîtrisée et il est estimé que plus de 7 000 nouvelles infections ont encore lieu chaque année.
+La primo-infection est un moment critique en termes de risque de contagion des partenaires.
+Le risque d’évolution de l’infection est clairement diminué si le traitement est initié au plus tôt. L’intérêt du traitement précoce est désormais bien établi et la faible toxicité des traitements facilite l’adhésion au long cours.
+Les enjeux de la réduction de l’épidémie de VIH en France sont donc d’inciter la communauté médicale à proposer largement une sérologie pour le VIH aux personnes exposées et d’initier au plus tôt un traitement.
+
+
+Abstract
+Toutes les provinces et l’un des trois territoires du Canada ont adopté des lois sur le bronzage artificiel.
+Les domaines qui nécessitent probablement des mesures législatives plus rigoureuses sont l’information sur les risques fournie aux clients, la protection des clients, notamment en ce qui concerne les lunettes de protection et la dose d’exposition, ainsi que les restrictions sur la publicité et le marketing visant le grand public.
+
+
+Contexte
+La transplantation de reins provenant de donneurs vivants présente de nombreux avantages comparativement aux greffes d’organes provenant de donneurs décédés.
+Pourtant, les taux de greffes de reins provenant de donneurs vivants (GRDV) sont en baisse au Canada et varient beaucoup d’une province à l’autre.
+Actuellement, les efforts déployés se concentrent principalement sur les patients et des obstacles les touchant; le manque d’information ou le fait qu’ils ignorent comment demander un rein, notamment.
+Les patients ayant les moyens et le soutien pour trouver un donneur vivant sont ainsi favorisés.
+Un atelier organisé par l’IRSC a recommandé que les efforts visant la compréhension et l’élimination des obstacles à la GRDV se concentrent davantage sur les professionnels de la santé (PS).
+Néanmoins, peu d’attention a été accordée à ce que ceux-ci perçoivent comme des entraves à discuter d’une GRDV avec leurs patients.
+
+Objectif
+Nous voulions savoir ce que les PS de provinces canadiennes avec un taux de GRDV faible (Québec), moyen (Ontario) et élevé (Colombie-Britannique) considéraient comme des entraves à discuter de la procédure avec leurs patients.
+
+Type d’étude
+L’étude est une approche interprétative descriptive puisqu’elle dépasse la description et qu’elle est susceptible d’orienter la pratique clinique.
+
+Cadre
+Des critères choisis à dessein et un échantillonnage par quotas ont été employés pour recruter des PS québécois, ontariens et britanno-colombiens impliqués dans les soins aux patients atteints de néphropathie et/ou dans la coordination des greffes.
+
+Sujets
+ne s’applique pas.
+
+Mesures
+Des interviews semi-structurées ont été menées.
+Le guide de l’interview a été élaboré à partir d’une grille d’analyse préliminaire et d’une revue de la littérature.
+
+Méthodologie
+Les données tirées des interviews ont été examinées par analyse thématique et le procédé de codage comportait une approche déductive et inductive, de même que l’utilisation d’un logiciel d’analyse qualitative (NVivo 11).
+Les principaux thèmes ont été dégagés puis développés, et les interviews ont été menées jusqu’à l’obtention d’une saturation thématique.
+Un total de 16 interviews téléphoniques a ainsi été mené.
+
+Résultats
+Six principaux thèmes ont été dégagés : (1) le manque de communication entre les équipes de dialyse et de transplantation; (2) l’absence de lignes directrices pour l’aiguillage; (3) la perception des rôles et le manque d’implication de l’équipe multidisciplinaire; (4) le manque d’information et de formation de certains PS; (5) les perceptions négatives de certains PS à l’égard d’une GRDV et; (6) les difficultés liées directement aux patients.
+Dans chaque province sondée, les PS ont mentionné que l’attitude des patients et certaines caractéristiques consistaient les principales entraves à discuter d’une GRDV. Selon les répondants ontariens et britanno-colombiens, plusieurs stratégies sont actuellement mises en œuvre pour pallier ces difficultés.
+En Ontario, on mise sur l’application provinciale des principes fondamentaux de normalisation, alors qu’on se concentre plutôt sur l’implication de l’équipe multidisciplinaire et l’amélioration de la perception des rôles de chacun en Colombie-Britannique.
+Un manque d’efforts en ce sens a été observé au Québec, bien que de timides mesures de sensibilisation et de promotion aient émergé.
+
+Limites
+En plus de biais de sélection et liés à l’acceptabilité sociale, notre analyse pourrait ne pas s’appliquer aux autres provinces.
+
+Conclusion
+Les professionnels de la santé impliqués dans l’aiguillage et la coordination des greffes jouent un rôle essentiel dans l’accès à une transplantation de rein provenant d’un donneur vivant. Nous avons identifié les difficultés qu’ils perçoivent à discuter d’une GRDV avec leurs patients; des défis qui justifient une évaluation et des recherches plus poussées en vue d’éclairer les changements d’orientation.
+
+
+Abstract
+L’approche par étapes appliquée en Europe pour combattre la rage canine ainsi que celle transmise par la faune sauvage a démontré que cette maladie peut être contrôlée et éliminée à sa source animale.
+La stratégie conçue et soutenue par l’Union européenne pendant une décennie s’est concrétisée par une campagne de vaccination antirabique orale des renards et des chiens viverrins qui a été couronnée de succès et constitue un modèle pour l’élimination de la rage transmise par les animaux sauvages.
+Les auteurs examinent le déroulement des étapes successives de la lutte contre la rage animale et de son élimination dans certaines régions européennes, en particulier en Europe occidentale.
+Ils examinent également les mesures actuelles de lutte et annoncent les difficultés auxquelles il faudra faire face à l’avenir, en particulier dans les vastes régions d’Europe orientale où la population est clairsemée et la rage endémique.
+
+
+Abstract
+Tandis que la légitimité des traitements médicaux est de plus en plus mise en question, on constate une augmentation paradoxale des approches non conventionnelles, notamment en psychiatrie.
+Avec le temps, des approches qui étaient considérées de valeur par la communauté scientifique se sont révélées inefficaces, tandis que d'autres, étiquetées comme alternatives ou complémentaires, ont été décrites comme efficaces dans quelques indications.
+À partir de cette observation, nous proposons de classer les traitements soit comme orthodoxes (validés scientifiquement) soit comme hétérodoxes (non validés scientifiquement).
+Pour illustrer ces deux catégories, nous commentons la place, le rôle, l'intérêt et aussi les risques potentiels des approches non conventionnelles dans la pratique actuelle de la psychiatrie.
+
+
+Abstract
+Le Suliqua® (iGlarLixi) est une combinaison, à ratio fixe, de l’insuline basale glargine U100 et d’un agoniste du récepteur du glucagon-like peptide-1 (GLP-1), le lixisénatide.
+Les deux molécules exercent des effets antihyperglycémiants complémentaires : l’insuline glargine cible, principalement, la glycémie à jeun tandis que le lixisénatide cible, avant tout, la glycémie post-prandiale.
+Ainsi, la combinaison d’insuline glargine et de lixisénatide (iGlarLixi) entraîne une réduction plus importante du taux d’hémoglobine glyquée (HbA1c) que chaque composant individuel et permet d’atteindre plus souvent une cible d’HbA1c inf�rieur a 7 %. Elle offre également un bon profil de tolérance, avec un effet plus favorable sur le poids corporel par comparaison à l’insuline glargine seule et moins de manifestations indésirables digestives par rapport au lixisénatide seul et ce, grâce à une titration plus progressive du composant agoniste du récepteur du GLP-1. iGlarLixi (Suliqua®) est présenté sous forme de deux stylos pré-remplis, l’un permettant de titrer l’insuline glargine jusque 40 UI/jour, l’autre jusque 60 UI/jour, avec, dans les deux cas, une dose de lixisénatide allant jusqu’à un maximum de 20 µg. Ces deux présentations permettent au clinicien de mieux personnaliser l’approche thérapeutique en fonction des besoins du patient.
+Suliqua® est actuellement remboursé, sous conditions, dans le traitement du DT2 insuffisamment contrôlé sous insuline basale associée ou non à des antidiabétiques oraux.
+
+
+Title
+Prévalence et corrélats du tabagisme en milieu de travail chez les travailleurs expatriés de sexe masculin en Arabie saoudite.
+
+Contexte
+Les populations immigrées en Arabie saoudite sont confrontées à des inégalités importantes en matière de santé, y compris une plus forte prévalence du tabagisme et un taux de sevrage plus faible.
+
+Objectifs
+Déterminer la prévalence et les corrélats du tabagisme en milieu de travail au moment de l’étude afin de mettre en oeuvre des interventions antitabac ciblées.
+
+Méthodes
+Une étude transversale a été réalisée auprès de 4575 travailleurs expatriés de sexe masculin afin d’étudier les liens entre le tabagisme auto-déclaré, les caractéristiques sociodémographiques, le secteur et la profession, le régime d’assurance maladie et l’état de santé global en recourant aux analyses de régression logistique.
+
+Résultats
+La prévalence du tabagisme au moment de l’étude était de 22,9 % chez les travailleurs expatriés de sexe masculin, soit plus faible que la prévalence estimée dans la population générale (25,9 %). Les facteurs étroitement associés au tabagisme incluaient le fait d’être marié sans vivre avec la famille (odds ratio ajusté [ORa] = 1,278 ; intervalle de confiance [IC] à 95 % : 1,048-1,560), la couverture d’assurance-maladie (ORa= 1,326 ; IC à 95 % :1,124-1,565), le travail manuel (ORa = 1,600 ; IC à 95 % :1,234-2,075) et le fait d’être non qualifié (ORa = 1,788 ; IC à 95 % :1,341-2,383), un revenu mensuel supérieur à 2000 rials saoudiens et une durée de séjour supérieure ou égale à un an.
+
+Conclusions
+Des efforts concertés doivent être mis en oeuvre par le gouvernement national (politiques de santé) et par les employeurs pour réduire la prévalence du tabagisme chez les travailleurs expatriés de sexe masculin, notamment par la fourniture d’une assurance maladie complète couvrant les thérapies de sevrage tabagique, l’application de l’interdiction de fumer sur les lieux de travail ainsi que la mise en place de programmes de prévention du tabagisme et de services de conseil en matière de sevrage tabagique (en ligne ou par téléphone).
+
+
+Objectif
+Obtenir une estimation du nombre de jeunes et d'enfants qui vivent dans les rues d'Eldoret, au Kenya, ainsi qu'une estimation de la prévalence du virus de l'immunodéficience humaine (VIH) chez ces jeunes et ces enfants.
+
+Méthodes
+Nous avons comptabilité ces jeunes et ces enfants à l'aide d'une approche ponctuelle, en veillant à toucher notre population cible grâce une coopération avec les responsables locaux concernés lors de la planification de l'étude.
+Nous avons obtenu des données de dénombrement ponctuel sur une période d'une semaine entre 08:00 et 23:00, grâce à un site fixe et à des équipes mobiles.
+Les participants ont fourni des données démographiques et leur empreinte digitale (pour éviter une double comptabilisation), et ont été encouragés à parler avec un conseiller en matière de VIH et à se soumettre à un dépistage du VIH.
+Nous avons utilisé un modèle de régression logistique pour déterminer l'existence d'un lien entre l'âge ou le sexe et le recours à un dépistage du VIH et la séropositivité.
+
+Résultats
+Sur les 1419 participants admissibles comptabilisés, 1049 (73,9%) étaient des individus de sexe masculin dont l'âge médian était de 18 ans.
+Sur les 1029 individus ayant parlé avec un conseiller, 1004 ont accepté de recevoir des conseils sur le VIH et 947 de se soumettre à un dépistage du VIH.
+En combinant ceux qui étaient déjà au courant de leur séropositivité à ceux qui ont été soumis à un dépistage dans le cadre de notre étude, nous avons obtenu une séroprévalence générale du VIH de 4,1%.
+La séroprévalence était de 2,7% (19/698) chez les individus de sexe masculin et de 8,9% (23/259) chez les individus de sexe féminin.
+Nous avons constaté que la séroprévalence augmentait avec l'âge chez les deux sexes, mais que la magnitude était beaucoup plus importante chez les individus de sexe féminin.
+
+Conclusion
+En comptabilisant les jeunes et les enfants qui vivent dans les rues et en leur proposant des conseils et un dépistage du VIH, nous avons pu obtenir des estimations démographiques de la prévalence du VIH.
+
+
+Abstract
+Au Canada, au Mexique et aux États-Unis d’Amérique, la rage canine a sévi jusqu’au milieu du xxe siècle.
+Le rôle de la faune sauvage dans la transmission du virus de la rage y était également connu et des foyers affectant aussi bien des espèces sauvages que domestiques étaient observés et étudiés.
+Depuis, le Canada et les États-Unis ont réussi à éliminer la rage canine de leur territoire, de sorte que cette maladie ne se déclare plus que sous forme sporadique dans certains états du Sud du Mexique.
+En revanche, les variants des virus de la rage qui affectent la faune sauvage circulent sur tout le territoire continental, leur présence étant géographiquement associée à celle de certaines espèces déterminées qui font office de réservoirs, avec des conséquences importantes pour la santé tant publique qu’animale et pour l’économie.
+Les premières mesures de lutte appliquées contre la rage, essentiellement des stratégies de contrôle des populations de chiens à travers une législation appropriée et une réduction de certaines populations d’animaux sauvages, ont rencontré un succès variable.
+Depuis une trentaine d’années, les programmes de lutte contre la rage chez les chiens et les animaux sauvages font l’objet d’une « démarche de gestion intégrée » associant des campagnes de sensibilisation, l’application de la vaccination (par voies parentérale et orale), la maîtrise stratégique des populations, la responsabilisation des propriétaires de chiens et la gestion efficace des ressources naturelles, en plus de la coopération et de la collaboration entre les parties prenantes à l’échelle locale, nationale et internationale.
+En ce qui concerne l’avenir, l’objectif d’éliminer les variants du virus affectant spécifiquement la faune sauvage se heurte à l’expansion potentielle du spectre d’espèces réservoirs à la faveur du changement climatique et d’autres facteurs, ainsi qu’au risque de réintroduction de variants du virus précédemment éliminés.
+Pour réussir, les programmes doivent être soutenus dans le temps et s’accompagner d’avancées en matière de vaccins, de stratégies de distribution renforcées, d’un meilleur suivi sur le terrain et d’une modélisation efficace de la propagation de la maladie.
+Ils doivent également reposer sur une surveillance robuste des cas, sur des données phylogénétiques et sur une connaissance accrue de l’écologie des vecteurs.
+
+
+Abstract
+Le temps nécessaire au rendu des résultats de culture des selles avec antibiogramme par la méthode classique pratiquée au Laboratoire national de santé publique (LNSP) d’Haïti s’étale sur une durée de 80 heures en moyenne.
+Ce délai peut être encore allongé par le processus de rendu des rapports d’analyse aux sites de prise en charge, ce qui retarde de manière significative les réponses communautaires face au choléra.
+Cette étude vise à évaluer la fiabilité de résultats partiels par rapport au processus complet.
+Nous avons inclus 250 échantillons de selles analysés au LNSP de janvier à septembre 2017 en déterminant la spécificité, la valeur prédictive positive et le rapport de vraisemblance positif de l’identification des colonies jaunâtres et de l’identification des colonies jaunâtres oxydase positive.
+Quant à l’identification des colonies jaunâtres oxydase positive, la spécificité est de 77 %, la valeur prédictive positive de 81 % et le rapport de vraisemblance positif de 4,31. La communication de résultats partiels aux équipes de terrain à ces étapes serait utile pour guider les interventions en dépit d’une relative diminution de leur fiabilité par rapport au gold standard.
+
+
+Abstract
+Traditionnellement, le médecin a concentré ses efforts sur la maîtrise de la connaissance médicale.
+Face aux enjeux qui se présentent à lui, aux institutions et à la société, il devient évident que sa préoccupation doit également se porter sur la façon dont cette connaissance médicale atteint les patients et la population en général.
+Savoir délivrer nos soins est désormais aussi important que d’avoir les connaissances médicales !
+Dans cet article, nous présentons des nouveaux modèles de soins de santé que nous avons mis en œuvre ou prévoyons de mettre en œuvre à Genève, en Suisse.
+
+
+Abstract
+La rage est une maladie infectieuse zoonotique causée par le virus de la rage.
+Si la présence du virus chez le chien domestique est attestée depuis des siècles, le rôle des chauves-souris et des carnivores sauvages en tant que réservoirs n’est reconnu que depuis le début du xxe siècle.
+Les chauves-souris sont le réservoir historique du virus de la rage, avec une diversité extraordinaire d’espèces perpétuant des lignées distinctes du virus, bien que la distribution géographique des espèces assurant la circulation du virus soit limitée à la faune du Nouveau Monde.
+La présence du virus chez le chien domestique est probablement le fruit d’une évolution ancienne du spectre d’hôtes à partir des chauves-souris mais la datation et les détails de cet évènement ancien sont difficiles à établir au vu de la seule génétique du virus.
+Depuis son installation dans la population de chiens domestiques, le virus de la rage a connu des passages répétés vers de nouveaux hôtes carnivores sauvages du monde entier.
+Les passages les plus fréquents concernent des espèces de diverses familles du sous-ordre des Caniformes au sein des carnivores.
+La circulation du virus de la rage chez les chauves-souris a été associée à des passages d’hôtes vers des réservoirs carnivores sauvages en Amérique du Nord et du Sud.
+Le virus de la rage a fait preuve d’une incroyable capacité à exploiter différents hôtes aussi bien parmi les chiroptères que parmi les carnivores.
+La surveillance exercée dans le cadre du renforcement de la lutte contre la rage chez les chiens domestiques permettra sans doute de faire de nouvelles découvertes concernant la diversité des réservoirs et des vecteurs du virus de la rage au sein de la faune sauvage.
+
+
+OBJECTIF
+Modéliser l’impact de la variation des taux d’accès aux différentes trajectoires de traitements spécialisés, sur la prévalence future de la dépendance à l’alcool, l’impact du traitement, le volume de services, les coûts et la mortalité.
+
+MÉTHODE
+Au sein des administrations régionales, les nombres et la prévalence de personnes ayant ‘potentiellement besoin d’être évaluées pour un traitement dans les services spécialisés en dépendance à l’alcool’ (PBÉTSSDA) sont estimés en fonction de niveaux de besoins dits légers, modérés, sévères et complexes.
+Les taux d’accès aux traitements spécialisés par personne ayant PBÉTSSDA sont estimés en fonction de 22 trajectoires différentes de traitements et sont classifiés à partir de données administratives.
+Les autres données intégrées dans le modèle incluent la rémission naturelle, la rechute après le traitement, les coûts de services et les taux de mortalité.
+Les analyses de différents scénarios permettent d’estimer les changements dans les taux d’accès aux traitements spécialisés et aux trajectoires de traitement.
+Les résultats du modèle incluent : le nombre et la prévalence des personnes ayant un PBÉTSSDA, le nombre de personnes traitées dans les 22 trajectoires, les résultats (avoir complété avec succès et abstinence, la réussite avec atteinte d’une consommation modérée non problématique, retourner en traitement dans les 6 mois, abandon, transfert, détention), les taux de mortalité, besoins en termes de capacité (nombre de personnes en contact avec les services dans la communauté, ou qui bénéficient des services dans un centre résidentiel ou en centre hospitalier), le coût total des traitements et les économies générales en soins de santé.
+Cinq scénarios sont illustrés : (a) pas de changement; (b) atteinte des taux d’accès au 70e percentile à l’échelle nationale ; (c) augmenter l’accès de 25%; (d) augmenter l’accès aux taux de l’Écosse; (e) réduire l’accès de 25%.
+
+RÉSULTATS
+Initialement, 14 581 personnes présentaient un PBÉTSSDA (2,43% des adultes) et le taux d’accès aux traitements spécialisés est de 10,84%.
+L’impact sur 5 ans des scénarios sur le nombre de personnes présentant un PBÉTSSDA (par rapport à aucun changement) est : B) réduit de 191 (-1,3%); C) réduit de 477 (-3,3%); D) réduit de presque 2800 (-19,2%); E) augmenté de 533 (+3,6%).
+Un impact similaire est observé sur les autres résultats.
+
+CONCLUSION
+Les décideurs peuvent estimer l’incidence potentielle de la variation des taux d’accès aux traitements spécialisés pour la dépendance à l’alcool.
+
+
+Abstract
+Depuis quatre décennies, la recherche épidémiologique a mis en évidence la nécessité de considérer les déterminants sociaux et la distribution sociale des maladies dans la population suisse, en particulier en fonction du genre.
+Le genre influence la situation sociale, les conditions et les parcours de vie et les comportements en matière de santé qui influencent ensemble la santé.
+Malgré ces acquis, les politiques et stratégies nationales de santé tendent à considérer le genre comme un facteur de second plan, voire à omettre totalement son influence sur la santé.
+La politique Santé2020 et les stratégies nationales spécifiques récentes en témoignent tout particulièrement.
+Or, exclure ou réduire le genre à un facteur biologique entrave la mise en place d’interventions spécifiques visant la réduction des inégalités de santé au nom du principe de justice sociale.
+
+
+Abstract
+Tous les décès par rage sont le résultat d’une prophylaxie déficiente.
+L’encéphalomyélite rabique n’a jamais été notifiée chez des sujets ayant reçu à la fois une vaccination pré-exposition et un rappel post-exposition.
+Il est essentiel de prendre conscience des risques liés au contact avec des animaux enragés.
+L’absence de connaissances élémentaires et le coût prohibitif des vaccins contre la rage empêchent parfois les patients mordus par des animaux suspectés de rage de recourir à une prophylaxie postexposition d’urgence.
+De même, les personnes exposées à des mammifères de par leur profession, celles vivant dans des régions où la rage canine est endémique, les voyageurs et d’autres catégories à risque n’ont pas toujours bénéficié d’une prophylaxie pré-exposition.
+Étant donné que l’infection humaine par le virus de la rage canine a toujours entraîné la mort chez les patients non vaccinés, la modification des protocoles de vaccination se heurte à des réticences bien compréhensibles.
+L’administration du vaccin par voie intramusculaire est peu rentable, tandis que la posologie actuelle d’une faible dose administrée par voie intradermique n’est pas nécessairement moins onéreuse et ne suscite pas une confiance universelle.
+Un nouveau protocole de vaccination intradermique consistant à administrer moins de vaccin mais sur une semaine, en changeant les sites d’injection et en encadrant le protocole par deux examens cliniques pourrait améliorer l’accessibilité d’une prophylaxie fortement immunogène tout en réduisant son coût pour le rendre moins prohibitif.
+L’auteure présente les récentes (2018) recommandations de l’Organisation mondiale de la santé (OMS) en matière de prophylaxie de la rage.
+
+
+Title
+Mise en oeuvre d’un programme d’enseignement interprofessionnel au Liban : surmonter les difficultés rencontrées.
+
+Contexte
+L’Université américaine de Beyrouth possède un programme d’enseignement interprofessionnel (EIP) performant ; il suit une approche pédagogique fondamentale pour l’éducation sanitaire, selon laquelle des étudiants provenant de différents corps de métier apprennent ensemble, ce qui, au final, entraîne un développement au niveau des compétences parmi les professionnels de santé et, par conséquent, une amélioration des résultats pour les patients.
+Ce programme regroupe des étudiants en soins infirmiers, en nutrition, en médecine, en pharmacie et dans le domaine des services sociaux et il fonctionne depuis six ans.
+
+Objectif
+Le présent article vise à décrire la mise en oeuvre d’un programme d’EIP au Liban en s’attachant plus précisément aux moyens de surmonter les principales difficultés rencontrées.
+
+Méthodes
+Nous décrivons notre expérience concernant l’utilisation des catégories de difficultés élaborées par Sunguya et al.
+(2014) dans leur analyse de rapports publiés sur des programmes d’EIP mis en place dans des pays industrialisés.
+Nous avons identifié trois difficultés supplémentaires susceptibles de s’appliquer partout dans la région du Moyen-Orient et de l’Afrique du Nord ou dans des pays présentant des caractéristiques socioéconomiques semblables.
+
+Résultats
+Les difficultés rencontrées lors de la conception et de la mise en oeuvre du programme EIP étaient proches de celles observées avec d’autres programmes : cursus, leadership, ressources, stéréotypes et attitudes, diversité des étudiants, concept de l’EIP, enseignement, enthousiasme, jargon professionnel et accréditation, ainsi que contrôle des connaissances, sécurité et logistique.
+
+Conclusion
+Cet article fournit des données et des stratégies probantes qui peuvent être utiles à des programmes futurs ou déjà mis en oeuvre dans des contextes socioéconomiques semblables au sein de la région du Moyen-Orient et de l’Afrique du Nord.
+
+
+OBJECTIFS
+Peu de connaissance existe sur les facteurs influençant l’implantation d’un système de mesure du rendement, particulièrement dans les pays à revenu faible et intermédiaire (PRFI).
+Pour aborder cette question, nous décrivons l’implantation d’un système de mesure du rendement des services de traitement en toxicomanie d’Afrique du Sud, connu sous le nom du projet de Mesures de la qualité du service (MQS).
+
+MÉTHODE
+Nous avons mené une évaluation d’implantation du système à l’aide d’une méthode mixte.
+Nous avons interrogé 81 pourvoyeurs de services sur l’ampleur de l’implantation du système dans leur agence et les facteurs qui ont facilité l’implantation.
+Nous avons mené 26 entrevues approfondies sur les perceptions des pourvoyeurs concernant les obstacles et les facilitateurs de l’implantation.
+
+RÉSULTATS
+L’appropriation générale de ce système était élevée.
+Presque tous les pourvoyeurs voyaient la faisabilité d’implantation du système et le considéraient comme étant acceptable, approprié à leur contexte et utile pour guider l’amélioration des services.
+Cependant, l’ampleur de l’implantation variait de façon significative à travers les sites (p < ,05).
+Le soutien de la direction (p < ,05) était associé à une implantation plus importante dans les analyses multivariées.
+Les pourvoyeurs soulignaient qu’un taux élevé d’attrition des patients, une variabilité dans la volonté d’implanter le système ainsi qu’une capacité limitée d’interpréter les rétroactions sur le rendement ont eu un impact sur l’ampleur de l’implantation du système.
+
+CONCLUSION
+Il est faisable d’implanter un système de mesure du rendement dans les PRFI, si le système est acceptable, approprié et utile pour les pourvoyeurs de soins.
+Pour veiller à ce que ce système soit utile pour l’amélioration des services de traitement, l’implantation du système doit être optimale.
+Des efforts pour mieux couvrir la population cible, l’amélioration du soutien de la direction à l’égard de la mesure du rendement et le développement de la capacité à interpréter les rétroactions sur le rendement peuvent améliorer l’implantation de ce système de mesure du rendement.
+
+
+Abstract
+Insuffisance rénale aiguë par nécrose tubulaire aiguë.
+La nécrose tubulaire aiguë est la première cause d’insuffi- sance rénale aiguë chez l’adulte.
+Survenant secondairement à une ischémie et/ou une toxicité tubulaire, les lésions histologiques communément trouvées sont une desquamation cellulaires épithéliales tubulaire et des dépôts intratubulaires hyalins.
+L’insuffisance rénale observée est à diurèse le plus souvent conservée, de profil organique associée à une protéinurie de faible débit inférieure à 1,5 g/24h sans albuminurie, ni hématurie ou leucocyturie.
+L’association à une anamnèse évocatrice à la réversibilité de l’insuffisance rénale confirme le diagnostic de nécrose tubulaire aiguë.
+Le pronostic mime celui de l’insuffisance rénale aiguë de l’adulte et est le plus souvent sévère en termes de morbi- mortalité.
+Malgré la récupération de la fonction rénale antérieure, cette dernière est anormale sur le plan cellulaire.
+Ce phénomène de réparation anormale expose à un vieillissement accéléré et à une susceptibilité accrue à la néphrotoxicité augmentant ainsi le risque de maladie rénale chronique.
+Si aucun traitement spécifique n’est actuellement recommandé dans la prise en charge curative de la nécrose tubulaire aiguë, une surveillance régulière de la fonction rénale associée aux mesures de néphroprotection simples pourraient être bénéfiques au décours des nécroses tubulaires aiguës les plus sévères, y compris celles ayant fonctionnellement récupérées.
+
+
+Abstract
+L’année 2018 a été extrêmement prolifique en termes de nouveautés.
+Plusieurs études ont amené des résultats intéressants et offrent de nouvelles perspectives anticancéreuses.
+L’immunothérapie prend de plus en plus de place définissant un nouveau standard pour le traitement des différents types de cancer.
+En parallèle d’une nouvelle approche combinant l’immunothérapie et la chimiothérapie qui voit le jour, des nouvelles formes d’immunothérapie adoptive se situent sur la voie d’approbation par les autorités réglementaires.
+Sur le plan décisionnel, l’analyse génétique somatique large des tumeurs devient prépondérante, alors que l’addition de biomarqueurs plus spécifiques est encore nécessaire concernant l’immunothérapie.
+Cet article a pour but de résumer les nouveautés majeures survenues en oncologie pour 2018 concernant les cinq cancers les plus fréquents et l’immunothérapie cellulaire adoptive.
+
+
+Abstract
+Insuffisance rénale aiguë d'origine vasculaire.
+Un large spectre de maladies vasculaires caractérisées par une atteinte primaire des vaisseaux peut être associé à une insuf- fisance rénale aiguë.
+Ces maladies sont habituellement classées en fonction de la taille du vaisseau blessé, incluant les petits vaisseaux (microangiopathie thrombotique, lésion rénale due à une hypertension artérielle maligne, crise rénale de sclérodermie et maladie des emboles de cristal de cholestérol), les vaisseaux moyens (panartérite noueuse) et les vaisseaux de grande taille (infarctus aigu rénal).
+Indépendamment des mécanismes étiopathogéniques sous-jacents et/ou de la taille des vaisseaux impliqués, l’augmentation de la pression artérielle associée à une insuffisance rénale aiguë est une caractéristique majeure et commune de ces maladies rénales.
+Un diagnostic rapide de la maladie vasculaire provoquant l’insuffisance rénale aiguë est nécessaire pour réduire le risque de morbi-mortalité due à l’insuffisance rénale et aux conséquences systémiques de la maladie sous-jacente et pour débuter une prise en charge thérapeutique appropriée qui devrait systématiquement inclure le contrôle de la pression artérielle.
+
+
+Abstract
+Démarche diagnostique devant une insuffisance rénale aiguë.
+L’insuffisance rénale aiguë a aujourd’hui une définition simple et universelle, fondée sur l’élévation de la créatininémie sur un temps court.
+Elle peut représenter une menace vitale, et il est prioritaire de l’évaluer avant toute démarche étiologique.
+Cette dernière requiert une analyse clinique, biologique et radiologique, et elle est stéréotypée : on cherche dans un premier temps un obstacle sur les voies urinaires, puis une insuffisance rénale par défaut de perfusion efficace, et enfin, par élimination, on aboutit au diagnostic d’insuffisance rénale aiguë « organique ». Le cas échéant, la cause la plus fréquente, a fortiori en réanimation médicale, est la nécrose tubulaire aiguë ischémique qui est un diagnostic par défaut qui implique la présence d’un contexte évocateur, et de plusieurs signes négatifs : absence de signes extrarénaux, protéinurie faible et sédiment urinaire inactif.
+Dans tous les autres cas, un avis néphrologique est urgent, et la biopsie rénale est discutée.
+
+
+Title
+Tendances des accidents du travail et des maladies professionnelles chez les travailleurs assurés saoudiens et non saoudiens.
+
+Contexte
+Le développement actuel des industries et des infrastructures en Arabie saoudite est associé à un risque élevé d’accidents du travail et de maladies professionnelles.
+
+Objectif
+La présente étude avait pour objectif de comparer les tendances des accidents du travail et des maladies professionnelles chez les travailleurs assurés saoudiens et non saoudiens.
+
+Méthodes
+Nous avons utilisé la méthode des valeurs d’indice et le calcul de la pente pour analyser les tendances des accidents du travail et des maladies professionnelles à partir des données des rapports statistiques annuels publiés par l’Organisation générale de l’assurance sociale entre 2004 et 2014. Nous avons analysé les données portant sur 10 565 993 travailleurs assurés saoudiens (18,5 %) et 46 402 079 travailleurs assurés non saoudiens (81,5 %) ainsi que sur 896 627 accidents du travail et maladies professionnelles.
+
+Résultats
+La distribution des incidences des accidents du travail et des maladies professionnelles chez les travailleurs assurés non saoudiens (93,5 %) était 14 fois plus importante que chez les travailleurs assurés saoudiens (6,5 %). Les accidents du travail et les maladies professionnelles étaient plus susceptibles d’augmenter chez les travailleurs assurés non saoudiens que chez les travailleurs assurés saoudiens, en particulier dans les secteurs économiques de la construction, du commerce, de la finance et de l’immobilier, dans les professions d’ingénieur et de technicien et dans le secteur des services.
+Jusqu’en 2013, on observait une tendance globale à la baisse des accidents du travail et des maladies professionnelles.
+
+Conclusions
+La mise en place d’un programme de prévention efficace s’impose donc pour réduire le risque élevé d’accidents du travail et de maladies professionnelles auquel sont exposés les travailleurs assurés non saoudiens.
+
+
+Abstract
+L’allergie alimentaire (AA) est responsable d’une altération de la qualité de vie de l’enfant allergique, exposé à un risque parfois vital.
+Les recommandations pour la prévention de l’AA prévoient une introduction, puis l’administration régulière des aliments à risque selon le schéma habituel, non retardé.
+Chez l’enfant devenu allergique, l’adrénaline intramusculaire est le traitement de l’anaphylaxie et doit être prescrite pour une utilisation en cas de risque d’allergie sévère.
+Dans le quotidien, l’éviction de l’aliment en cause est la règle, avec une prévention réfléchie du risque d’allergie associée.
+L’immunothérapie spécifique, principalement orale, est le seul traitement ayant permis une induction de tolérance chez ces patients ; elle peut être proposée au cas par cas, notamment afin d’éviter les accidents lors d’ingestions involontaires.
+
+
+Abstract
+Le dépistage d’une anomalie chromosomique de type trisomie 18 dans le cadre d’une grossesse gémellaire bichoriale-biamniotique repose sur l’échographie et sur la réalisation d’un test prénatal non invasif (NIPT) à partir de 12 semaines de gestation.
+Un examen invasif de type amniocentèse est nécessaire pour une confirmation diagnostique.
+La prise en charge de ces cas compliqués consiste à effectuer un foeticide sélectif au premier ou au troisième trimestre de la grossesse.
+La trisomie 18 résulte le plus souvent d’une non-disjonction chromosomique d’origine maternelle.
+En effet, l’âge maternel avancé est une cause majeure d’anomalie chromosomique et un facteur favorisant les grossesses gémellaires.
+Il s’agit d’une condition sévère avec un taux de mortinatalité très élevé bien qu’il existe certains cas où les enfants survivent plusieurs années.
+
+
+Abstract
+Insuffisance rénale aiguë d'origine interstitielle.
+La néphropathie interstitielle aiguë représente 10 à 30 % des insuffisances rénales aiguës organiques documentées histologiquement.
+Elle est caractérisée par une infiltration de l’interstitium rénal par des cellules inflammatoires, aboutissant à un oedème, des lésions tubulaires et une évolution vers la fibrose.
+Les causes sont multiples, d’origine médicamenteuse (par toxicité directe ou mécanisme immuno-allergique), toxique, infectieuse, auto-immune ou néoplasique.
+Les signes extrarénaux sont souvent absents, la protéinurie est tubulaire et de faible débit, associée à une leucocyturie fréquente.
+Le traitement repose souvent sur une corticothérapie, associée au traitement spécifique : arrêt des médicaments néphrotoxiques, traitement anti-infectieux dans les causes bactériennes ou virales, chimiothérapie dans les cancers.
+
+
+Abstract
+Développement d’un programme d’enseignement national fondé sur les compétences pour les infirmiers techniciens en Égypte.
+La profession infirmière en Égypte a évolué au cours des dernières décennies.
+Son développement s’est accéléré suite à la reconnaissance récente par le gouvernement de la contribution apportée par les personnels infirmiers à l’accessibilité, la qualité et la prestation des services de santé.
+Un projet visant à renforcer les capacités des personnels infirmiers a débouché, récemment, sur un nouveau mandat exigeant que tous les programmes d’enseignement en soins infirmiers soient fondés sur les compétences.
+Dans le même temps, le Fonds de développement pour l’éducation du Cabinet des ministres égyptien a rédigé un plan pour l’enseignement des soins infirmiers comprenant une stratégie dont le but est d’élaborer et de mettre en oeuvre un modèle d’éducation contextuellement cohérent, ayant fait ses preuves et d’un niveau comparable aux normes internationales.
+Le présent article examine le projet d’élaboration de ce programme d’enseignement, d’une durée de quatre ans, destiné à améliorer le programme actuel suivi par les infirmiers techniciens et à le transformer en un modèle cohérent fondé sur les compétences.
+Ce modèle d’éducation fondé sur les compétences fera l’objet d’un essai au sein de trois instituts techniques avant d’être déployé et mis en oeuvre au niveau national.
+Les détails de la structure du projet sont décrits, avec notamment un aperçu des considérations liées à l’élaboration du programme d’enseignement.
+Le présent article fournit des idées utiles aux décideurs politiques et aux enseignants qui entreprennent des réformes semblables de leurs personnels de santé ainsi que des initiatives de renforcement des capacités.
+
+
+Objectif
+Examiner comment la multimorbidité peut affecter la progression le long du continuum de soins chez les personnes âgées souffrant d'hypertension, de diabète et d'une infection au virus de l’immunodéficience humaine (VIH) dans les zones rurales d'Afrique du Sud.
+
+Méthodes
+Nous avons analysé des données provenant de 4447 individus âgés de 40 ans ou plus qui ont participé à une étude longitudinale dans le sous-district d'Agincourt.
+Des entretiens avec les ménages ont été réalisés entre novembre 2014 et novembre 2015. Dans les cas de l'hypertension et du diabète (2813 et 512 personnes, respectivement), nous avons défini les troubles concordants comme étant d'autres troubles cardiométaboliques, et les troubles discordants comme étant des troubles mentaux ou une infection à VIH.
+Dans le cas de l'infection à VIH (1027 personnes), nous avons défini tout autre trouble comme étant discordant.
+Des modèles de régression ont été ajustés pour évaluer le lien entre, d'un côté, le type de multimorbidité et, de l'autre, la progression le long du continuum de soins et la probabilité que les patients suivent chaque étape des soins pour le trouble en question (quatre étapes du dépistage au traitement).
+
+Résultats
+Les individus souffrant d'hypertension ou de diabète et d'autres troubles cardiométaboliques étaient davantage susceptibles de progresser le long du continuum de soins pour le trouble en question que ceux qui ne souffraient pas de troubles cardiométaboliques (risque relatif, RR: 1,14, intervalle de confiance, IC, à 95%: 1,09–1,20, et RR: 2,18, IC à 95%: 1,52–3,26, respectivement).
+La comorbidité discordante a été associée à une progression plus importante le long du continuum de soins dans le cas des individus souffrant d'hypertension, mais non de diabète.
+La progression le long des étapes de soins était moins importante pour les individus souffrant d'une infection à VIH et de troubles cardiométaboliques que pour ceux non atteints de troubles cardiométaboliques (RR: 0,86, IC à 95%: 0,80–0,92).
+
+Conclusion
+Les patients souffrant de troubles concordants étaient davantage susceptibles de mieux progresser le long du continuum de soins, tandis que les patients présentant une multimorbidité discordante avaient tendance à ne pas progresser au-delà du diagnostic.
+
+
+Abstract
+Découverts dans les années 1970, les norovirus humains (NoV) sont reconnus comme les principaux agents pathogènes responsables de toxi-infections d’origine alimentaire et d’épidémies de gastro-entérites au niveau mondial.
+Ils infectent toutes les tranches d’âge.
+Chez les enfants de moins de 5 ans, bien que le rotavirus reste actuellement la première cause de gastro-entérites virales, force est de constater que les NoV sont en passe d’en devenir la première cause dans les pays où la vaccination contre le rotavirus a été introduite.
+Le traitement des gastro-entérites virales est symptomatique.
+L’élément clé face aux infections à NoV est de limiter leur transmission.
+La prévention des infections à NoV repose principalement sur l’application de mesures d’hygiène des mains adéquates et la désinfection de l’environnement contaminé.
+Lors des épidémies de gastro-entérites aiguës, l’identification précoce des NoV par des méthodes de laboratoire rapides ou de biologie moléculaire est primordiale afin de mettre en place rapidement les mesures d’hygiène permettant de limiter leur propagation.
+La diversité antigénique des NoV et le manque d’immunité protectrice à long terme rendent la mise au point de vaccins difficile.
+
+
+Abstract
+La peau est le plus grand organe humain qui a des fonctions de protection, de thermorégulation et de sensation.
+Des études récentes suggèrent qu’il faut lui rajouter une fonction supplémentaire: le stockage du sodium. La peau participe ainsi au bilan hydrosodé, et possiblement à la régulation du volume extra-cellulaire et de la pression artérielle.
+Le produit principal de la peau est la sueur.
+La quantité d’électrolytes et d’urée sécrétée par la sueur n’est pas négligeable, et peut considérablement augmenter en cas de stimulation par des saunas ou bains chauds.
+Cette découverte a motivé des études utilisant la transpiration stimulée comme traitement chez des patients souffrant d’insuffisance rénale ou cardiaque.
+
+
+Abstract
+Bien que la consommation du fructose soit associée à un stockage accru de graisses par l’action de l’insuline, le fructose seul n’induit pas la sécrétion de l’insuline par la cellule bêta-pancréatique, contrairement au glucose.
+Nous avons étudié les effets d’une exposition chronique au fructose sur la fonction des cellules bêta.
+Nos résultats révèlent que le fructose potentialise la sécrétion de l’insuline stimulée par le glucose en activant la voie de signalisation de l’adénosine triphosphate (ATP) extracellulaire.
+Cet effet est médié par l’activation des récepteurs purinérgiques P2Y1 et est associé à la libération d’ATP cellulaire par les canaux pannexines-1. En conséquence, l’interaction entre les canaux pannexines et les récepteurs purinérgiques via l’ATP extracellulaire représente une nouvelle cible cellulaire, offrant de potentielles implications thérapeutiques.
+
+
+Title
+Dépistage de l’hypothyroïdie congénitale au Maroc : étude pilote.
+
+Contexte
+Au Maroc, nous ne disposons pas d’informations fiables sur la fréquence de l’hypothyroïdie congénitale (HC).
+
+Objectifs
+La présente étude visait à évaluer la faisabilité d’un programme de dépistage néonatal de la maladie au Maroc.
+
+Méthodes
+Nous avons mené une campagne de dépistage de l’HC chez 15 615 nouveau-nés à la wilaya de Fès au Centre- Nord du Maroc.
+
+Résultats
+Douze cas d’hypothyroïdie ont été confirmés, soit une fréquence de 1 pour 1301 naissances.
+Lorsqu’on exclut les quatre cas d’hypothyroïdie transitoire, la fréquence de l’HC est de 1 pour 1952 naissances. L’athyréose représente 25 % des cas, l’agénésie partielle 25 % des cas et 50 % des cas présentent une glande en place ; 67 % des cas d’HC sont de sexe féminin et 33 % de sexe masculin.
+La moyenne d’âge de dépistage est de 17,1 (écart type [ET] 6,6) jours et celle du début du traitement est de 43,4 (ET 8,7) jours.
+Le suivi des cas mis sous traitement substitutif a montré une bonne évolution des paramètres anthropométriques et psychomoteurs.
+L’étude qualitative a permis de constater que les parents prennent le suivi de leur bébé très au sérieux en dépit du niveau socio-économique très bas de la grande majorité d’entre eux.
+
+Conclusion
+les résultats de notre étude soulignent la nécessité de la mise en place d’un programme de dépistage néonatal de l’hypothyroïdie congénitale au Maroc.
+
+
+Abstract
+Préservation de la fertilité.
+Les traitements des cancers, voire de certaines maladies non tumorales ont amélioré le pronostic de ces pathologies.
+Cependant, ces traitements (chimiothérapie, radiothérapie, voire chirurgie) ont une toxicité sur l’ovaire ou le testicule avec pour conséquence une diminution ou un arrêt de la production d’ovocytes matures ou de spermatozoïdes.
+La préservation de la fertilité utilise des techniques de congélation des gamètes (ovocytes, spermatozoïdes), des embryons ou des tissus germinaux (ovaire ou testicule) afin de restaurer la fertilité des patients guéris.
+La Fédération des centres d’étude et de conservation des oeufs et du sperme humains (CECOS) constitue un réseau national de centres d’assistance médicale à la procréation mettant en oeuvre de manière coordonnée l'ensemble de ces techniques de préservation de la fertilité.
+
+
+Contexte
+Parmi les patients âgés, l’incidence la plus élevée d’épisodes de délire s’observe chez les patients opérés.
+On dispose de données limitées au sujet du risque de délire postopératoire chez les patients soumis à une chirurgie d’urgence.
+Le but de notre étude était de connaître l’incidence des épisodes de délire et les facteurs de risque chez la population âgée soumise à une chirurgie d’urgence.
+
+Méthodes
+Nous avons suivi de façon prospective les patients de 65 ans ou plus soumis à une chirurgie d’urgence entre avril 2014 et septembre 2015 dans 2 centres hospitaliers universitaires de l’Alberta et nous avons recensé les épisodes de délire au moyen d’une méthode validée d’analyse des dossiers.
+La durée des épisodes de délire a été notée.
+Nous avons utilisé des modèles séparés d’analyse de régression logistique multivariée pour dégager les prédicteurs indépendants des épisodes globaux de délire et des épisodes plus longs (durée ≥ 48 h).
+
+Résultats
+Parmi les 322 patients inclus, 73 (22,7 %) ont manifesté un épisode de délire, dont 49 (15,2 %) un épisode plus long.
+Les facteurs de risque à l’égard des épisodes de délire postopératoire ont inclus : l’emploi d’une sonde Foley, la chirurgie intestinale, la chirurgie de la vésicule biliaire, l’appendicectomie, un séjour à l’unité de soins intensifs (USI) et un état de fragilité léger ou modéré.
+Les facteurs de risque à l’égard d’un épisode de délire postopératoire prolongé ont inclus : l’emploi d’une sonde Foley et un état de fragilité léger ou modéré.
+L’approche chirurgicale (ouverte c. laparoscopique) et la durée globale de l’intervention n’ont pas joué un rôle significatif.
+
+Conclusion
+Faisant écho à la littérature publiée, notre étude a identifié l’emploi de la sonde Foley, l’état de fragilité et le séjour à l’USI comme des facteurs de risque de délire chez les patients âgés soumis à une chirurgie d’urgence.
+Nous avons aussi observé un lien entre le risque de délire et certains types d’interventions chirurgicales.
+En comprenant mieux ces facteurs, il sera possible de prévenir ces épisodes et d’orienter les interventions chez cette population à risque élevé.
+
+
+Abstract
+L’ostéosarcome canin est une maladie dévastatrice, avec un mauvais pronostic global.
+La radiothérapie et les bisphosphonates sont actuellement utilisés en combinaison pour le traitement palliatif, malgré une littérature limitée qui étudie leur utilisation combinée.
+Les objectifs de cette étude étaient d’évaluer les effets in vitro de la radiothérapie et des bisphosphonates sur des cellules d’ostéosarcome canin en combinaison.
+Les lignées cellulaires d’ostéosarcome canin D17 et Dharma ont été traitées par irradiation, le pamidronate et le zolédronate seuls et en association.
+Les effets de ces traitements ont été évalués en utilisant des tests de survie clonogénique et de viabilité cellulaire.
+Des diminutions dépendantes de la dose de la survie clonogénique et de la viabilité cellulaire ont été observées pour le traitement par rayonnement et par bisphosphonate.
+L’analyse de l’indice de combinaison a révélé des interactions antagonistes lorsque les radiations et les bisphosphonates étaient utilisés en association à des doses spécifiques, pour les cellules de D17 et d’ostéosarcome de Dharma.
+Une étude plus approfondie des effets combinés des rayonnements et des bisphosphonates pour le traitement palliatif de l’ostéosarcome canin est justifiée.(Traduit par les auteurs).
+
+
+Title
+De l’information sur les personnels au développement des personnels : faire progresser les personnels oeuvrant dans le secteur pharmaceutique en Méditerranée orientale pour de meilleurs résultats sanitaires.
+
+Contexte
+L’utilisation responsable des médicaments et l’optimisation de l’efficacité au niveau des choix et de l’utilisation font des personnels oeuvrant dans le domaine pharmaceutique dans la Région de la Méditerranée orientale des facteurs clé dans l’amélioration des résultats sanitaires.
+C’est pourquoi, il est fondamental d’investir dans le développement et la planification de ces personnels si l’on veut réaliser la couverture sanitaire universelle.
+
+Objectifs
+Donner un aperçu des tendances au regard des capacités des personnels oeuvrant dans le secteur pharmaceutique dans la Région de Méditerranée orientale et mettre l’accent sur l’importance des informations concernant les personnels en vue d’un développement stratégique.
+
+Méthodes
+Une analyse de la littérature et des études mondiales sur les personnels du secteur pharmaceutique a été menée par la Fédération internationale du secteur pharmaceutique afin d’identifier les tendances et les enjeux dans la Région de Méditerranée orientale.
+
+Résultats
+La Région de la Méditerranée orientale a de fortes capacités de production de personnels par rapport à d’autres Régions de l’OMS, mais des problèmes concernant les stratégies de planification de ces personnels et d’information à leur égard persistent.
+Une planification efficace des personnels ne dépend pas seulement de la qualité des informations. Elle exige également une coordination et une gestion intersectorielles, et les objectifs de développement pour les personnels de santé fournissent un cadre de développement pour les pays de la Région.
+
+Conclusion
+On ne saurait parler de développement des personnels si l’on ne dispose pas d’informations à ce sujet.
+
+
+Abstract
+Les douleurs aiguës ou chroniques de la jambe sont un motif fréquent de consultation.
+Il s’agit d’un symptôme souvent peu spécifique et plusieurs étiologies sont à considérer.
+Le pronostic fonctionnel du membre ainsi que le pronostic vital peuvent être engagés.
+Le diagnostic repose souvent sur l’anamnèse et l’examen clinique, alors que la multiplication d’examens complémentaires peut augmenter la confusion diagnostique.
+Une bonne connaissance de l’anatomie de la jambe, ainsi que des différents cadres étiologiques est indispensable à l’évaluation de ces douleurs et permet de guider la démarche diagnostique et thérapeutique.
+
+
+Abstract
+Les vaccins actuels contre la rage sont sûrs et très efficaces lorsqu’ils sont administrés correctement.
+En outre, ils confèrent une immunité durable, avec le maintien de titres neutralisants d’anticorps plusieurs années après la vaccination.
+Néanmoins, les régimes actuels nécessitent l’administration de plusieurs doses pour obtenir des titres élevés d’anticorps neutralisants et ils sont onéreux, de sorte que la vaccination à grande échelle est difficile à mettre en oeuvre dans les pays en développement, pourtant les plus touchés par la mortalité par rage.
+Seule l’adoption de solutions innovantes permettra de ramener l’incidence de la rage à un niveau acceptable.
+De nombreuses études précliniques et cliniques sont en cours, visant à tester les innovations en matière de vaccins, de modes d’injection et d’adjuvants.
+La recherche sur l’utilisation de vaccins à virus vivant et sur de nouveaux vecteurs vaccinaux se poursuit, alors que les tentatives de développement de vaccins à ADN n’ont pas réussi jusqu’à présent à obtenir un effet immunogène ou des capacités de neutralisation virale équivalents à ceux des vaccins traditionnels.
+Les résultats d’essais précliniques sur de nouveaux adjuvants moléculaires induisant une réponse immune plus rapide et plus puissante avec moins d’antigène sont extrêmement prometteurs et semblent annoncer l’imminence de meilleurs vaccins contre la rage.
+Il subsiste toutefois d’importantes difficultés : les adjuvants moléculaires ne peuvent être administrés qu’avec des vaccins vivants et les différences de spécificité d’espèce des molécules immunes rendent le développement plus complexe.
+Globalement, les efforts déployés depuis une décennie par la recherche sont impressionnants et encourageants mais la plupart des nouveaux vaccins doivent encore être soumis à des essais cliniques ; d’autre part la viabilité de ces vaccins expérimentaux dans le marché mondial reste à démontrer.
+Seul un vaccin capable de surpasser les performances des vaccins actuels dans chaque domaine aura une chance d’être largement adopté.
+Les auteurs estiment cependant que certains vaccins candidats pourront satisfaire à ces exigences.
+
+
+OBJECTIF
+La Dépression du Post-Partum (DPP) affecte plus de 15% des nouvelles mères.
+Son étiologie est plurifactorielle et encore partiellement méconnue.
+Certaines hypothèses posent l’idée d’un lien avec l’inflammation.
+L’objectif de cette revue est d’explorer l’existence de biomarqueurs de l’inflammation associés à la DPP. Puis sera discutée la possibilité de compléments thérapeutiques éventuels, en lien avec ces biomarqueurs.
+
+MÉTHODE
+La revue systématique de la littérature a été réalisée à partir de PubMed, PsycInfo et Embase. Vingt-cinq articles ont été inclus.
+Différents biomarqueurs ont été identifiés.
+Les plus étudiés sont la C-Réactive Protéine (CRP), les Interleukines 6 et 10, le Tumor Necrosis Factor-alpha et l’Interferon Gamma.
+
+RÉSULTATS
+Alors que peu de résultats apparaissent comme significatifs aux différents temps, le dosage de certains biomarqueurs de l’inflammation, notamment la CRP, en toute fin de grossesse ou juste après l’accouchement pourrait être une piste de recherche intéressante avec une orientation prédictive de la DPP. Les interactions entre inflammation et axe corticotrope peuvent expliquer la survenue de la DPP. Des phénomènes épigénétiques pourraient conduire à un état pro-inflammatoire.
+Plusieurs thérapeutiques offrent des pistes intéressantes grâce à leur propriété anti-inflammatoire.
+
+CONCLUSIONS
+Davantage d’études sont nécessaires afin d’évaluer l’intérêt de ces biomarqueurs comme facteur prédictif de la DPP et d’envisager des traitements complémentaires à l’antidépresseur.
+Si cet intérêt était confirmé, le dosage de marqueur de l’inflammation, notamment la CRP, pourrait aider au dépistage précoce des femmes à risque de DPP, parallèlement à la clinique.
+Une supplémentation en Zinc pourrait alors être proposée.

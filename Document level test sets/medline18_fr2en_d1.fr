@@ -1,0 +1,443 @@
+Abstract
+La surveillance du virus de l'immunodéficience humaine (VIH) dans les pays à revenu faible et intermédiaire a commencé dans les années 1980.
+Les résultats des tests VIH doivent-ils être communiqués aux participants et si oui, comment ?
+En l'absence de traitement efficace, il avait été jugé acceptable de ne pas divulguer leur séropositivité aux participants infectés par le VIH.
+En revanche, dès lors qu'un traitement antirétroviral est disponible, certains évoquent le principe de bienfaisance et estiment qu'il est du devoir du chercheur de communiquer les résultats des tests à tous ceux qui ont fourni des échantillons à des fins de surveillance.
+Mais le corollaire est que seuls les participants qui acceptent d'être informés des résultats de leur test seraient alors éligibles pour participer à ce type d'enquêtes.
+D'autres avancent le principe d'autonomie, en disant que pour obtenir un résultat plus représentatif de la population générale, ces enquêtes ne doivent pas exclure les participants qui ne souhaitent pas recevoir leurs résultats.
+Cette table ronde examine en détail ces deux positions.
+Nous pensons que la communauté internationale devrait œuvrer pour une rétroaction systématique autour de la surveillance du VIH, en veillant à ce que les participants reçoivent et comprennent les résultats de leurs tests.
+
+
+Abstract
+Le trouble dépressif caractérisé (TDC) est la première cause d'invalidité dans le monde et il existe une comorbidité avec de nombreuses maladies chroniques, dont le syndrome métabolique/obésité (SMet).
+Le risque de TDC est deux fois plus élevé chez les femmes ayant un SMet que chez les hommes, mais les tenants et les aboutissants de cette association sont encore mal compris.
+Au vu des études cliniques et précliniques existantes, nous soutenons que le stress maternel prénatal (c'est-à-dire l'excès de libération de glucocorticoïdes et les réponses immunes associées) qui survient pendant la différentiation sexuelle du cerveau du foetus a des effets dépendant du sexe sur le développement cérébral dans des régions très dimorphiques sexuellement, régulant l'humeur, le stress, la fonction métabolique, le système nerveux autonome et la vascularisation.
+De plus, les conséquences de ces effets pour le risque partagé de TDC et de SMet/obésité en fonction du sexe durent toute la vie.
+Nous pensons donc qu'il existerait des substrats biologiques partagés aux niveaux anatomique, moléculaire et/ou génétique qui seraient responsables du risque comorbide de TDC-SMet selon le sexe du foetus.
+
+
+Abstract
+Malgré la complexité et l'hétérogénéité des troubles de l'humeur, des études de recherche clinique et fondamentale ont commencé à élucider la physiopathologie de la dépression et à identifier des antidépresseurs rapides et efficaces.
+Le stress et la dépression sont associés à une atrophie neuronale, caractérisée par la perte des connexions synaptiques dans les régions cérébrales limbiques et corticales impliquées dans la dépression, ce qui se manifeste en partie par une diminution de l'expression et de la fonction des facteurs de croissance, comme le facteur neurotrophique dérivé du cerveau (BDNF), dans le cortex préfrontal (CPF) et l'hippocampe.
+Ces altérations structurales sont difficiles à supprimer avec les antidépresseurs classiques.
+Cependant, d'après des études récentes, la kétamine, un antagoniste du récepteur du N-méthyl-D-aspartate (NMDA) qui induit une action antidépressive rapide chez des patients déprimés résistants au traitement, augmente rapidement la formation des synapses avec les épines dendritiques dans le CPF et s'oppose aux déficits causés par le stress chronique.
+Ce mécanisme intervient par désinhibition de la transmission du glutamate, aboutissant à sa stimulation rapide mais brève, suivie d'une augmentation de la libération du BDNF et d'une activation des voies de signalisation en aval, qui stimulent la formation des synapses.
+Un travail récent démontre que les effets antidépresseurs d'action rapide de la scopolamine, un antagoniste du récepteur muscarinique, s'associent également à une augmentation de la transmission du glutamate et de la formation des synapses.
+Ces résultats ont conduit à vérifier et identifier dans un modèle murin et dans des études cliniques, les produits et les cibles supplémentaires influant sur la transmission du glutamate et ayant une action antidépressive rapide.
+Ces études ont toutes suscité un espoir et une excitation considérables pour une nouvelle génération d'antidépresseurs rapides et efficaces.
+
+
+Abstract
+Les vaccins actuels contre l’influenza A contiennent un mélange d’isolats qui reflète les caractéristiques génétiques et antigéniques des souches actuellement en circulation.
+La présente étude a été réalisée afin d’évaluer l’efficacité d’un vaccin inactivé trivalent contre le virus de l’influenza porcin (Flusure XP) chez des porcs challengés avec un isolat terrain du virus de l’influenza de la grappe α du type H1N1 provenant d’un porc d’origine canadienne.
+Des porcs ont été répartis dans un des trois groupes suivants : vacciné, placebo ou témoin négatif; et examinés pour problèmes respiratoires pendant 5 jours après le challenge.
+Le jour du challenge et le 5 e jour suivant le challenge, on retrouvait dans le sérum des porcs vaccinés des titres réciproques d’anticorps hémagglutinants 40 pour tous les virus vaccinaux mais ≤ 20 pour le virus ayant servi au challenge.
+Des lésions macroscopiques étaient présentes dans les poumons de tous les porcs qui avaient été inoculés avec le virus servant pour le challenge, mais il n’y avait pas de différence significative dans la proportion de tissu pulmonaire consolidé entre le groupe vacciné et le groupe placebo.
+Toutefois, la quantité de virus était réduite de manière significative dans les sécrétions nasales, les poumons et le liquide des lavages broncho-alvéolaires des porcs vaccinés comparativement aux porcs du groupe placebo.
+Ces résultats indiquent que les porcs vaccinés avec Flusure XP étaient partiellement protégés contre une infection expérimentale avec un virus H1N1 porcin de la grappe α qui est génétiquement similaire aux virus qui circulent actuellement chez les porcs canadiens.
+
+
+Abstract
+L’expansion tissulaire à l’aide d’implants produit un excédent de tissus utile pour reconstruire des lésions telles que des cicatrices consécutives à des brûlures.
+Les auteurs décrivent leur technique d’incisions éloignées du foyer de l’expanseur et leur méthode d’hydrodissection par pinces mousse à distance de la poche d’expanseur.
+Au total, ils ont inséré 81 expanseurs chez 30 patients consécutifs, dont 81 % pour reconstruire des cicatrices consécutives à des brûlures.
+Pendant la préparation, les chercheurs n’ont relevé aucune complication, telle qu’une hémorragie, à part un cas d’importante fibrose sous-cutanée dont l’hémorragie a été interrompue par une brève pression.
+Après l’opération, ils n’ont observé aucune complication chez 76 % des patients, mais 16,6 % ont présenté une infection au site chirurgical, liée à l’implantation de plusieurs expanseurs en une même intervention et traitée avec prudence.
+Un patient a présenté un hématome qui s’est résolu spontanément, et un autre, une extrusion de l’expanseur qu’il a fallu retirer.
+L’implantation simultanée d’au moins deux expanseurs s’associait statistiquement à un risque plus marqué de complication(s).
+Le taux de complications des auteurs était modéré et comparable à celui des chirurgies ouvertes ou des endoscopies.
+L’expansion était de plus courte durée que par chirurgie ouverte, grâce à l’incision à distance et à l’utilisabilité immédiate.
+Le rapport coût-efficacité semblait supérieur au moyen de pinces bon marché que de matériel endoscopique élaboré et coûteux.
+
+
+Abstract
+Fin 2008, l’itinéraire clinique (IC) «colectomie gauche» a été mis en place au sein de la Clinique Saint-Joseph (CHC) de Liège.
+Une série de 213 patients présentant une pathologie bénigne ou maligne nécessitant une résection du côlon gauche par laparoscopie a été incluse dans cet IC entre 2009 et 2015.
+Nous nous sommes intéressés à l’observance du protocole de l’IC ainsi qu’aux taux de complications et de ré-hospitalisations dans les 30 jours post-opératoires.
+Nous avons constaté, après comparaison avec un groupe témoin historique, que l’adhésion au protocole IC a été d’emblée excellente (supérieur a 80 %) tout au long de la durée de l’étude.
+Il n’y a pas eu de modification du taux de ré-hospitalisations et le taux de lâchage de suture a été réduit.
+Bien que la diminution de la durée de séjour n’était pas l’objectif premier lors de la mise en place de cet IC, elle s’est significativement réduite passant, en moyenne, de 8 à 4 jours.
+En conclusion, l’introduction d’un IC, pour autant qu’il soit bien préparé et rassemble dans le même objectif l’ensemble des acteurs de soins, est directement bénéfique pour le patient et la qualité de sa prise en charge.
+
+
+Abstract
+Le terme «Big Data» est utilisé depuis quelques années pour engendrer des techniques pour la génération empirique des connaissances.
+Actuellement il est de plus devenu un sujet de discussion dans les mass média.
+La médecine étant également une science empirique l'intention de cet article est de discuter la signification du terme Big Data ainsi que ses bénéfices potentiels pour la recherche médicale.
+
+
+Abstract
+La tumeur intraoculaire la plus fréquente est un cancer métastatique qui se présente fréquemment dans la choroïde.
+Elle provient d'un cancer primaire (connu ou inconnu) situé le plus souvent au niveau du sein ou du poumon.
+La majorité des patients souffrant de métastases choroïdiennes présentent également d'autres métastases. C'est pourquoi une restadification s'impose.
+La nécessité d'un suivi multidisciplinaire est évidente.
+Si l'acuité visuelle est menacée, il est vital que le diagnostic et le traitement interviennent rapidement.
+La modalité thérapeutique privilégiée est la radiothérapie externe.
+La survie des patients souffrant de métastases choroïdiennes ne dépasse pas six à douze mois en moyenne.
+L'autre œil peut être affecté lui aussi. Par conséquent, des examens ophtalmologiques doivent avoir lieu régulièrement.
+
+
+Abstract
+Les troubles du spectre autistique (TSA) sont des maladies neurodéveloppementales caracterisées par des dysfonctions des interactions sociales provoquées par un jeu complexe entre des facteurs de risque immunogénétiques et environnementaux.
+L'auto-immunité a été proposée comme composant étiologique majeur des TSA.
+Il reste à savoir si des auto-anticorps spécifiques dirigés contre des cibles cérébrales sont impliqués dans les TSA.
+Dans cet article, nous identifions au sein d'une cohorte, un patient TSA ayant de nombreux auto-anticorps circulants dont celui très connu contre le récepteur NMDA du glutamate (NMDAR-Ab).
+Ce patient présente une alexithymie et a eu antérieurement deux épisodes dépressifs caractérisés sans symptômes psychotiques.
+Grâce à l'utilisation d'une technique d'imagerie de molécule unique, nous démontrons que ni l'immunoglobuline γ purifiée NMDAR-Ab sérique du patient TSA ni celle d'un patient sain ayant le même anticorps ne désorganisent les complexes membranaires NMDAR au niveau synaptique.
+Ces résultats semblent indiquer que les auto-anticorps NMDAR-Ab de patients autistes ne jouent pas de rôle direct dans I'étiologie des TSA et que d'autres autoanticorps dirigés contre des cibles neuronales devraient faire l'objet de recherches.
+
+
+Abstract
+Les virus de l’influenza de type H5N1 infectent une grande variété d’espèces aviaires et ont récemment été isolés des humains et des porcs.
+Dans la présente étude nous avons généré un adénovirus recombinant défectueux pour la réplication (rAd-H5HA-EGFP) exprimant le gène de l’hémagglutinine (HA) du virus H5N1 A/Porc/Fujian/1/2001 (SW/FJ/1/01) et évalué son immunogénicité et son activité protectrice chez des souris BALB/c. Le virus recombinant induisit des titres élevés d’anticorps inhibant l’hémagglutination (HI) à une dose médiane infectant les cultures cellulaires de 10 8 ou 10 7.
+Comparativement aux souris des groupes témoins, les souris vaccinées avec rAd-H5HA-EGFP n’ont pas montré de perte de poids apparente après une infection défi avec soit le virus homologue SW/FJ/1/01 ou le virus H5N1 hétérologue A/Poulet/Hunan/77/2005 (CK/HuN/77/05).
+La réplication du virus de l’infection défi fut partiellement ou complètement inhibée, et les virus furent détectés à une charge virale significativement inférieure dans les organes des souris vaccinées, qui ont toutes survécu à l’infection défi avec le virus CK/HuN/77/05, ce qui ne fut pas le cas de la majorité des souris témoins.
+Ces résultats indiquent que rAd-H5HA-EGFP peut fournir une protection efficace contre des virus H5N1 hautement pathogènes chez les souris et est ainsi un nouveau vaccin candidat prometteur contre l’influenza H5N1 chez les animaux.
+
+
+Abstract
+La péritonite primaire demeure une maladie rare chez un enfant autrement en santé, et le streptocoque du groupe A (SGA) en est une cause particulièrement inhabituelle.
+Les auteurs présentent le cas d’une fille de 14 ans qui a consulté en raison d’un « abdomen aigu » et a dû subir une laparoscopie d’urgence en salle d’opération.
+Les structures abdominale et pelvienne, de même que l’appendice, étaient peu enflammées.
+Le liquide péritonéal et les prélèvements sanguins ont tous deux permis d’obtenir des cultures pures de SGA.
+L’évolution de la patiente a été compliquée par un syndrome de choc toxique streptococcique.
+Heureusement, elle s’est entièrement rétablie.
+Le présent rapport souligne les dilemmes diagnostiques et thérapeutiques associés à la péritonite primaire à SGA.
+
+
+Abstract
+Nous avons étudié l’anatomie de la branche fascio-cutanée de la troisième artère perforante de l’artère fémorale profonde pour nous aider à façonner un lambeau fascio-cutané en vue de la reconstruction de la peau ainsi que du fascia profond et sous-cutané des régions du genou et du jarret.
+Nous avons procédé à la dissection de 40 cuisses prélevées sur 27 cadavres frais.
+Dans tous les cas, la troisième artère perforante naissait de l’artère fémorale profonde et atteignait la face postérieure de la cuisse après avoir traversé le grand muscle adducteur.
+À partir de là, la troisième artère perforante forme une branche qui trouve passage dans le septum intermusculaire entre le muscle vaste externe et la longue portion du muscle biceps crural, traverse le nerf cutané postérieur et se dirige directement vers le fascia profond, le perfore et se divise ensuite en deux autres branches : l’une ascendante, l’autre descendante.
+Nous avons ensuite étudié la région cutanée du lambeau de la région postérieure de la cuisse, nourrie par la branche fascio-cutanée en injectant un colorant.
+La coloration des régions médianes supérieure, moyenne et inférieure ainsi que de la région latérale inférieure du lambeau n’a pas été concluante dans tous les cas; par contre, celle des régions latérales supérieure et moyenne a réussi sur les 40 cuisses prélevées.
+
+
+Abstract
+La réadaptation cardiovasculaire (RCV) postinfarctus est un programme multidisciplinaire bien défini dont les objectifs sont non seulement d’améliorer la capacité fonctionnelle, la qualité de vie des patients, mais aussi de réduire leur morbi-mortalité cardiovasculaire.
+Même si la RCV est maintenant fortement recommandée dans les directives internationales pour tous les patients postinfarctus du myocarde, seule la moitié des patients y participe en Suisse.
+Pire encore, après une RCV de phase II, moins de 5 % des patients à Genève s’inscrivent dans un groupe de maintenance cardiovasculaire (phase III).
+Nous présentons, dans cet article, les projets que nous menons depuis 2015 afin de stimuler les patients qui ont terminé une RCV de phase II à poursuivre une activité physique régulière et au long cours.
+
+
+Abstract
+Cet article présente une synthèse des concepts de base de la mesure de la qualité de vie (QdV) chez les enfants et les adolescents en psychiatrie et de l'état actuel de la recherche dans ce domaine.
+Les tests de mesure de la QdV disponibles sont présentés d'après leur champ d'utilisation et leurs caractéristiques psychométriques.
+Les outils génériques internationaux de mesure de la QdV pour les enfants sont identifiés et évalués en termes de force et de faiblesse d'après les critères sélectionnés.
+Sept outils génériques de la QdV et deux méthodes sont ainsi répertoriés, satisfaisant aux critères suivants: 1) qualité psychométrique 2) mesure adaptée à l'âge 3) versions d'auto- et d'héréto-évaluation 4) mesure interculturelle.
+Ces outils répondent à des degrés divers aux critères individuels.
+Ils sont de plus en plus utilisés dans la recherche de Santé publique, les études thérapeutiques et la recherche épidémiologique mais restent cependant encore sous-employés en routine clinique chez l'enfant et l'adolescent en psychiatrie.
+
+
+Abstract
+Les médecins peuvent évaluer le risque fracturaire en se basant sur la densité minérale osseuse (DMO) et des facteurs de risque dont certains ont été intégrés dans l’outil FRAX.
+Cependant, la microarchitecture n’est pas prise en compte.
+Le TBS est un indice de texture osseuse lombaire lié à la microarchitecture.
+Un TBS bas est associé à des antécédents de fracture et à l’incidence de nouvelles fractures, indépendamment de la DMO, des facteurs de risque cliniques et du FRAX.
+Le TBS a été intégré au FRAX, et son effet est d’autant plus important pour les individus proches du seuil thérapeutique.
+Le TBS est, en autres, utile pour l’évaluation des ostéoporoses secondaires, notamment le diabète de type 2 et l’ostéoporose cortico-induite.
+Il réagit aux traitements de l’ostéoporose et n’est pas influencé par les troubles dégénératifs lombaires.
+
+
+Abstract
+Cet article a pour but de détailler les nouveautés majeures survenues en gastroentérologie pour 2016, notamment avec l’introduction d’une nouvelle molécule, le vonoprazan, destiné à la prise en charge du reflux gastro-œsophagien (RGO) réfractaire et des nouvelles modalités d’éradication d’ H. pylori.
+La possibilité d’utilisation de doses intermittentes d’IPP plutôt qu’en mode continu dans les ulcères gastriques et duodénaux sévères après hémostase réussie, le sevrage des corticoïdes dans la prise en charge des pancréatites auto-immunes, leur formulation dans la prise en charge de l’œsophagite à éosinophiles, l’intérêt de la chromo-endoscopie lors de coloscopie mettant en évidence des petits polypes (de 1 à 5 mm = diminutive polyps) et l’introduction sur le marché suisse des biosimilaires pour le traitement des maladies inflammantoires chroniques de l’intestin sont également discutés.
+
+
+Abstract
+Les patients avec un diabète de type 2 (DT2) et une insuffisance rénale chronique (IRC) sont de plus en plus nombreux, notamment parmi les sujets âgés.
+De façon étonnante, ce problème est souvent méconnu, voire négligé, lors de la prise en charge en pratique clinique.
+Pourtant, la plupart des antidiabétiques oraux (ADO) ont des limites d’utilisation en cas de diminution de la fonction rénale, soit parce qu’ils nécessitent une réduction de la posologie, soit parce qu’ils sont contre-indiqués essentiellement pour des raisons de sécurité.
+Cette vignette clinique a pour but de discuter les modalités d’utilisation et précautions à prendre lors de la prescription des ADO les plus utilisés, la metformine, les insulinosécrétagogues (sulfamides, répaglinide), les inhibiteurs de la dipeptidyl peptidase-4 (gliptines) et les inhibiteurs des cotransporteurs sodium-glucose de type 2 (gliflozines) chez un patient avec un DT2 et une IRC.
+
+
+Abstract
+Pendant des milliers d'années, le cacao a été une nourriture très populaire et liée à divers effets bénéfiques sur la santé.
+Les études d'observation et épidémiologiques pointent vers un effet bénéfique du chocolat noir sur la morbidité cardiovasculaire.
+Plusieurs petites études démontrent clairement une amélioration de la dysfonction endothéliale – le dysfonctionnement de la couche interne des vaisseaux – après la prise de chocolat noir, riche en flavanols.
+Cette dysfonction est importante, comme l'endothélium est un marqueur important de l'évolution de l'athérosclérose et un facteur pronostique important de futurs événements cardiovasculaires.
+Cet article vise à résumer la littérature à cet égard.
+
+
+Abstract
+L’administration orale de probiotiques a été évoquée pour la prévention et le traitement de pathologies variées.
+Cette étude a été réalisée pour évaluer l’effet d’une supplémentation probiotique sur l’évolution d’enfants brûlés.
+Quarante enfants brûlés sur une surface de 20 à 50% (5 à 10% de profond) ont été inclus dans une étude prospective randomisée et répartis en 2 groupes de 20, l’un recevant une préparation probiotique (C), l’autre un placebo (T).
+Le devenir, la tolérance digestive, l’incidence des infections, la nécessité de greffes, la mortalité et la durée d’hospitalisation ont été colligés.
+Une mesure de la CRP, de l’albumine sérique, des IgA et un compte lymphocytaire étaient réalisés à l’admission et à J4, 7 et 14.
+Les groupes étaient comparables en termes d’âge (3,67+/-0,67 ans VS 3,56+/-0,73), de sexe, de surface brûlée (34,5+/-1,96% VS 33,9+/-1,82%) et de pourcentage profondément atteint (6,95+/-0,34% VS 7,25+/-0,39).
+L’occurrence de diarrhée (3 VS 9), la nécessité de greffe (2 VS 8), la durée de séjour (17,25+/-0,5 jours VS 21,9+/-2,2) étaient significativement moindres dans le groupe C (p=0,038 ; 0,028 et 0,044 respectivement).
+Dans ce même groupe C, on notait une tendance (p=0,013) vers une diminution des infections (7 VS 12).
+Aucun patient n’est décédé.
+Nous avons observé une amélioration de la cicatrisation et une réduction de la durée d’hospitalisation en cas d’utilisation de probiotiques.
+Toutefois, leurs effets sur la morbidité infectieuse et la mortalité restent flous et nécessitent d’autres études.
+
+
+Abstract
+La dépression est l’une des maladies psychiatriques les plus fréquemment rencontrées en médecine de premier recours, source de souffrance majeure tant pour le malade que pour son entourage.
+Les symptômes classiques sont souvent bien connus pour la femme.
+Cet article a pour but de mettre en exergue les spécificités masculines de cette maladie, parfois méconnues.
+
+
+Abstract
+Les infections de la vésicule et des voies biliaires sont un motif fréquent de consultation aux urgences. Leur évolution est le plus souvent bénigne, mais elles peuvent parfois devenir rapidement une urgence vitale. Le pilier du traitement de la cholécystite aiguë est la cholécystectomie laparoscopique en urgence, réalisée dans un délai inférieur à 72 heures. L’antibiothérapie est souvent suffisante pour le traitement initial de Ia cholangite simple.
+Un drainage biliaire percutané ou endoscopique doit être effectué en urgence pour une cholangite sévère ou en cas de non-réponse au traitement conservateur.
+Le traitement définitif de la cause de la cholangite sera pratiqué dans un deuxième temps.
+
+
+Abstract
+Les nausées sont un symptôme retrouvé fréquemment en consultation chez les patients atteints de maladies chroniques et/ou traités par certains médicaments.
+L’absence de spécificité des nausées doit faire ouvrir un large diagnostic différentiel à explorer.
+Le mécanisme physiopathologique fait intervenir de nombreux neurotransmetteurs, que 5 familles d’antiémétiques antagonisent (antisérotoninergiques, antidopaminergiques, antagonistes du récepteur NK-1, antihistaminiques, anticholinergiques).
+Les glucocorticoïdes et les benzodiazépines sont également utilisés pour traiter certains types de nausées.
+Le choix du traitement le plus adéquat amène une amélioration de la qualité de vie et une meilleure compliance thérapeutique.
+
+
+Abstract
+la néphrolithiase est une affection dont la prévalence (1 à 15 %) a beaucoup augmenté ces dernières décennies dans les pays industrialisés et a, de ce fait, un impact sur les dépenses en soins de santé.
+Cette augmentation de prévalence s’explique essentiellement par une modification des habitudes alimentaires.
+La survenue d’une néphrolithiase peut en outre, être influencée par des facteurs environnementaux, métaboliques voire génétiques.
+La prise en charge de cette affection est le plus souvent pluridisciplinaire, impliquant urologues, néphrologues, radiologues, biologistes et diététiciens.
+La prise en charge urologique peut être nécessaire en phase aiguë et/ou à distance de l’épisode de colique néphrétique, pour l’élimination éventuelle de calculs résiduels.
+Plusieurs techniques sont disponibles : la mise en place de sondes double J, la lithotritie extracorporelle, l’urétéroscopie (souple ou rigide) voire la néphrolithotomie percutanée et plus rarement la chirurgie ouverte.
+La prise en charge néphrologique est justifiée au décours de l’épisode aigu et vise à identifier la ou les cause(s) ayant conduit à la formation de calculs.
+La démarche diagnostique comporte un interrogatoire approfondi (antécédents personnels médicaux et chirurgicaux, histoire de la maladie lithiasique et antécédents familiaux) et un bilan métabolique.
+Par ailleurs, compte-tenu du taux élevé de récidive (environ 50 % dans les 5 à 10 ans), la mise en place de mesures individualisées de prévention secondaire est nécessaire.
+Ces recommandations doivent tenir compte des facteurs de risque identifiés et des éventuelles anomalies du bilan métabolique.
+
+
+Abstract
+L’encéphalite limbique paranéoplasique est une maladie rare.
+Elle est causée par la présence d’auto-anticorps créant une réaction inflammatoire du parenchyme cérébral prédominant au niveau du lobe méso-temporal et dans d’autres parties du système limbique.
+Sa présence impose la recherche d’une tumeur sous-jacente.
+Le traitement du syndrome paranéoplasique comprend des immunosuppresseurs en plus du traitement de la tumeur sous-jacente.
+Cependant, la prise en charge de cette pathologie n’est pas encore bien codifiée.
+
+
+Abstract
+La mise sur pied d’un curriculum canadien de formation médicale fondée sur les compétences (FMFC) en obstétrique-gynécologie (devant débuter en 2017) doit être ancrée dans les principes des programmes « CanMEDS 2015 » et « La compétence par conception ».
+Ce curriculum doit également refléter les réalités particulières de la pratique de la spécialité.
+La Dutch Society of Obstetrics and Gynaecology est à l’avant-garde du mouvement visant la conception et la mise en œuvre de la formation fondée sur les compétences en obstétrique-gynécologie.
+Le curriculum hollandais représente un exemple pratique de la façon dont un tel programme pourrait être élaboré.
+Plusieurs initiatives de FMFC ont maintenant vu le jour au Canada.
+
+
+Abstract
+L’objectif de la présente étude était de mesurer manuellement l’épaisseur de la cornée des yeux canins en utilisant un appareil à tomographie par cohérence optique du domaine spectral (SD-OCT) et d’évaluer la fiabilité intra- et inter-observateur de cette technique.
+Vingt chiens en santé d’un âge moyen de 4,7 ans furent examinés.
+Un protocole de pachymétrie a été mené par un opérateur utilisant un appareil SD-OCT dans les deux yeux de chaque animal.
+Les mesures ont été obtenues manuellement et en duplicata par deux chercheurs indépendants (
+
+
+Abstract
+De nombreux programmes nationaux tuberculose (TB) se sont engagés à déployer le Xpert ® MTB/RIF afin d'améliorer le diagnostic de la TB.
+La mise en oeuvre de cette technique relativement nouvelle a cependant souffert d'un manque d'assistance technique d'ensemble, notamment la formulation de politiques et de plans destinés à prendre en compte les problèmes opérationnels.
+Lorsque nous avons fourni cette assistance technique, nous avons observé de nombreux défis opérationnels dans la mise en oeuvre et l'expansion du Xpert dans cinq pays d'Afrique sub-saharienne : une faible couverture, une infrastructure de laboratoire limitée, un accès limité, des liens médiocres avec la prise en charge thérapeutique, des données insuffisantes sur les résultats, des problèmes de transport des échantillons, des algorithmes de diagnostic qui ne sont pas en accord avec les dernières recommandations de l'Organisation Mondiale de la Santé relatives aux groupes cibles de patients et des défis financiers.
+Nous recommandons une meilleure préparation et formation des pays, une information des laboratoires et des systèmes de contrôle de qualité, une gestion des stocks et des mécanismes de référence.
+
+
+Abstract
+Les tumeurs surrénaliennes sont rares et leur prise en charge est complexe.
+Tout patient présentant une masse de plus de 1 cm ou des symptômes d’une hypersécrétion hormonale doit être investigué.
+Les questions à se poser sont : 1) La tumeur est-elle fonctionnelle ?
+2) Est-elle maligne ou non ?
+Un bilan endocrinologique complet et un CT-scan natif pourront souvent répondre à ces interrogations mais devront être interprétés par des spécialistes au sein d’un colloque multidisciplinaire.
+Les décisions sur la prise en charge se basent sur des recommandations de pratiques cliniques (RCP).
+Il n’est pas recommandé de procéder à un geste diagnostique ou chirurgical avant d’avoir exclu un phéochromocytome ou un cancer corticosurrénalien car ceci pourrait avoir une issue fatale.
+Une masse surrénalienne ne doit être en aucun cas banalisée.
+
+
+Abstract
+L’objectif de cet étude a été l’évaluation des effets de l’utilisation de la tulathromycine comme traitement metaphylactique contre le syndrome «Bovine Respiratory Disease» (BRD) sur les paramètres du liquide ruminal chez les veaux d’engraissement en un élevage intensif.
+Cent veaux de boucherie ont été divisés en deux groups juste après la stabulation: 50 animaux ont reçu le traitement metaphylactique contre le BRD (group traité; 2,5 mg/kg PC de tulathromycine) et 50 animaux ont reçu un traitement placebo (group control).
+Les échantillons de liquide ruminal ont été prélevés sur chaque animal par ruminocentèse en trois moments : le premier jour (T1), 8 jours (T8) et 15 jours (T15) après le traitement.
+Le pH du rumen a été déterminé sur le liquide ruminal en utilisant un pH-mètre portable.
+Les acides gras volatiles totaux (AGV totaux) ont été évalués par chromatographie liquide à haute performance (CLHP).
+Tous les animaux ont étés pesés singulièrement au T1 et au T15.
+Les effets statistiquement significatifs du traitement (group traité versus group control) et du temps (T1, T8 et T15) sur les paramètres du liquide ruminal et sur le poids corporel ont été déterminés en appliquant l’analyse de la variance à deux facteurs (ANOVA).
+Pendant toutes les périodes d’étude aucun animal a montré de signes cliniques de BRD ou d’autres maladies.
+Différences statistiquement significatives ( P
+
+
+Abstract
+Cette étude décrit 213 patients des deux sexes et de tous les âges qui se sont présentés à cause des contractures dues aux brûlures.
+Le cou était la partie du corps la plus atteinte comme site de contracture.
+92 patients (43,19%) ont reçu leur prise en charge initiale dans une unité de chirurgie générale de l’hôpital pour les soins tertiaires et 43 patients (20,18%) dans les hôpitaux de district.
+Seulement 26 patients (12,20%) ont été traités en chirurgie plastique tandis que 52 patients (24,41%) n’ont reçu aucun traitement particulier dans aucun hôpital.
+La majorité des patients (n = 197) ont reçu un traitement conservatif pour les brûlures et seulement 16 patients (7,51%) ont bénéficié d’une greffe cutanée d’épaisseur variable pour une part de leurs lésions.
+Aucun des patients n’a eu le splintage anti-déformation appropriée ni la physiothérapie nécessaire au cours du traitement dans la phase aiguë des brûlures.
+
+
+Abstract
+L’insuffisance rénale chronique (IRC) touche environ 10 % de la population adulte en Suisse.
+Les études épidémiologiques suggèrent que les femmes préménopausées seraient plutôt protégées contre l’IRC et progresseraient moins vite vers l’insuffisance terminale.
+Plusieurs hypothèses ont été émises, tels un effet réno-protecteur des œstrogènes, ou encore des conditions hémodynamiques et / ou structurelles rénales plus favorables.
+Des études animales suggèrent un effet potentiellement bénéfique d’une thérapie par œstrogènes, principalement chez les animaux diabétiques.
+Cet article a pour but de revoir les données épidémiologiques, les hypothèses en vigueur et l’éventuelle efficacité d’une thérapie œstrogénique pour ralentir la progression de l’IRC.
+
+
+Abstract
+Une déchirure obstétricale du sphincter anal (OASIS) peut conduire à une dysfonction sexuelle.
+Peu d’études évaluent la fonction sexuelle à long terme après OASIS.
+L’objectif de cet article est de clarifier les conséquences à long terme des OASIS sur la fonction sexuelle.
+Cela a été effectué au moyen d’une recherche de littérature dans Pubmed. La dyspareunie et les troubles de la lubrification sont rapportés de façon constante dans les études analysées, tandis que la fonction sexuelle globale ne semble pas influencée à long terme.
+Ces dysfonctions sexuelles doivent donc être recherchées spécifiquement dans le suivi des femmes après OASIS.
+
+
+Abstract
+L’objectif de ce travail était d’étudier l’épidémiologie des électrisations par haut voltage au Cachemire pour définir des axes de prévention.
+Les dossiers des 176 patients s’étant présentés dans notre CTB en raison de ce type de blessure entre janvier 2001 et décembre 2010 ont été étudiés.
+L’âge moyen était de 29,77 +/- 8,98 ans, avec une majorité de patients de la tranche 20-40 ans.
+Ils étaient en majorité (68,75%) ruraux et l’accident était plus fréquent en hiver.
+Les électriciens représentaient 47,16% des patients.
+Le contact, direct ou indirect, avec une ligne était le mécanisme le plus fréquent (63,64%).
+La surface brûlée était de 15,27 +/- 10,15% et le membre supérieur droit était atteint dans 64,2% des cas.
+Un syndrome compartimental a été observé dans 40,34% des cas, des aponévrotomies ayant permis de sauver la moitié des membres atteints.
+Les patients ont eu besoin d’une moyenne de 3,91 interventions chirurgicales, 1/3 d’entre eux ayant dû être amputés et presque la moitié (49,43%) du total ayant eu besoin de chirurgie reconstructrice.
+La durée moyenne d’hospitalisation a été de 26,81 jours, la mortalité de 2,27%.
+Les électrisations par haut voltage ne sont pas rares au Cachemire, les électriciens étant des sujets à risque.
+L’incidence serait moindre si les professionnels avaient une meilleure éducation sur les dangers de l’électricité et si l’utilisation des équipements de protection était rendue obligatoire.
+
+
+Abstract
+Une proportion significative d'enfants présentant des troubles du spectre autistique (TSA) est adressée à des centres de santé mentale du fait de comportements difficiles.
+Les techniques comportementales habituelles des soignants destinées aux enfants présentant des troubles comportementaux perturbateurs doivent être adaptées aux comportements des enfants et des adolescents souffrant de TSA, qui proviennent souvent de difficultés sociales et de communication ainsi que d'une anxiété comorbide sous-jacentes. Il serait en revanche utile de recourir à des techniques comportementales centrées sur les capacités de communication, les capacités sociales, l'anxiété et la réactivité sensorielle des enfants présentant des TSA.
+Cet article résume la littérature actuelle en ce qui concerne les interventions comportementales des soignants pour les enfants présentant des TSA et donne des pistes pour la recherche et le développement de ces techniques.
+
+
+Abstract
+La création d’un bagage de connaissances commun par la conduite d’essais cliniques est essentielle pour assurer l’avancement des notions de base en médecine, étayer la prise de décisions, améliorer les soins aux patients et assurer de meilleurs résultats cliniques.
+L’établissement d’un réseau officiel et reconnu de partage des connaissances issues d’essais cliniques peut en faciliter la conduite et assurer leur bon déroulement.
+Malheureusement, la néphrologie tire de l’arrière à cet égard par rapport aux autres spécialités, un tel réseau de partage n’existe pas dans le domaine au Canada.
+C’est dans ce contexte que le 24 avril 2014, le comité des essais cliniques de la « Canadian Kidney Knowledge Translation and Generation Network » (CANN-NET) a tenu une assemblée générale afin de mobiliser les parties intéressées. On a voulu leur exposer cette lacune, tenter d’apporter des solutions et ultimement, faire progresser le bilan de la néphrologie en cette matière.
+La conférence, en collaboration avec l’assemblée générale annuelle de la Société canadienne de néphrologie, s’est tenue à Vancouver et était subventionnée conjointement par la Fondation canadienne du Rein et le CANN-NET.
+Parmi les participants, on comptait des néphrologues pratiquants associés ou non à un établissement universitaire ainsi que des administrateurs et des représentants de la Fondation canadienne du Rein.
+À l’aide de présentations structurées et de discussions de groupe, les participants ont pu observer l’état actuel des essais cliniques au pays, identifier les barrières entravant la participation à plus grande échelle à des essais entrepris sous l’initiative d’un chercheur, et discuter de stratégies pour améliorer les résultats d’essais cliniques en néphrologie au Canada.
+Le présent article fait état des thèmes abordés lors de cette assemblée et des mesures à prendre pour atteindre les objectifs fixés.
+
+
+Abstract
+Parmi les mesures évoquées pour faire face au vieillissement de la population et à l’augmentation attendue des maladies chroniques, de meilleurs partage et emploi des compétences entre les différents professionnels de santé sont souvent évoqués.
+Cet article est le compte rendu d’un colloque sur l’interprofessionnalité qui a eu lieu en Valais.
+Ont été présentées des revues de la littérature sur l’interprofessionnalité, mettant l’accent sur les preuves de l’efficacité d’une interaction entre médecins, infirmiers, pharmaciens et physiothérapeutes.
+Une analyse critique des différentes formes de coordination des soins en médecine de famille montre l’efficacité de ces approches.
+Il est toutefois nécessaire de les tester en Suisse.
+
+
+Abstract
+L'Union Internationale contre la Tuberculose et les Maladies respiratoires (L'Union) est la plus ancienne organisation non-gouvernementale impliquée dans la lutte contre la tuberculose.
+En 2008, l'Institut de L'Union a été confronté au défi de son avenir et à la nécessité d'élaborer un domaine de travail plus large en matière de santé des poumons et d'autres problèmes liés aux maladies.
+La vision adoptée par L'Union à ce moment était « Solutions de santé pour les pauvres ».
+Plus récemment a eu lieu un débat prolongé sur la nécessité pour L'Union de se concentrer seulement sur son mandat principal, c'est-à-dire la tuberculose et les maladies respiratoires, et pour sa vision, de refléter ce spectre d'activité plus étroit « Solutions de santé respiratoire pour les pauvres ».
+Dans cet article nous soulignons nos raisons de penser que ce spectre plus étroit est incompatible avec l'énoncé de mission de L'Union et nous défendons notre point de vue, c'est-à-dire que ce changement serait une erreur.
+
+
+Abstract
+Le but de cet article est de rapporter l’expérience de l’auteur, qui a effectué un stage bénévole de résident pendant six mois dans un hôpital régional au centre du Kenya.
+Les particularités qui ressortent de ce rapport sont: le caractère spécifique de l’expérience en chirurgie plastique et reconstructrice; la complexité des techniques de chirurgie réparatrice réalisées sous la surveillance d’un mentor qualifié; la confrontation avec diverses attitudes chirurgicales à travers la collaboration de différents chirurgiens plastiques bénévoles; l’amélioration de la surveillance à long terme; l’opportunité d’élargir ses connaissances chirurgicales au-delà de son champ habituel.
+Les conditions de médecine humanitaire permettent un maximum de vision et d’apprentissage, et peuvent jouer un rôle significatif dans la formation du résident.
+
+
+Abstract
+les hémangiomes sont des malformations vasculaires bénignes, d’origine endothéliale.
+Une minorité de patients avec des hémangiomes vertébraux sont symptomatiques et présentent des douleurs du cou ou du dos.
+Le déficit neurologique, occasionné par une compression de la moelle épinière, est rare et touche surtout la colonne thoracique et lombaire supérieure.
+Un traitement est indiqué si l’hémangiome vertébral est symptomatique.
+Les techniques invasives comme la chirurgie et les injections intra-lésionnelles peuvent être utilisées, mais la radiothérapie reste le traitement de choix pour les lésions douloureuses.
+Nous décrivons le cas d’un patient, présentant des douleurs dorso-lombaires, ayant deux hémangiomes localisés en d9 et l3 traités simultanément par le cyberknife® avec un certain succès, notamment du point de vue antalgique, et une toxicité très limitée.
+
+
+Abstract
+La dénutrition est un état clinique répandu chez les personnes hospitalisées et ambulatoires.
+Elle augmente la morbi-mortalité, les coûts et diminue la qualité de vie.
+Un diagnostic et une prise en charge précoces permettent de diminuer ses conséquences médico-économiques.
+Les suppléments nutritifs oraux (SNO) sont un traitement médical simple, efficace et économique pour lutter contre la dénutrition.
+Ils sont peu utilisés chez les patients ambulatoires, car méconnus.
+Cet article précise l’impact des SNO, les indications et les contre-indications, et les modalités de prescription, en se focalisant sur les patients ambulatoires.
+
+
+Abstract
+Le présent rapport décrit deux greffés du rein qui ont présenté une sporotrichose.
+De plus, les auteurs ont examiné les aspects généraux de la sporotrichose chez des greffés du rein signalés dans les publications.
+La sporotrichose, une infection fongique rare chez les greffés, s’observe surtout chez des greffés du rein qui ne reçoivent pas de prophylaxie antifongique.
+Des formes extracutanées de sporotrichose, sans manifestations cutanées et sans antécédents de lésions traumatiques, ont été décrites chez ces patients, mais elles sont difficiles à diagnostiquer.
+Les greffés du rein atteints de sporotrichose décrits dans le présent rapport ont été traités avec succès à l’aide d’un antifongique, y compris le désoxycholated d’amphotéricine B, les formulations lipidiques d’amphotéricine B, le fluconazole et l’itraconazole.
+
+
+Abstract
+Les traitements psychiatriques reposent sur un arsenal solide de modalités thérapeutiques pharmacologiques et non pharmacologiques assez efficaces pour de nombreux patients, mais qui en laissent d'autres dans un état d'incapacité chronique ou gênés par des effets indésirables problématiques.
+La planification d'un traitement en psychiatrie reste un art qui dépend beaucoup d'essais et d'erreurs, il est donc urgent de trouver de meilleurs outils pouvant apparier chaque patient au traitement le plus efficace, tout en minimisant le risque d'événements indésirables.
+Cet article concerne l'état actuel des connaissances permettant de prédire les résultats des traitements en psychiatrie.
+Les biomarqueurs génétiques et d'autres marqueurs sont mentionnés aux côtés des données cliniques, diagnostiques et familiales.
+Nous analysons les problèmes inhérents à la médecine prédictive, parallèlement aux développements récents laissant espérer que la pratique de la psychiatrie peut être améliorée en identifiant rapidement les meilleurs traitements pour chaque patient.
+
+
+Abstract
+RésuméUn spécimen de poissons africains à faible décharge électrique du genre Petrocephalus (Osteoglossomorpha, Mormyridae) collecté dans le fleuve Congo à Yangambi, Province Orientale, République Démocratique du Congo, est décrit comme une nouvelle espèce.
+Petrocephalus boboto
+
+
+Abstract
+La formation des premiers appelés et des professionnels référents est considérée comme fondamentale pour la qualité des soins aux brûlés.
+Avant 1999, le programme de formation de la société du CTB de l’hôpital MedStar de Washington DC (MWHC) était géré par des infirmières de réanimation volontaires.
+Dans le milieu des années 1990 ce programme, rencontrant un auditoire de plus en plus large, le volontariat n’était plus matériellement possible.
+Une demande de création de poste de coordinateur de formation plein-temps a été refusée par l’administration, dans un contexte de restrictions budgétaires.
+La promesse d’une augmentation des hospitalisations, d’une meilleure valorisation des séjours et d’une évaluation annuelle de l’amélioration du rapport coût/service rendu a finalement emporté la conviction.
+Ces formations, dès lors réalisées sur rendez-vous, ont quadruplé.
+Le nombre d’admissions est passé de 292 au préalable à 812 en 2008 et la surface moyenne brûlée a baissé de 10.8 à 6.9%, témoignant d’une augmentation des hospitalisations pour brûlure peu étendues. Il a, comme prévu, été observé une meilleure valorisation.
+De manière plus inattendue, les dons sont passés de 27 500$ à 183 000$ annuels avant/après.
+Notre expérience, ainsi que les résultats d’une étude nationale montre l’intérêt de la mise en place d’un coordinateur de la formation en matière de brûlures, qui a montré son intérêt médico-économique dans le CTB du MWHC.
+
+
+Abstract
+La fièvre Q chronique est une maladie au potentiel fatal.
+Le présent article traite de la difficulté à la diagnostiquer.
+Une femme de 51 ans ayant des antécédents de remplacement de la valvule aortique a consulté parce qu’elle ne se sentait généralement pas bien et présentait une pyrexie et une toux non productive occasionnelle depuis plusieurs semaine.
+Les médecins ont d’abord décelé un faible taux du titre d’immunoglobuline en phase 1 à Coxiella burnetii (1:320, décelé par immunofluorescence), lequel n’était pas considéré comme significatif selon les critères de Duke modifiés.
+Plus tard au cours de l’évolution de la maladie, les titres d’anticorps de la patiente ont atteint un taux élevé (1:1 280).
+Les auteurs explorent les enjeux relatifs au diagnostic en laboratoire et au traitement de la fièvre Q. La fièvre Q chronique peut s’associer à une réponse sérologique inadéquate.
+Il est essentiel d’assurer un suivi étroit des cas.
+Il faudrait revoir les critères sérologiques recommandés pour diagnostiquer une endocardite à fièvre Q.
+
+
+Abstract
+Les personnes âgées en situation palliative, résidant en établissements médico-sociaux, présentent des caractéristiques et des spécificités qui les distinguent des patients atteints d'un cancer avancé.
+Hormis un pronostic difficile à définir, leurs nombreuses comorbidités, leurs difficultés à communiquer en raison de troubles cognitifs, leur grande sensibilité aux effets primaires et secondaires des médicaments font que leur prise en charge représente un véritable défi pour le médecin et l'équipe soignante.
+Leur accompagnement en fin de vie pose également de nombreux problèmes éthiques, notamment lorsqu'elles ne sont plus en mesure d'exprimer leurs souhaits et que ceux-ci ne sont pas consignés dans des directives anticipées.
+
+
+Abstract
+Les brûlures de la face exposent le patient à un risque respiratoire important et l’intubation « prophylactique », avant l’hospitalisation en CTB, peut lui sauver la vie.
+Cependant, une intubation inutile peut retentir défavorablement sur l’évolution.
+De ce fait, la décision de réaliser ou non une intubation en préhospitalier reste un défi pour le clinicien.
+Une étude rétrospective a été conduite, afin de caractériser les patients brûlés de la face arrivant intubés dans le CTB de l’hôpital da Prelada, entre janvier 2009 et septembre 2013.
+Il s’agissait de définir si l’intubation était nécessaire et si elle impactait l’évolution du patient.
+Cent trente six patient ont été admis avec une brûlure faciale.
+Cinquante deux (38,2%) étaient intubés, dont 39 (75%) sur site et 13 (25%) aux urgences, en raison de la suspicion de lésions d’inhalation, qui n’a été confirmée (par bronchoscopie) que 12 fois (23%).
+Elle était de 3,6% chez les patients non intubés (n=3) et de 27% (n= 14) chez ceux arrivant intubés.
+Une brûlure de la face est un signe d’alerte de lésion des voies aériennes supérieures, et une intubation préhospitalière peut être vitale.
+Cependant, une intubation inutile peut obérer l’évolution.
+De ce fait, il est impératif de rédiger et maintenir à jour des protocoles de gestion préhospitalière des voies aériennes chez les patients brûlés, afin d’optimiser la prise en charge des brûlés de la face.
+
+
+Abstract
+Les infections de prothèses aortiques sont rares.
+En cas d’échec, l’exérèse de la prothèse infectée et son remplacement par une greffe biologique (veines saphènes ou fémoro-poplitées, allogreffe artérielle) pouvant résister à l’infection est le traitement idéal.
+Nous rapportons le cas d’une femme ayant présenté une infection de prothèse aortique, et qui a bénéficié d’une allogreffe aorto-bifémorale cryopréservée.
+L’épidémiologie, les complications potentielles et la prise en charge thérapeutique sont discutées.
+
+
+Abstract
+Pendant l’étude de 2007–2008 chez les bovins effectuée par le Système national de surveillance des maladies animales (NAHMS) du Département de l’agriculture des États-Unis (USDA), 567 producteurs provenant de 24 états américains se sont vus offrir l’opportunité de prélever des échantillons de fèces de veaux sevrés et de les faire analyser pour la présence d’oeufs de parasite (Phase 1).
+On a fourni aux producteurs participants les instructions et le matériel pour le prélèvement d’échantillon.
+Jusqu’à 20 échantillons de fèces fraiches furent prélevés de chacune des 99 opérations participantes.
+Les échantillons de fèces fraiches furent soumis de manière aléatoire pour évaluation à l’un des trois laboratoires participants.
+Suite à l’arrivée au laboratoire, tous les échantillons étaient traités pour énumération des strongles, de Nematodirus, et d’oeufs de Trichuris en utilisant la technique de Wisconsin modifiée.
+La présence ou l’absence d’ookystes de coccidie et d’oeufs de vers plats furent également notées.
+Dans les échantillons soumis et dont le nombre d’oeufs de strongles par gramme dépassait 30, des aliquots de 2 à 6 animaux étaient regroupés pour extraction de l’ADN.
+L’ADN extrait était soumis à une réaction d’amplification en chaine par la polymérase (PCR) pour une identification au genre de la présence d’ Ostertagia, de Cooperia, d’ Haemonchus, d’ Oesophagostomum, et de Trichostrongylus.
+Dans la présente étude, 85,6 % des échantillons avaient des strongles, du Nematodirus, et des oeufs de Trichuris.
+Parmi les échantillons évalués, 91 % avaient du Cooperia, 79 % de l’ Ostertagia, 53 % de l’ Haemoncus, 38 % de l’ Oesophagostomum, 18 % du Nematodirus, 7 % du Trichuris, et 3 % du Trichostrongylus.
+Les prévalences de coccidies et d’oeufs de vers plats étaient respectivement de 59,9 % et 13,7 %.
