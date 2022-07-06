@@ -4,7 +4,7 @@ This repository contains refactored versions of the testsets used in the Bio-Med
 [2016](https://statmt.org/wmt16/biomedical-translation-task.html),
 [2017](https://statmt.org/wmt17/biomedical-translation-task.html),
 [2018](https://statmt.org/wmt18/biomedical-translation-task.html),
-[2019](https://statmt.org/wmt19/biomedical-translation-task.html,
+[2019](https://statmt.org/wmt19/biomedical-translation-task.html),
 [2020](https://statmt.org/wmt20/biomedical-translation-task.html)
 (French-English). The documents have been downloaded from the [main datasource](https://github.com/biomedical-translation-corpora/corpora), then realigned at the document and the sentence level so as to provide more suitable format for MT evaluations, which typically expect sentence-aligned source target pairs. 
 
